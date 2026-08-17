@@ -1,0 +1,618 @@
+Node	Node_name	Size	Group	Core_gene_num	None_core_gene_num	Core_gene_ratio	GO_term	K12_gene	Other_genes	Function_term_short	Module_color_mapping	Region	anno_short	Function_color	SubRegion	Region_color	Node_Id	SubRegion_color
+S1_M1	Module_1	6	Group_1	4	2	0.666666667	GO:0006525; GO:0019544; GO:0019545; ArgR+; NtrC+; astCADBE; cog_1.1; kegg_1.5; GO:0006527; mbgd_14; tigr_6.2	5	1	GO:0006525; GO:00...	lightgrey	Region_3	Amino_acid_tran...	#bf7fbf	Region_3.2	#0072B5	1	#1D4ED8
+S1_M10	Module_10	2	Group_9	2	0	1		2	0	S1_M10	white	NA	10	white	NA	white	10	white
+S1_M100	Module_100	3	Group_77	0	3	0		0	3	S1_M100	white	NA	100	white	NA	white	100	white
+S1_M101	Module_101	3	Group_5	3	0	1	GO:0005886; GO:0006865; GO:0015838; GO:0016020; GO:0031460; GO:0055052; Kmodule:M00209; kegg_3.1; osmF-yehYXW; ppGpp+	3	0	GO:0005886; GO:00...	white	NA	101	white	NA	white	101	white
+S1_M102	Module_102	4	Group_31	3	1	0.75	GO:0005737; GO:0006629; GO:0006631; GO:0006635; ArcA-; FadR-; Kmodule:M00087; cog_1.3	4	0	GO:0005737; GO:00...	white	NA	Lipid_transport...	#bfffbf	NA	white	102	white
+S1_M103	Module_103	3	Module_103	3	0	1	GO:0010438; GO:0015734; GO:0016020; GO:0055052; Cbl+; CysB+; Fur-; Kmodule:M00435; cog_1.7; tauABCD	3	0	GO:0010438; GO:00...	white	NA	Inorganic_ion_t...	#dfbfff	NA	white	103	white
+S1_M104	Module_104	3	Module_104	1	2	0.333333333	GO:0015846; GO:0015847; GO:0016020; GO:0055052; Kmodule:M00300; NtrC+; kegg_3.1; potFGHI	2	1	GO:0015846; GO:00...	white	NA	Cell_wall/membr...	#bfbf7f	NA	white	104	white
+S1_M105	Module_105	3	Group_27	0	3	0	cog_1.5; kegg_3.1; tigr_13.2; GO:0004857; GO:0005515; GO:0005737; GO:0005829; GO:0008047; GO:0009401; GO:0030234; GO:0045152; CRP-+; Cra-+; FlhDC+; Mlc-; NagC-; cog_4.2; kegg_99.1; mbgd_15.1; mbgd_2.1; mbgd_2.6; ptsHI-crr; tigr_19	1	2	cog_1.5; kegg_3.1...	white	NA	105	white	NA	white	105	white
+S1_M106	Module_106	2	Module_106	0	2	0		0	2	S1_M106	white	NA	106	white	NA	white	106	white
+S1_M107	Module_107	2	Module_107	0	2	0	GO:0005515; GO:0006355; GO:0040008; GO:0044010; GO:0110001; IscR-; kegg_99.1; mbgd_15.1; rnlAB	2	0	GO:0005515; GO:00...	white	NA	107	white	NA	white	107	white
+S1_M108	Module_108	2	Module_108	2	0	1	GO:0006569; GO:0016020; CRP+; Nac-; TorR+; ZraR+; cog_1.1; mbgd_15.1; tnaCAB	2	0	GO:0006569; GO:00...	white	NA	Amino_acid_tran...	#bf7fbf	NA	white	108	white
+S1_M109	Module_109	2	Module_109	0	2	0	abpAB	2	0	abpAB	white	NA	109	white	NA	white	109	white
+S1_M11	Module_11	13	Group_10	11	2	0.846153846	cog_1.6; kegg_1.2; tigr_6.4; GO:0005886; GO:0006811; GO:0016020; GO:0045259; GO:1902600; atpIBEFHAGDC; mbgd_6; GO:0006754; GO:0015986; GO:0042777; GO:0046933; Kmodule:M00157	11	2	cog_1.6; kegg_1.2...	lightgrey	Region_1	Energy_producti...	#bfff7f	Region_1.3	#7876B1	11	#6B21A8
+S1_M110	Module_110	8	Group_31	6	2	0.75	kegg_99.1; CRP+	6	2	kegg_99.1; CRP+	white	Region_3	110	white	Region_3.2	#0072B5	110	#1D4ED8
+S1_M111	Module_111	6	Group_31	1	5	0.166666667	tigr_16.4	3	3	tigr_16.4	white	Region_3	111	white	Region_3.2	#0072B5	111	#1D4ED8
+S1_M112	Module_112	2	Module_112	2	0	1	GO:0003677; GO:0005515; GO:0006260; GO:0006269; GO:0031297; GO:1990077; GO:1990158; GO:1990159; kegg_1.1; yjjB-dnaTC-yjjA	2	0	GO:0003677; GO:00...	white	NA	Replication_rec...	#ff7fff	NA	white	112	white
+S1_M113	Module_113	2	Group_31	2	0	1	Cra+; kegg_99.1	2	0	Cra+; kegg_99.1	white	NA	113	white	NA	white	113	white
+S1_M114	Module_114	26	Group_85	21	5	0.807692308		24	2	S1_M114	thistle	Region_1	Amino_acid_tran...	#bf7fbf	Region_1.2	#7876B1	114	#D946EF
+S1_M115	Module_115	10	Module_115	8	2	0.8	cog_1.4; GO:0009228; GO:0009229; tigr_4.11; Kmodule:M00127	8	2	cog_1.4; GO:00092...	white	Region_2	Coenzyme_transp...	#bf7fff	Region_2.1	#E18727	115	#FDE047
+S1_M116	Module_116	2	Group_5	2	0	1	kegg_99.1	2	0	kegg_99.1	white	NA	116	white	NA	white	116	white
+S1_M117	Module_117	2	Module_117	2	0	1	GO:0009236; GO:0016740; Kmodule:M00122; cobUST; cog_1.4; kegg_1.9; tigr_4.3	2	0	GO:0009236; GO:00...	white	NA	Coenzyme_transp...	#bf7fff	NA	white	117	white
+S1_M118	Module_118	2	Module_118	2	0	1	FlhDC+; kegg_99.1; mbgd_15.1; ppdAB-ygdB-ppdC-recC	2	0	FlhDC+; kegg_99.1...	white	NA	118	white	NA	white	118	white
+S1_M119	Module_119	5	Module_119	4	1	0.8	GO:0042128; OmpR+; narUZYWV; GO:0005886; GO:0016020; kegg_1.2	5	0	GO:0042128; OmpR+...	white	Region_3	119	white	Region_3.2	#0072B5	119	#1D4ED8
+S1_M12	Module_12	2	Module_12	1	1	0.5	GO:0005515; GO:0005886; GO:0006616; GO:0006886; GO:0008320; GO:0009306; GO:0015031; GO:0015450; GO:0016020; GO:0031522; GO:0043952; GO:0065002; Kmodule:M00335; Nac-; cog_3.1; cog_4.2; kegg_3.1; kegg_99.1; mbgd_15.1; mbgd_2.5; tigr_10.1; tigr_19	1	1	GO:0005515; GO:00...	white	NA	12	white	NA	white	12	white
+S1_M120	Module_120	11	Group_14	11	0	1	rfe-wzzE-wecBC-rffGHC-wecE-wzxE-wecF-wzyE-rffM; GO:0009246; NsrR-; cog_3.4	11	0	rfe-wzzE-wecBC-rf...	white	Region_2	Cell_wall/membr...	#bfbf7f	Region_2.2	#E18727	120	#EA580C
+S1_M121	Module_121	2	Module_121	0	2	0		0	2	S1_M121	white	NA	121	white	NA	white	121	white
+S1_M122	Module_122	4	Module_122	1	3	0.25	cog_1.5; kegg_1.1; mbgd_14; tigr_7.1; GO:0003824; GO:0016491; GO:0016616; GO:0019594; ArcA-; Kmodule:M00061; yeiQ	2	2	cog_1.5; kegg_1.1...	white	NA	Carbohydrate_tr...	#bfffff	NA	white	122	white
+S1_M123	Module_123	6	Module_123	1	5	0.166666667	cog_3.7; mbgd_7.6; kegg_3.2; tigr_11.4; kegg_99.1; tigr_11.8; GO:0005515; GO:0005886; GO:0009410; GO:0009636; GO:0015125; GO:0015567; GO:0015721; GO:0015895; GO:0015908; GO:0016020; GO:0022857; GO:0030288; GO:0042802; GO:0042908; GO:0046677; GO:0055085; GO:0098567; GO:0140330; GO:1990281; AcrR-; EnvR-; Kmodule:M00646; Kmodule:M00647; MarA+; MprA-; PhoP-; PtrR+; Rob+; SoxS+; acrAB	1	5	cog_3.7; mbgd_7.6...	white	Region_2	Defense_mechani...	#afbfaf	Region_2.2	#E18727	123	#EA580C
+S1_M124	Module_124	3	Module_124	0	3	0	mbgd_15.1; GO:0016020; kegg_1.1	2	1	mbgd_15.1; GO:001...	white	NA	124	white	NA	white	124	white
+S1_M125	Module_125	2	Group_14	2	0	1	GO:0009103; GO:0009244; GO:0016740; GO:0016757; cog_3.4; kegg_1.7; rfaDFCL; tigr_14.3	2	0	GO:0009103; GO:00...	white	NA	Cell_wall/membr...	#bfbf7f	NA	white	125	white
+S1_M126	Module_126	5	Group_31	4	1	0.8	GO:0006635; ArcA-; FadR-; cog_1.3	4	1	GO:0006635; ArcA-...	white	Region_3	Lipid_transport...	#bfffbf	Region_3.2	#0072B5	126	#1D4ED8
+S1_M127	Module_127	7	Group_94	7	0	1	GO:0000162; GO:0008652; GO:0009073; GO:0016829; GcvB-; Kmodule:M00023; RydC+; TrpR-; cog_1.1; kegg_1.5; mbgd_1.1; tigr_1.1; trpLEDCBA	7	0	GO:0000162; GO:00...	white	Region_1	Amino_acid_tran...	#bf7fbf	Region_1.2	#7876B1	127	#D946EF
+S1_M128	Module_128	3	Module_128	3	0	1	mbgd_15.1	3	0	mbgd_15.1	white	NA	128	white	NA	white	128	white
+S1_M129	Module_129	7	Module_129	0	7	0		0	7	S1_M129	white	Region_3	129	white	Region_3.4	#0072B5	129	white
+S1_M13	Module_13	2	Module_13	0	2	0	cog_4.2; kegg_99.1; mbgd_15.1; tigr_19; ymfED	2	0	cog_4.2; kegg_99....	white	NA	13	white	NA	white	13	white
+S1_M130	Module_130	3	Module_130	2	1	0.666666667	kegg_99.1; GO:0034605; BtsR-; RpoN-; mbgd_15.1; yobF-cspC	2	1	kegg_99.1; GO:003...	white	NA	130	white	NA	white	130	white
+S1_M131	Module_131	2	Module_131	0	2	0		0	2	S1_M131	white	NA	131	white	NA	white	131	white
+S1_M132	Module_132	6	Group_27	1	5	0.166666667	cog_1.6; kegg_1.1; mbgd_15.1; kegg_3.2; mbgd_15; tigr_19; tigr_7.1; GO:0005469; GO:0005515; GO:0005886; GO:0009061; GO:0015293; GO:0015297; GO:0015556; GO:0015740; GO:0015741; GO:0016020; GO:0055085; GO:0071422; ArcA+; CRP+; DcuR+; FNR+; NarL-; cog_1.1; cog_1.5; cog_4.2; dcuB-fumB; kegg_99.1; mbgd_6.13; tigr_11.3; tigr_9.2	1	5	cog_1.6; kegg_1.1...	white	Region_3	132	white	Region_3.1	#0072B5	132	#06B6D4
+S1_M133	Module_133	9	Module_133	6	3	0.666666667	GO:0006865; GO:0015803; GO:0016020; GO:0055052; kegg_3.1; GO:0015823; Kmodule:M00237; cog_1.1; livKHMGF	6	3	GO:0006865; GO:00...	white	Region_2	Amino_acid_tran...	#bf7fbf	Region_2.1	#E18727	133	#FDE047
+S1_M134	Module_134	3	Module_134	3	0	1		3	0	S1_M134	white	NA	134	white	NA	white	134	white
+S1_M135	Module_135	3	Group_5	1	2	0.333333333	cog_1.1; kegg_1.5; mbgd_15.1; tigr_16.4; GO:0003824; GO:0005515; GO:0005737; GO:0006520; GO:0006554; GO:0008923; GO:0016829; GO:0016831; GO:0042802; GlaR-; ldcC; tigr_14.3	1	2	cog_1.1; kegg_1.5...	white	NA	Amino_acid_tran...	#bf7fbf	NA	white	135	white
+S1_M136	Module_136	3	Module_136	0	3	0	GO:0003677	3	0	GO:0003677	white	NA	136	white	NA	white	136	white
+S1_M137	Module_137	2	Module_137	0	2	0		0	2	S1_M137	white	NA	137	white	NA	white	137	white
+S1_M138	Module_138	6	Module_138	3	3	0.5	cog_1.1; cog_4.2; mbgd_15.1; mbgd_7.1; tigr_11.1; tigr_19	3	3	cog_1.1; cog_4.2;...	white	Region_2	138	white	Region_2.2	#E18727	138	#EA580C
+S1_M139	Module_139	8	Module_139	4	4	0.5	CRP+; LsrR-; cog_1.5	7	1	CRP+; LsrR-; cog_1.5	white	Region_3	Carbohydrate_tr...	#bfffff	Region_3.2	#0072B5	139	#1D4ED8
+S1_M14	Module_14	2	Module_14	0	2	0	GO:0003677; GO:0005515; GO:0040008; GO:0044010; GO:0045892; GO:0110001; DinJ-YafQ-; LexA-; Nac-; SrsR+; dinJ-yafQ; kegg_99.1; tigr_16.4	2	0	GO:0003677; GO:00...	white	NA	14	white	NA	white	14	white
+S1_M140	Module_140	4	Module_140	0	4	0	RelB-; RelBE-; relBE-hokD	3	1	RelB-; RelBE-; re...	white	NA	140	white	NA	white	140	white
+S1_M141	Module_141	3	Module_141	1	2	0.333333333	GO:0004030; GO:0004777; GO:0006099; GO:0006527; GO:0009013; GO:0009447; GO:0009450; GO:0016491; GO:0016620; GO:0036243; GO:0042803; GO:0070458; Lrp+; PtrR+; cog_1.3; cog_3.7; cog_4.2; kegg_1.5; kegg_3.1; kegg_99.1; mbgd_14; mbgd_15.1; mbgd_6.12; sad-glsB-yneG; tigr_11.1; tigr_16.4; tigr_19	1	2	GO:0004030; GO:00...	white	NA	141	white	NA	white	141	white
+S1_M142	Module_142	4	Module_142	4	0	1	GO:0006777; CsrA+; CueR-; FNR+; ModE+; cog_1.4; moaABCDE; tigr_4.6	4	0	GO:0006777; CsrA+...	white	NA	Coenzyme_transp...	#bf7fff	NA	white	142	white
+S1_M143	Module_143	5	Module_143	5	0	1	FNR+; NarL-; NarP-; ydhYVWXUT; GO:0046872	5	0	FNR+; NarL-; NarP...	white	Region_3	143	white	Region_3.1	#0072B5	143	#06B6D4
+S1_M144	Module_144	3	Module_144	3	0	1	GO:0005515; GO:0005886; GO:0016020; ftsYEX	3	0	GO:0005515; GO:00...	white	NA	144	white	NA	white	144	white
+S1_M145	Module_145	9	Group_1	3	6	0.333333333	cog_1.1; kegg_1.5	6	3	cog_1.1; kegg_1.5	white	Region_3	Amino_acid_tran...	#bf7fbf	Region_3.2	#0072B5	145	#1D4ED8
+S1_M146	Module_146	2	Group_40	1	1	0.5	mbgd_15.1; yfeKS	2	0	mbgd_15.1; yfeKS	white	NA	146	white	NA	white	146	white
+S1_M147	Module_147	8	Group_31	6	2	0.75		8	0	S1_M147	white	Region_3	147	white	Region_3.4	#0072B5	147	white
+S1_M148	Module_148	2	Module_148	1	1	0.5	kegg_99.1; mbgd_15.1; GO:0005515; GO:0005886; GO:0010447; GO:0016020; GO:0071286; PhoP+; cog_1.2; cog_3.2; tigr_10.2; tigr_3.1	1	1	kegg_99.1; mbgd_1...	white	NA	148	white	NA	white	148	white
+S1_M149	Module_149	2	Module_149	2	0	1	GO:0005829; mbgd_15.1	2	0	GO:0005829; mbgd_...	white	NA	149	white	NA	white	149	white
+S1_M15	Module_15	4	Group_14	4	0	1	GO:0005515; GO:0005886; GO:0016020; ybgC-tolQRA	4	0	GO:0005515; GO:00...	white	NA	15	white	NA	white	15	white
+S1_M150	Module_150	2	Module_150	2	0	1	GO:0005829; GO:0016787; ansA-pncA	2	0	GO:0005829; GO:00...	white	NA	150	white	NA	white	150	white
+S1_M151	Module_151	2	Module_151	0	2	0	GO:0000166; GO:0004176; GO:0005515; GO:0005524; GO:0005737; GO:0005829; GO:0006508; GO:0006515; GO:0006979; GO:0009368; GO:0016887; GO:0034605; GO:0043335; clpB; cog_3.2; cog_4.2; kegg_1.1; kegg_99.1; mbgd_15.1; mbgd_4.7; tigr_10.3; tigr_19	1	1	GO:0000166; GO:00...	white	NA	Posttranslation...	#bf8f8f	NA	white	151	white
+S1_M152	Module_152	3	Module_152	3	0	1	GO:0030244; bcsEFG; mbgd_15.1; tigr_14.3	3	0	GO:0030244; bcsEF...	white	NA	152	white	NA	white	152	white
+S1_M153	Module_153	7	Module_153	4	3	0.571428571	cog_3.7; GO:0005886; GO:0055085; yhiI-rbbA-yhhJ	4	3	cog_3.7; GO:00058...	white	Region_2	Defense_mechani...	#afbfaf	Region_2.2	#E18727	153	#EA580C
+S1_M154	Module_154	3	Group_36	3	0	1		3	0	S1_M154	white	NA	154	white	NA	white	154	white
+S1_M155	Module_155	3	Module_155	3	0	1		3	0	S1_M155	white	NA	155	white	NA	white	155	white
+S1_M156	Module_156	5	Module_156	4	1	0.8	cog_1.1; mbgd_1.3; tigr_1.4; GO:0005829; GO:0009098; Kmodule:M00432; LeuO+; leuLABCD; ppGpp+	4	1	cog_1.1; mbgd_1.3...	white	Region_2	Amino_acid_tran...	#bf7fbf	Region_2.1	#E18727	156	#FDE047
+S1_M157	Module_157	3	Group_36	3	0	1	GO:0005829; GO:0016740; GO:0019563; GO:0046835; GO:0047324; GO:1990234; DhaR+; SrsR+; cog_1.5; dhaKLM	3	0	GO:0005829; GO:00...	white	NA	Carbohydrate_tr...	#bfffff	NA	white	157	white
+S1_M158	Module_158	9	Group_76	6	3	0.666666667	GO:0009103; GO:0009244; rirA-rfaQGPSBIJYZ-waaU; GO:0016740	9	0	GO:0009103; GO:00...	white	Region_1	Cell_wall/membr...	#bfbf7f	Region_1.4	#7876B1	158	#2E0854
+S1_M159	Module_159	2	Module_159	2	0	1		2	0	S1_M159	white	NA	159	white	NA	white	159	white
+S1_M16	Module_16	4	Module_16	4	0	1	BluR-; MarA+; mbgd_15.1; ycgZ-ymgA-ariR-ymgC	4	0	BluR-; MarA+; mbg...	white	NA	16	white	NA	white	16	white
+S1_M160	Module_160	2	Group_119	2	0	1	kegg_99.1; ygiF-glnE	2	0	kegg_99.1; ygiF-glnE	white	NA	160	white	NA	white	160	white
+S1_M161	Module_161	3	Module_161	0	3	0		0	3	S1_M161	white	NA	161	white	NA	white	161	white
+S1_M162	Module_162	8	Module_162	8	0	1	GO:0006281; GO:0009432; LexA-	8	0	GO:0006281; GO:00...	white	Region_3	162	white	Region_3.4	#0072B5	162	white
+S1_M163	Module_163	6	Module_163	6	0	1	CRP+; Cra-; PrpR+; kegg_1.1; prpBCDE	6	0	CRP+; Cra-; PrpR+...	white	Region_3	163	white	Region_3.2	#0072B5	163	#1D4ED8
+S1_M164	Module_164	6	Group_27	6	0	1	GO:0015675; GO:0016020; GO:0016151; GO:0055052; GO:0098716; Cra+; FNR+; NarL-; NikR-; nikABCDER; GO:0055085	6	0	GO:0015675; GO:00...	white	Region_3	164	white	Region_3.1	#0072B5	164	#06B6D4
+S1_M165	Module_165	3	Module_165	3	0	1	FrmR-; frmRAB	3	0	FrmR-; frmRAB	white	NA	165	white	NA	white	165	white
+S1_M166	Module_166	3	Group_124	3	0	1	cog_1.5	3	0	cog_1.5	white	NA	Carbohydrate_tr...	#bfffff	NA	white	166	white
+S1_M167	Module_167	2	Module_167	1	1	0.5	kegg_99.1; mbgd_15.1; tigr_19; GO:0005886; GO:0016020; LldR+; cog_1.8; cog_4.2	1	1	kegg_99.1; mbgd_1...	white	NA	167	white	NA	white	167	white
+S1_M168	Module_168	4	Group_77	0	4	0		0	4	S1_M168	white	NA	168	white	NA	white	168	white
+S1_M169	Module_169	2	Module_169	0	2	0		0	2	S1_M169	white	NA	169	white	NA	white	169	white
+S1_M17	Module_17	6	Group_16	4	2	0.666666667	ArcA-; PuuR-; GO:0009447	6	0	ArcA-; PuuR-; GO:...	white	Region_2	17	white	Region_2.1	#E18727	17	#FDE047
+S1_M170	Module_170	6	Group_36	4	2	0.666666667	mbgd_15.1; GO:0005886; GO:0016020; Fur+; cog_1.5; kegg_1.1; manXYZ-yobD; tigr_13.2	4	2	mbgd_15.1; GO:000...	white	Region_1	170	white	Region_1.4	#7876B1	170	#2E0854
+S1_M171	Module_171	2	Module_171	2	0	1	GO:0006950; mbgd_15.1	2	0	GO:0006950; mbgd_...	white	NA	171	white	NA	white	171	white
+S1_M172	Module_172	4	Module_172	4	0	1		4	0	S1_M172	white	NA	172	white	NA	white	172	white
+S1_M173	Module_173	6	Module_173	6	0	1		6	0	S1_M173	white	Region_3	173	white	Region_3.4	#0072B5	173	white
+S1_M174	Module_174	4	Module_174	2	2	0.5	mbgd_15.1; kegg_99.1; tigr_19	3	1	mbgd_15.1; kegg_9...	white	NA	174	white	NA	white	174	white
+S1_M175	Module_175	4	Module_175	2	2	0.5		4	0	S1_M175	white	NA	175	white	NA	white	175	white
+S1_M176	Module_176	2	Module_176	2	0	1	GO:0005829; GO:0008652; GO:0009085; GO:0009089; ArgP+; Kmodule:M00016; Kmodule:M00525; Kmodule:M00526; Kmodule:M00527; cog_1.1; kegg_1.5; tigr_1.2	2	0	GO:0005829; GO:00...	white	NA	Amino_acid_tran...	#bf7fbf	NA	white	176	white
+S1_M177	Module_177	2	Module_177	2	0	1	mbgd_14; tag-yiaC	2	0	mbgd_14; tag-yiaC	white	NA	177	white	NA	white	177	white
+S1_M178	Module_178	2	Module_178	2	0	1	GO:0030091; GO:0046872; CusR+; HprR+; PhoB+; cog_1.6; hiuH-msrPQ; kegg_99.1	2	0	GO:0030091; GO:00...	white	NA	Energy_producti...	#bfff7f	NA	white	178	white
+S1_M179	Module_179	20	Group_29	17	3	0.85	cog_1.2	18	2	cog_1.2	lightgrey	Region_1	Nucleotide_tran...	#ff7f7f	Region_1.2	#7876B1	179	#D946EF
+S1_M18	Module_18	39	Group_17	27	12	0.692307692		32	7	S1_M18	salmon	Region_1	Signal_transduc...	#ff7fbf	Region_1.1	#7876B1	18	#E8D5FF
+S1_M180	Module_180	5	Module_180	0	5	0		0	5	S1_M180	white	Region_3	180	white	Region_3.4	#0072B5	180	white
+S1_M181	Module_181	2	Group_14	2	0	1	GO:0005737	2	0	GO:0005737	white	NA	181	white	NA	white	181	white
+S1_M182	Module_182	2	Module_182	2	0	1	GO:0005737; murB-birA	2	0	GO:0005737; murB-...	white	NA	182	white	NA	white	182	white
+S1_M183	Module_183	2	Module_183	2	0	1	cog_1.1; mnaT-ydcZ	2	0	cog_1.1; mnaT-ydcZ	white	NA	Amino_acid_tran...	#bf7fbf	NA	white	183	white
+S1_M184	Module_184	2	Module_184	0	2	0	Nac-; cbrBC; kegg_99.1; mbgd_15.1	2	0	Nac-; cbrBC; kegg...	white	NA	184	white	NA	white	184	white
+S1_M185	Module_185	2	Group_139	2	0	1	GO:0005515; tigr_16.4	2	0	GO:0005515; tigr_...	white	NA	185	white	NA	white	185	white
+S1_M186	Module_186	9	Group_14	9	0	1		9	0	S1_M186	white	Region_2	186	white	Region_2.2	#E18727	186	#EA580C
+S1_M187	Module_187	2	Group_27	2	0	1	GO:0005737; GO:0016491; GO:0042803; GO:0043957; cog_4.1; kegg_1.1; mbgd_7.6; tigr_18.1; yhdH	2	0	GO:0005737; GO:00...	white	NA	187	white	NA	white	187	white
+S1_M188	Module_188	6	Group_140	4	2	0.666666667	CdaR+; GO:0042838; FNR+; Fur-; H-NS-; garPLRK-rnpB; kegg_1.5	5	1	CdaR+; GO:0042838...	white	Region_3	188	white	Region_3.2	#0072B5	188	#1D4ED8
+S1_M189	Module_189	3	Module_189	3	0	1	GO:0000160; GO:0005515; GO:0005737; GO:0005829; GO:0042802; GO:0042803; Kmodule:M00454; cog_3.3; kdpDE; kegg_3.2; tigr_12.4	3	0	GO:0000160; GO:00...	white	NA	Signal_transduc...	#ff7fbf	NA	white	189	white
+S1_M19	Module_19	19	Module_19	16	3	0.842105263	cog_1.6; kegg_1.2; GO:0003954; GO:0005886; GO:0016020; GO:0022904; GO:0030964; GO:0045271; GO:0048038; ArcA-; Cra+; FNR-; Fis+; IHF-; Kmodule:M00144; NarL+; RyhB-; nuoABCEFGHIJKLMN; GO:0008137; tigr_6.5	16	3	cog_1.6; kegg_1.2...	white	Region_1	Energy_producti...	#bfff7f	Region_1.3	#7876B1	19	#6B21A8
+S1_M190	Module_190	3	Group_142	3	0	1	Zur-	3	0	Zur-	white	NA	190	white	NA	white	190	white
+S1_M191	Module_191	2	Module_191	1	1	0.5	GO:0005298; GO:0005886; GO:0006811; GO:0006814; GO:0006865; GO:0015193; GO:0015293; GO:0015824; GO:0015912; GO:0016020; GO:0022857; GO:0031402; GO:0035524; GO:0055085; GO:1905039; ArcA-; CRP-; PutA-; cog_1.1; cog_1.2; kegg_1.5; kegg_1.9; mbgd_15.1; mbgd_5; putP; tigr_11.1; tigr_11.5	1	1	GO:0005298; GO:00...	white	NA	191	white	NA	white	191	white
+S1_M192	Module_192	14	Group_14	9	5	0.642857143	GO:0005829	13	1	GO:0005829	white	Region_2	Translation_rib...	#ffbfbf	Region_2.2	#E18727	192	#EA580C
+S1_M193	Module_193	3	Group_144	3	0	1	GO:0004368; GO:0005886; GO:0009061; GO:0009331; GO:0016020; GO:0016491; GO:0019563; GO:0046168; ArcA-; BasR+; CRP+; FNR+; Fis+; FlhDC+; GlpR-; glpABC; tigr_6.3	3	0	GO:0004368; GO:00...	white	NA	193	white	NA	white	193	white
+S1_M194	Module_194	4	Module_194	3	1	0.75		4	0	S1_M194	white	NA	194	white	NA	white	194	white
+S1_M195	Module_195	2	Module_195	2	0	1	GO:0005886; GO:0016020; cog_3.2; qmcA-ybbJ	2	0	GO:0005886; GO:00...	white	NA	Posttranslation...	#bf8f8f	NA	white	195	white
+S1_M196	Module_196	3	Group_27	3	0	1	GO:0005886; GO:0006788; GO:0009055; GO:0009061; GO:0009326; GO:0015944; GO:0016020; GO:0019645; GO:0036397; GO:0045333; GO:0046872; FNR-+; NarL+; NarP-; cog_1.6; fdnGHI	3	0	GO:0005886; GO:00...	white	NA	Energy_producti...	#bfff7f	NA	white	196	white
+S1_M197	Module_197	7	Module_197	5	2	0.714285714	kegg_99.1; mbgd_15.1	6	1	kegg_99.1; mbgd_15.1	white	Region_3	197	white	Region_3.4	#0072B5	197	white
+S1_M198	Module_198	4	Group_14	4	0	1		4	0	S1_M198	white	NA	198	white	NA	white	198	white
+S1_M199	Module_199	3	Group_148	3	0	1		3	0	S1_M199	white	NA	199	white	NA	white	199	white
+S1_M2	Module_2	12	Group_2	12	0	1	GO:0005737	12	0	GO:0005737	white	Region_2	Translation_rib...	#ffbfbf	Region_2.2	#E18727	2	#EA580C
+S1_M20	Module_20	5	Group_19	5	0	1	GO:0005737; ygfB-pepP-ubiHI	5	0	GO:0005737; ygfB-...	white	Region_3	20	white	Region_3.4	#0072B5	20	white
+S1_M200	Module_200	5	Module_200	5	0	1	GO:0005886; GO:0016020; IHF+; PspF+; GO:0005515; GO:0009271; kegg_99.1; pspABCDE; tigr_15.9	5	0	GO:0005886; GO:00...	white	Region_3	200	white	Region_3.4	#0072B5	200	white
+S1_M201	Module_201	2	Module_201	2	0	1	GadX-; ynfB-speG	2	0	GadX-; ynfB-speG	white	NA	201	white	NA	white	201	white
+S1_M202	Module_202	8	Group_3	8	0	1	kegg_1.1	8	0	kegg_1.1	white	Region_1	Carbohydrate_tr...	#bfffff	Region_1.4	#7876B1	202	#2E0854
+S1_M203	Module_203	2	Module_203	2	0	1	GO:0005886; GO:0016020; hemCDXY; mbgd_15.1	2	0	GO:0005886; GO:00...	white	NA	203	white	NA	white	203	white
+S1_M204	Module_204	3	Group_29	2	1	0.666666667	FnrS-; MetJ-; SgrS-; folE-yeiB; mbgd_15.1	2	1	FnrS-; MetJ-; Sgr...	white	NA	204	white	NA	white	204	white
+S1_M205	Module_205	7	Group_152	6	1	0.857142857	GO:0008652; GO:0009082; GO:0009097; IHF-+; Kmodule:M00570; Lrp-; cog_1.1; ilvLXG_1G_2MEDA; ppGpp+; GO:0003824; tigr_1.4	6	1	GO:0008652; GO:00...	white	Region_2	Amino_acid_tran...	#bf7fbf	Region_2.1	#E18727	205	#FDE047
+S1_M206	Module_206	2	Module_206	2	0	1	GO:0005829; GO:0006004; GO:0019317; GO:0042355; GO:0046872; CRP+; FucR+; SrsR+; fucAO; kegg_1.1	2	0	GO:0005829; GO:00...	white	NA	206	white	NA	white	206	white
+S1_M207	Module_207	5	Group_3	5	0	1	GO:0005515; GO:0005829; GO:0008652; GO:0046872; GO:0004355; GO:0006537; GO:0009342; GO:0016491; GO:0019676; GO:0051536; GO:0097054; AdiY+; ArgR-; CRP-; FNR-; Fur-; GadE+; HdfR+; IHF+; Lrp+; Nac-; cog_1.1; gltBDF; kegg_1.2; mbgd_1.4	5	0	GO:0005515; GO:00...	white	Region_2	Amino_acid_tran...	#bf7fbf	Region_2.1	#E18727	207	#FDE047
+S1_M208	Module_208	2	Module_208	2	0	1	cog_2.5; rsmD-yhhL	2	0	cog_2.5; rsmD-yhhL	white	NA	Translation_rib...	#ffbfbf	NA	white	208	white
+S1_M209	Module_209	2	Module_209	0	2	0		0	2	S1_M209	white	NA	209	white	NA	white	209	white
+S1_M21	Module_21	3	Group_14	2	1	0.666666667	GO:0016740; cog_1.3; dxr-uppS-cdsA	2	1	GO:0016740; cog_1...	white	NA	21	white	NA	white	21	white
+S1_M210	Module_210	3	Module_210	3	0	1	CRP+; MurR-; kegg_1.1; murQP-yfeW	3	0	CRP+; MurR-; kegg...	white	NA	210	white	NA	white	210	white
+S1_M211	Module_211	2	Group_63	1	1	0.5	ArcA-; GlcC+; IHF+; PdhR-; glcDEFGBA	2	0	ArcA-; GlcC+; IHF...	white	NA	211	white	NA	white	211	white
+S1_M212	Module_212	2	Module_212	2	0	1	GO:0000166; GO:0003824; GO:0006974; GO:0008254; GO:0008663; GO:0009117; GO:0009166; GO:0016787; GO:0016788; GO:0030288; GO:0042597; GO:0046872; CRP+; Nac-; cog_1.2; cpdB; kegg_1.4; mbgd_1.1; tigr_10.1	2	0	GO:0000166; GO:00...	white	NA	Nucleotide_tran...	#ff7f7f	NA	white	212	white
+S1_M213	Module_213	9	Group_144	7	2	0.777777778	MalT+	7	2	MalT+	white	Region_1	Carbohydrate_tr...	#bfffff	Region_1.4	#7876B1	213	#2E0854
+S1_M214	Module_214	3	Group_27	3	0	1	GO:0003954; GO:0004159; GO:0005515; GO:0006208; GO:0006210; GO:0006212; GO:0016491; GO:0051536; GO:0051539; GO:0140690; GO:1990204; CRP+; Kmodule:M00046; kegg_1.2; preTA	3	0	GO:0003954; GO:00...	white	NA	214	white	NA	white	214	white
+S1_M215	Module_215	4	Group_158	4	0	1	GO:0005515; GO:0042867; GO:0045254; ArcA-; BtsR-; Cra-; FNR-+; Kmodule:M00307; PdhR-; cog_1.6; kegg_1.1; pdhR-aceEF-lpdA	4	0	GO:0005515; GO:00...	white	NA	Energy_producti...	#bfff7f	NA	white	215	white
+S1_M216	Module_216	10	Group_31	8	2	0.8	cog_1.6; tigr_6.12; GO:0005829; GO:0006099; Kmodule:M00009; kegg_1.1; GO:0005515; GO:0005737; CRP+	8	2	cog_1.6; tigr_6.1...	white	Region_1	Energy_producti...	#bfff7f	Region_1.3	#7876B1	216	#6B21A8
+S1_M217	Module_217	2	Group_14	2	0	1	GO:0005515; csdAE; tigr_16.4	2	0	GO:0005515; csdAE...	white	NA	217	white	NA	white	217	white
+S1_M218	Module_218	3	Module_218	3	0	1	yrdD-rimN-aroE-yrdB	3	0	yrdD-rimN-aroE-yrdB	white	NA	218	white	NA	white	218	white
+S1_M219	Module_219	2	Module_219	1	1	0.5	mbgd_15.1; tigr_19; GO:0005515; GO:0005886; GO:0010350; GO:0010960; GO:0016020; Nac+; PhoP+; cog_4.1; cog_4.2; kegg_1.6; kegg_99.1	1	1	mbgd_15.1; tigr_1...	white	NA	219	white	NA	white	219	white
+S1_M22	Module_22	5	Module_22	0	5	0	CRP+; SlyA-; sgcXBCQAER; cog_1.5; mbgd_15.1	5	0	CRP+; SlyA-; sgcX...	white	Region_3	Carbohydrate_tr...	#bfffff	Region_3.2	#0072B5	22	#1D4ED8
+S1_M220	Module_220	3	Module_220	3	0	1	GO:0004459; cog_1.6; mbgd_4.3; ykgEFG	3	0	GO:0004459; cog_1...	white	NA	Energy_producti...	#bfff7f	NA	white	220	white
+S1_M221	Module_221	12	Group_27	12	0	1	GO:0005829; Cra-; kegg_1.1	12	0	GO:0005829; Cra-;...	white	Region_2	Carbohydrate_tr...	#bfffff	Region_2.2	#E18727	221	#EA580C
+S1_M222	Module_222	3	Module_222	0	3	0	kegg_99.1; mbgd_15.1; tigr_19; cog_4.2; cog_3.3	1	2	kegg_99.1; mbgd_1...	white	NA	222	white	NA	white	222	white
+S1_M223	Module_223	3	Module_223	3	0	1	FnrS-; yobA-yebZY	3	0	FnrS-; yobA-yebZY	white	NA	223	white	NA	white	223	white
+S1_M224	Module_224	4	Group_27	1	3	0.25	cog_1.5; kegg_1.1; tigr_13.2; mbgd_6; GO:0005515; GO:0005737; GO:0005829; GO:0009401; GO:0009898; GO:0016020; GO:0016301; GO:0016740; GO:0034763; GO:0046872; GO:1902344; GO:1902495; GO:1990154; CRP-+; Cra-+; Kmodule:M00266; Kmodule:M00268; Kmodule:M00303; Mlc-; NagC-; cog_4.2; kegg_99.1; mbgd_11.1; mbgd_15.1; ptsHI-crr; tigr_19	1	3	cog_1.5; kegg_1.1...	white	NA	224	white	NA	white	224	white
+S1_M225	Module_225	3	Module_225	3	0	1	GO:0005515; GO:0005886; GO:0016020; GO:0022857; GO:0042802; GO:0042893; GO:0042897; GO:0046677; GO:1990196; GO:1990961; Kmodule:M00709; macAB; mbgd_7.6	3	0	GO:0005515; GO:00...	white	NA	225	white	NA	white	225	white
+S1_M226	Module_226	4	Module_226	4	0	1		4	0	S1_M226	white	NA	226	white	NA	white	226	white
+S1_M227	Module_227	2	Group_139	2	0	1	GO:0005515; aroKB-damX-dam-rpe-gph-trpS	2	0	GO:0005515; aroKB...	white	NA	227	white	NA	white	227	white
+S1_M228	Module_228	5	Group_27	4	1	0.8	GO:0019645; FNR+; Fis-; FlhDC+; IHF-+; NarL-+; NarP+; NsrR-; nrfABCDEFG	4	1	GO:0019645; FNR+;...	white	Region_3	228	white	Region_3.1	#0072B5	228	#06B6D4
+S1_M229	Module_229	3	Module_229	2	1	0.666666667	GO:0005506; GO:0006979; GO:0016491; GO:0016903; GO:0022900; GO:0043873; GO:0046872; GO:0051536; GO:0051539; Kmodule:M00173; Kmodule:M00307; SoxS+; cog_1.6; kegg_1.1; mbgd_5; tigr_16.4; ydbK-ompN	2	1	GO:0005506; GO:00...	white	NA	229	white	NA	white	229	white
+S1_M23	Module_23	6	Module_23	6	0	1		6	0	S1_M23	white	Region_3	23	white	Region_3.4	#0072B5	23	white
+S1_M230	Module_230	4	Group_16	3	1	0.75	GO:0009447; ArcA-; CRP-; PtrR-; PuuR-; cog_1.1; kegg_1.5; puuDRCBE	4	0	GO:0009447; ArcA-...	white	NA	Amino_acid_tran...	#bf7fbf	NA	white	230	white
+S1_M231	Module_231	3	Module_231	1	2	0.333333333	cog_4.2; kegg_99.1; mbgd_15.1; tigr_19; GO:0001530; GO:0005216; GO:0005515; GO:0006811; GO:0008289; GO:0009279; GO:0015031; GO:0015288; GO:0016020; GO:0034220; GO:0034702; GO:0042802; GO:0042912; GO:0043213; GO:0046930; GO:0070207; GO:0097718; CRP+; CpxR-; EnvY+; Fur+; IHF-+; MicF-; Nac-; OmpR-+; PhoB+; RstA-; RybB-; tigr_1.6	1	2	cog_4.2; kegg_99....	white	NA	231	white	NA	white	231	white
+S1_M232	Module_232	2	Module_232	2	0	1	GO:0000166; GO:0005524; GO:0005886; GO:0006865; GO:0015439; GO:0016020; GO:0016887; GO:0033228; GO:0034775; GO:0035351; GO:0043190; GO:0045454; GO:0055051; GO:0055085; GO:0140359; GO:1903605; ArcA+; FNR+; FnrS-; NarL+; cog_3.2; cydDC; kegg_3.1; mbgd_7.6; tigr_11.1	2	0	GO:0000166; GO:00...	white	NA	Posttranslation...	#bf8f8f	NA	white	232	white
+S1_M233	Module_233	3	Module_233	3	0	1	GO:0005829; yibN-grxC-secB-gpsA	3	0	GO:0005829; yibN-...	white	NA	233	white	NA	white	233	white
+S1_M234	Module_234	2	Module_234	0	2	0		0	2	S1_M234	white	NA	234	white	NA	white	234	white
+S1_M235	Module_235	2	Module_235	2	0	1	GO:0005737; GO:0006364; GO:0008168; GO:0008990; GO:0016740; GO:0031167; GO:0032259; GO:0036308; GO:0070475; cog_2.5; kegg_1.2; mbgd_2.4; prlC-yhiQ; tigr_16.4	2	0	GO:0005737; GO:00...	white	NA	Translation_rib...	#ffbfbf	NA	white	235	white
+S1_M236	Module_236	3	Group_172	0	3	0	kegg_99.1; GO:0000917; GO:0005515; GO:0005886; GO:0016020; GO:0032153; GO:0042803; GO:0043093; GO:0051301; GO:0090529; GO:1990586; Lrp+; cog_3.5; mbgd_1.2; tigr_15.1; zipA	2	1	kegg_99.1; GO:000...	white	NA	236	white	NA	white	236	white
+S1_M237	Module_237	2	Module_237	2	0	1	Cbl+; Cra-; CysB-; FNR+; IHF-+; ssuEADCB	2	0	Cbl+; Cra-; CysB-...	white	NA	237	white	NA	white	237	white
+S1_M238	Module_238	3	Group_14	3	0	1		3	0	S1_M238	white	NA	238	white	NA	white	238	white
+S1_M239	Module_239	2	Module_239	2	0	1	GO:0005737; GO:0005829; GO:0006520; GO:0006974; GO:0008721; GO:0016829; GO:0016836; GO:0030170; GO:0036088; GO:0046416; GO:0051410; GO:0070178; CRP+; DsdC+; cog_1.1; dsdXA; kegg_99.1; mbgd_15.1; tigr_16.4	2	0	GO:0005737; GO:00...	white	NA	Amino_acid_tran...	#bf7fbf	NA	white	239	white
+S1_M24	Module_24	8	Module_24	8	0	1	GO:0000105; GO:0008652; Cra-+; DksA+; Kmodule:M00026; cog_1.1; hisLGDCBHAFI; kegg_1.5; GO:0005737; tigr_1.6	8	0	GO:0000105; GO:00...	white	Region_1	Amino_acid_tran...	#bf7fbf	Region_1.2	#7876B1	24	#D946EF
+S1_M240	Module_240	4	Module_240	3	1	0.75	GO:0005515; GO:0005886; GO:0006813; GO:0016020; GO:0042803; GO:0051453; GO:0051454; GO:1903103; cog_1.7; kefFC; kegg_99.1; tigr_11.4	3	1	GO:0005515; GO:00...	white	NA	240	white	NA	white	240	white
+S1_M241	Module_241	3	Group_14	2	1	0.666666667	GO:0015847; GO:0016020; GO:1903711; Kmodule:M00299; cog_1.1; kegg_3.1; potABCD	3	0	GO:0015847; GO:00...	white	NA	Amino_acid_tran...	#bf7fbf	NA	white	241	white
+S1_M242	Module_242	14	Module_242	9	5	0.642857143	ArgR-; cog_1.1; GO:0005737; GO:0006526; GO:0008652; kegg_1.5	10	4	ArgR-; cog_1.1; G...	white	Region_2	Amino_acid_tran...	#bf7fbf	Region_2.1	#E18727	242	#FDE047
+S1_M243	Module_243	2	Module_243	0	2	0	cog_3.11; mbgd_15.1; GO:0006313; kegg_1.7; kegg_99.1; tigr_16.4; tigr_4.5	1	1	cog_3.11; mbgd_15...	white	NA	243	white	NA	white	243	white
+S1_M244	Module_244	2	Group_178	2	0	1	GO:0000160; GO:0005886; GO:0016020; ivbL-ilvBN-uhpABC	2	0	GO:0000160; GO:00...	white	NA	244	white	NA	white	244	white
+S1_M245	Module_245	2	Module_245	2	0	1	rluE-nudJ	2	0	rluE-nudJ	white	NA	245	white	NA	white	245	white
+S1_M246	Module_246	4	Group_3	4	0	1	GO:0005737; GO:0005829; GO:0008652; GO:0016740; cog_1.1; kegg_1.5	4	0	GO:0005737; GO:00...	white	NA	Amino_acid_tran...	#bf7fbf	NA	white	246	white
+S1_M247	Module_247	2	Module_247	1	1	0.5	kegg_99.1; mbgd_15.1; GO:0005515; CRP+; cog_2.5; cog_4.2; tigr_16.4; tigr_19	1	1	kegg_99.1; mbgd_1...	white	NA	247	white	NA	white	247	white
+S1_M248	Module_248	3	Module_248	3	0	1		3	0	S1_M248	white	NA	248	white	NA	white	248	white
+S1_M249	Module_249	4	Group_144	4	0	1	CRP+; GlpR-	4	0	CRP+; GlpR-	white	NA	249	white	NA	white	249	white
+S1_M25	Module_25	2	Module_25	2	0	1	GO:0005737; GO:0006629; GO:0009245; GO:0016020; GO:0042802; CpxR+; GadE+; bamA-hlpA-lpxD-fabZ-lpxAB-rnhB-dnaE	2	0	GO:0005737; GO:00...	white	NA	25	white	NA	white	25	white
+S1_M250	Module_250	5	Group_14	5	0	1	GO:0005515; GO:0000796; GO:0003677; GO:0005737; GO:0006260; GO:0007059; GO:0009295; GO:0030261; GO:0051301; H-NS+; cog_3.5; mbgd_15.1; smtA-mukFEB	5	0	GO:0005515; GO:00...	white	Region_2	Cell_cycle_cont...	#bfbfbf	Region_2.2	#E18727	250	#EA580C
+S1_M251	Module_251	3	Module_251	3	0	1	mbgd_15.1	3	0	mbgd_15.1	white	NA	251	white	NA	white	251	white
+S1_M252	Module_252	2	Module_252	2	0	1	GO:0005515; GO:0005737; GO:0005829; GO:0006777; GO:0016740; GO:0042803; GO:0046872; ArcA+; FNR-; NarL+; NsrR+; cog_1.4; moeAB	2	0	GO:0005515; GO:00...	white	NA	Coenzyme_transp...	#bf7fff	NA	white	252	white
+S1_M253	Module_253	4	Group_184	4	0	1		4	0	S1_M253	white	NA	253	white	NA	white	253	white
+S1_M254	Module_254	3	Module_254	3	0	1	GO:0006097; GO:0006099; ArcA-; CRP-; Cra+; IHF+; IclR-; aceBAK	3	0	GO:0006097; GO:00...	white	NA	254	white	NA	white	254	white
+S1_M255	Module_255	2	Module_255	2	0	1	GO:0000976; GO:0000987; GO:0001217; GO:0003677; GO:0003700; GO:0003824; GO:0003842; GO:0004657; GO:0005829; GO:0005886; GO:0006355; GO:0006560; GO:0006979; GO:0009898; GO:0010133; GO:0016491; GO:0016620; GO:0042802; GO:0042803; GO:0043168; GO:0043565; GO:0045892; GO:0050660; GO:0098562; GO:1901363; ArcA-; BasR-; MarA+; PutA-; YeiE-; cog_1.1; kegg_1.5; mbgd_14; putA; tigr_6.2	2	0	GO:0000976; GO:00...	white	NA	Amino_acid_tran...	#bf7fbf	NA	white	255	white
+S1_M256	Module_256	2	Module_256	0	2	0		0	2	S1_M256	white	NA	Defense_mechani...	#afbfaf	NA	white	256	white
+S1_M257	Module_257	4	Group_14	4	0	1		4	0	S1_M257	white	NA	257	white	NA	white	257	white
+S1_M258	Module_258	4	Group_36	4	0	1	GO:0003677; GO:0006355; cog_2.3	4	0	GO:0003677; GO:00...	white	NA	Transcription	#ffbf7f	NA	white	258	white
+S1_M259	Module_259	3	Group_31	1	2	0.333333333	kegg_99.1; mbgd_15.1; GO:0001000; GO:0005515; GO:0005737; GO:0006355; GO:0010468; GO:0015968; GO:0016989; GO:0045892; GO:1903865; ArcA-; CueR-; Fur-; KdpE-; Lrp+; McbR+; Nac-; NhaR-; PhoP-; RcdA+; SdiA+; SlyA+; ZntR-; cog_1.1; cog_2.3; cog_4.2; kegg_3.1; mbgd_3.1; tigr_11.1; tigr_19; tigr_6.11	1	2	kegg_99.1; mbgd_1...	white	NA	259	white	NA	white	259	white
+S1_M26	Module_26	2	Module_26	2	0	1	GO:0002098; GO:0008168; GO:0016740; cog_1.4; kegg_1.9; tigr_18.1; yecN-cmoAB	2	0	GO:0002098; GO:00...	white	NA	Coenzyme_transp...	#bf7fff	NA	white	26	white
+S1_M260	Module_260	4	Module_260	1	3	0.25	cog_1.5; kegg_1.1; tigr_13.2; mbgd_14; mbgd_6; GO:0005515; GO:0005886; GO:0006974; GO:0008982; GO:0009254; GO:0009401; GO:0015572; GO:0015764; GO:0016020; GO:0016301; GO:0016740; GO:0019866; GO:0046872; GO:0090563; GO:0090586; GO:0090587; GO:0103111; CRP-+; Kmodule:M00266; NagC-; nagE	1	3	cog_1.5; kegg_1.1...	white	NA	Carbohydrate_tr...	#bfffff	NA	white	260	white
+S1_M261	Module_261	4	Module_261	2	2	0.5	GO:0005886; GO:0015031; GO:0015833; GO:0016020; GO:0042938; GO:0043190; GO:0055052; GO:0055085; Kmodule:M00239; NtrC+; cog_1.1; ddpXABCDF; tigr_11.1	4	0	GO:0005886; GO:00...	white	NA	Amino_acid_tran...	#bf7fbf	NA	white	261	white
+S1_M262	Module_262	8	Group_14	8	0	1		8	0	S1_M262	white	Region_2	262	white	Region_2.2	#E18727	262	#EA580C
+S1_M263	Module_263	3	Module_263	3	0	1	NadR-; cog_1.4; tigr_4.12	3	0	NadR-; cog_1.4; t...	white	NA	Coenzyme_transp...	#bf7fff	NA	white	263	white
+S1_M264	Module_264	2	Module_264	1	1	0.5	cog_4.1; kegg_99.1; mbgd_6.12; tigr_16.4; GO:0005829; GO:0008270; GO:0032991; GO:0042802	1	1	cog_4.1; kegg_99....	white	NA	264	white	NA	white	264	white
+S1_M265	Module_265	5	Module_265	1	4	0.2	cog_1.5; kegg_1.1; mbgd_5; tigr_11.3; GO:0000166; GO:0005524; GO:0005975; GO:0016301; GO:0016740; GO:0042803; GO:0046316; CRP+; GntR-; IdnR-; gntRKU; mbgd_15.1; tigr_6.9	1	4	cog_1.5; kegg_1.1...	white	Region_2	Carbohydrate_tr...	#bfffff	Region_2.2	#E18727	265	#EA580C
+S1_M266	Module_266	2	Group_9	2	0	1	GO:0005829; YdeO+; kegg_99.1; ppGpp+; yiiS-uspD	2	0	GO:0005829; YdeO+...	white	NA	266	white	NA	white	266	white
+S1_M267	Module_267	2	Module_267	2	0	1	kegg_99.1; ratA-yfjF	2	0	kegg_99.1; ratA-yfjF	white	NA	267	white	NA	white	267	white
+S1_M268	Module_268	6	Group_5	5	1	0.833333333	mbgd_15.1; kegg_1.9; yqjCDEK	5	1	mbgd_15.1; kegg_1...	white	Region_1	268	white	Region_1.4	#7876B1	268	#2E0854
+S1_M269	Module_269	3	Group_5	3	0	1		3	0	S1_M269	white	NA	269	white	NA	white	269	white
+S1_M27	Module_27	5	Group_6	5	0	1	GO:0005829; GO:0051536; IscR-; GO:0005506; GO:0005515; GO:0016226; GO:0046872; GO:0051537; RyhB-; iscRSUA	5	0	GO:0005829; GO:00...	white	Region_1	27	white	Region_1.4	#7876B1	27	#2E0854
+S1_M270	Module_270	5	Module_270	3	2	0.6	cog_1.1; mbgd_15.1; kegg_1.5; tigr_6.8; sdaCB	3	2	cog_1.1; mbgd_15....	white	Region_3	Amino_acid_tran...	#bf7fbf	Region_3.4	#0072B5	270	white
+S1_M271	Module_271	2	Module_271	0	2	0		0	2	S1_M271	white	NA	271	white	NA	white	271	white
+S1_M272	Module_272	2	Module_272	2	0	1	GO:0008652; GO:0009082; Nac+; mbgd_15.1; ppGpp+	2	0	GO:0008652; GO:00...	white	NA	272	white	NA	white	272	white
+S1_M273	Module_273	2	Group_14	0	2	0		0	2	S1_M273	white	NA	273	white	NA	white	273	white
+S1_M274	Module_274	3	Module_274	2	1	0.666666667	kegg_99.1; mbgd_15.1	2	1	kegg_99.1; mbgd_15.1	white	NA	274	white	NA	white	274	white
+S1_M275	Module_275	6	Group_47	6	0	1	GO:0005515; GO:0016226; Fur-; IHF+; IscR+; NsrR-; OxyR+; ppGpp+; sufABCDSE; tigr_16.4	6	0	GO:0005515; GO:00...	white	Region_1	275	white	Region_1.2	#7876B1	275	#D946EF
+S1_M276	Module_276	3	Group_198	3	0	1		3	0	S1_M276	white	NA	276	white	NA	white	276	white
+S1_M277	Module_277	3	Module_277	1	2	0.333333333	NtrC+; cog_1.1; ddpXABCDF; tigr_16.4	2	1	NtrC+; cog_1.1; d...	white	NA	277	white	NA	white	277	white
+S1_M278	Module_278	3	Group_31	3	0	1	ArcA-; LldR-+; lldPRD	3	0	ArcA-; LldR-+; ll...	white	NA	278	white	NA	white	278	white
+S1_M279	Module_279	4	Group_47	4	0	1	Cra-; Fur-; IscR+; NrdR-; nrdHIEF	4	0	Cra-; Fur-; IscR+...	white	NA	279	white	NA	white	279	white
+S1_M28	Module_28	5	Group_25	5	0	1	GO:0006817; FNR+; IHF+; PhoB+; cog_1.7; kegg_3.1; pstSCAB-phoU; tigr_11.2; GO:0016020; GO:0035435; GO:0055052; Kmodule:M00222	5	0	GO:0006817; FNR+;...	white	Region_2	Inorganic_ion_t...	#dfbfff	Region_2.2	#E18727	28	#EA580C
+S1_M280	Module_280	2	Module_280	2	0	1	GO:0003677; GO:0005515; GO:0005737; GO:0005829; GO:0006260; GO:0030174; GO:0032297; GO:0042802; GO:1990078; ArgP+; DnaA-+; Fis-; cog_2.1; dnaAN-recF; ppGpp-; tigr_7.1	2	0	GO:0003677; GO:00...	white	NA	Replication_rec...	#ff7fff	NA	white	280	white
+S1_M281	Module_281	2	Module_281	2	0	1		2	0	S1_M281	white	NA	281	white	NA	white	281	white
+S1_M282	Module_282	2	Group_1	1	1	0.5	GO:0000166; GO:0005524; GO:0005737; GO:0005829; ArcA-; Fur-; GlaR-; Lrp+; Nac-; PhoB+; kegg_99.1; mbgd_5.2; phoH	2	0	GO:0000166; GO:00...	white	NA	282	white	NA	white	282	white
+S1_M283	Module_283	5	Group_14	4	1	0.8		4	1	S1_M283	white	Region_3	283	white	Region_3.4	#0072B5	283	white
+S1_M284	Module_284	2	Module_284	2	0	1	GO:0005515; Lrp+; mbgd_15.1; tigr_9.2	2	0	GO:0005515; Lrp+;...	white	NA	284	white	NA	white	284	white
+S1_M285	Module_285	4	Module_285	3	1	0.75	Cra-; cog_1.5; fruBKA	3	1	Cra-; cog_1.5; fr...	white	NA	285	white	NA	white	285	white
+S1_M286	Module_286	3	Group_14	3	0	1	leuS-lptE-holA-nadD-cobC	3	0	leuS-lptE-holA-na...	white	NA	286	white	NA	white	286	white
+S1_M287	Module_287	6	Group_139	6	0	1	GO:0005515	6	0	GO:0005515	white	Region_2	287	white	Region_2.2	#E18727	287	#EA580C
+S1_M288	Module_288	4	Group_31	3	1	0.75	GO:0019480; GO:0042803; CRP-+; dadAX; mbgd_7.6	3	1	GO:0019480; GO:00...	white	NA	288	white	NA	white	288	white
+S1_M289	Module_289	7	Module_289	7	0	1	CRP+; FNR+; IHF+; TdcA+; TdcR+; tdcABCDEFG; GO:0070689	7	0	CRP+; FNR+; IHF+;...	white	Region_3	289	white	Region_3.4	#0072B5	289	white
+S1_M29	Module_29	8	Group_14	7	1	0.875		7	1	S1_M29	white	Region_2	29	white	Region_2.2	#E18727	29	#EA580C
+S1_M290	Module_290	3	Module_290	3	0	1	GO:0005829	3	0	GO:0005829	white	NA	290	white	NA	white	290	white
+S1_M291	Module_291	2	Group_206	2	0	1	GO:0006779; GO:0006782; GO:0033014; Kmodule:M00121; Kmodule:M00846; Kmodule:M00868; cog_1.4; hemCDXY; kegg_1.9; tigr_4.3	2	0	GO:0006779; GO:00...	white	NA	Coenzyme_transp...	#bf7fff	NA	white	291	white
+S1_M292	Module_292	2	Module_292	2	0	1	GO:0005737; kegg_1.9; panE-yajL	2	0	GO:0005737; kegg_...	white	NA	292	white	NA	white	292	white
+S1_M293	Module_293	2	Group_14	2	0	1	kegg_99.1; mbgd_15.1	2	0	kegg_99.1; mbgd_15.1	white	NA	293	white	NA	white	293	white
+S1_M294	Module_294	4	Module_294	3	1	0.75	cog_1.1; tigr_1.4; GO:0003984; GO:0005515; GO:0005948; GO:0008652; GO:0009082; GO:0009097; GO:0009099; GO:0016740; CRP+; Kmodule:M00019; Kmodule:M00570; ivbL-ilvBN-uhpABC; kegg_1.1; mbgd_6; ppGpp+	3	1	cog_1.1; tigr_1.4...	white	NA	Amino_acid_tran...	#bf7fbf	NA	white	294	white
+S1_M295	Module_295	2	Module_295	2	0	1	ArcA+; CRP+; Cra+; TreR-; cog_1.5; kegg_1.1; treBC	2	0	ArcA+; CRP+; Cra+...	white	NA	Carbohydrate_tr...	#bfffff	NA	white	295	white
+S1_M296	Module_296	2	Module_296	2	0	1	GO:0003677; GO:0003887; GO:0006261; GO:0006281; GO:0006974; GO:0008296; GO:0009432; GO:0016740; GO:0016779; GO:0034061; LexA-; cog_2.1; tigr_7.1	2	0	GO:0003677; GO:00...	white	NA	Replication_rec...	#ff7fff	NA	white	296	white
+S1_M297	Module_297	4	Module_297	4	0	1	GO:0031469; GO:0031471; GO:0046336; eutBCLKR; mbgd_15.1	4	0	GO:0031469; GO:00...	white	NA	297	white	NA	white	297	white
+S1_M298	Module_298	3	Group_85	3	0	1	GO:0016020; GO:0043190; GO:0055052; GO:0055085; Kmodule:M00239; cog_1.1; iaaA-gsiABCD; kegg_4	3	0	GO:0016020; GO:00...	white	NA	Amino_acid_tran...	#bf7fbf	NA	white	298	white
+S1_M299	Module_299	5	Module_299	4	1	0.8	GO:0000166; GO:0000724; GO:0000725; GO:0003677; GO:0003678; GO:0004386; GO:0004518; GO:0004527; GO:0005524; GO:0006281; GO:0006310; GO:0006974; GO:0008854; GO:0009338; GO:0016787; GO:0016853; GO:0016887; LexA-; cog_2.1; kegg_2.4; ptrA-recBD; tigr_7.1	4	1	GO:0000166; GO:00...	white	Region_3	Replication_rec...	#ff7fff	Region_3.4	#0072B5	299	white
+S1_M3	Module_3	4	Group_3	3	1	0.75	cog_1.4; kegg_1.5; mbgd_11.1; tigr_1.5; GO:0004617; GO:0005829; GO:0006564; GO:0008652; GO:0009070; GO:0016491; GO:0016616; GO:0042802; GO:0047545; GO:0051287; GO:0070403; GO:0070404; GO:0070905; CRP+; Kmodule:M00020; Lrp-+; Nac-; serA	3	1	cog_1.4; kegg_1.5...	white	NA	Coenzyme_transp...	#bf7fff	NA	white	3	white
+S1_M30	Module_30	8	Group_1	7	1	0.875		8	0	S1_M30	white	Region_3	Lipid_transport...	#bfffbf	Region_3.2	#0072B5	30	#1D4ED8
+S1_M300	Module_300	4	Group_14	4	0	1	GO:0005886; GO:0016020	4	0	GO:0005886; GO:00...	white	NA	300	white	NA	white	300	white
+S1_M301	Module_301	2	Module_301	2	0	1	GO:0000160; Kmodule:M00446; PhoP+; cog_3.3; kegg_3.2; rstAB	2	0	GO:0000160; Kmodu...	white	NA	Signal_transduc...	#ff7fbf	NA	white	301	white
+S1_M302	Module_302	3	Module_302	3	0	1		3	0	S1_M302	white	NA	302	white	NA	white	302	white
+S1_M303	Module_303	3	Module_303	3	0	1	GO:0001514; GO:0005515; GO:0005737; GO:0006412; SelB-L-selenocysteinyl-tRNA<sup>sec</sup>-; cog_2.5; selAB	3	0	GO:0001514; GO:00...	white	NA	Translation_rib...	#ffbfbf	NA	white	303	white
+S1_M304	Module_304	2	Module_304	2	0	1	ghoST; mbgd_15.1	2	0	ghoST; mbgd_15.1	white	NA	304	white	NA	white	304	white
+S1_M305	Module_305	3	Group_217	3	0	1	GO:0015833; GO:0016020; GO:0043190; GO:0055052; GO:0055085; Kmodule:M00239; Kmodule:M00739; cog_1.1; kegg_4; mbgd_7.6; sapABCDF	3	0	GO:0015833; GO:00...	white	NA	Amino_acid_tran...	#bf7fbf	NA	white	305	white
+S1_M306	Module_306	4	Group_14	4	0	1	prmB-aroC-mepA-yfcA-epmC-yfcL	4	0	prmB-aroC-mepA-yf...	white	NA	306	white	NA	white	306	white
+S1_M307	Module_307	10	Group_31	6	4	0.6	GO:0006099; CRP+; FNR-; Kmodule:M00009; Kmodule:M00011; Kmodule:M00173; RyhB-; cog_1.6	7	3	GO:0006099; CRP+;...	lightgrey	Region_1	Energy_producti...	#bfff7f	Region_1.3	#7876B1	307	#6B21A8
+S1_M308	Module_308	2	Module_308	0	2	0	GO:0005515; paoABCD; tigr_16.4	2	0	GO:0005515; paoAB...	white	NA	308	white	NA	white	308	white
+S1_M309	Module_309	2	Group_178	2	0	1	GO:0000160; cog_3.3; ivbL-ilvBN-uhpABC; kegg_3.2	2	0	GO:0000160; cog_3...	white	NA	Signal_transduc...	#ff7fbf	NA	white	309	white
+S1_M31	Module_31	2	Module_31	0	2	0	GO:0000987; GO:0003677; GO:0005829; GO:0030246; GO:2000142; cog_2.3; kegg_99.1; mbgd_14; tigr_7.1; yjhU	2	0	GO:0000987; GO:00...	white	NA	Transcription	#ffbf7f	NA	white	31	white
+S1_M310	Module_310	2	Group_144	2	0	1	GO:0006071; CRP+; FNR+; Fis+; GlpR-; IHF-; glpTQ	2	0	GO:0006071; CRP+;...	white	NA	310	white	NA	white	310	white
+S1_M311	Module_311	2	Group_46	2	0	1	RcsAB+; mbgd_15.1	2	0	RcsAB+; mbgd_15.1	white	NA	311	white	NA	white	311	white
+S1_M312	Module_312	3	Module_312	3	0	1	GO:0000160; GO:0005515; cog_3.3; kegg_3.2	3	0	GO:0000160; GO:00...	white	NA	Signal_transduc...	#ff7fbf	NA	white	312	white
+S1_M313	Module_313	2	Module_313	0	2	0	GO:0008863; GO:0010447; GO:0016020; GO:0016491; GO:0030151; GO:0046872; GO:0051536; GO:0051539; EvgA+; H-NS-; Nac-; NagC-; NarL+; NarP-; PhoP-; RcsB+; UvrY+; cog_1.6; mbgd_4.3; ydeP	2	0	GO:0008863; GO:00...	white	NA	Energy_producti...	#bfff7f	NA	white	313	white
+S1_M314	Module_314	2	Module_314	2	0	1	GO:0003700; GO:0045893; CdaR+; Nac-; cdaR; cog_2.3; kegg_1.9; mbgd_6; tigr_7.1	2	0	GO:0003700; GO:00...	white	NA	Transcription	#ffbf7f	NA	white	314	white
+S1_M315	Module_315	2	Group_14	2	0	1	GO:0003824; GO:0004180; GO:0004185; GO:0005515; GO:0005886; GO:0006508; GO:0008233; GO:0008360; GO:0008658; GO:0008955; GO:0009002; GO:0009252; GO:0016020; GO:0016740; GO:0016757; GO:0016787; GO:0030288; GO:0046677; GO:0071555; cog_3.4; kegg_1.7; mbgd_10.1; mrcA; tigr_14.2	2	0	GO:0003824; GO:00...	white	NA	Cell_wall/membr...	#bfbf7f	NA	white	315	white
+S1_M316	Module_316	7	Group_27	7	0	1	GO:0005515; GO:0005886; GO:0016020; GO:0017004; FNR+; FlhDC+; ModE+; NarL-; NarP-+; napFDAGHBC-ccmABCDEFGH; cog_3.2	7	0	GO:0005515; GO:00...	white	Region_3	Posttranslation...	#bf8f8f	Region_3.4	#0072B5	316	white
+S1_M317	Module_317	2	Group_14	2	0	1	GO:0004107; GO:0005829; GO:0008652; GO:0009073; GO:0009423; GO:0010181; GO:0016829; GO:0042802; GcvB-; Kmodule:M00022; cog_1.1; kegg_1.5; mbgd_1.1; prmB-aroC-mepA-yfcA-epmC-yfcL; tigr_1.1	2	0	GO:0004107; GO:00...	white	NA	Amino_acid_tran...	#bf7fbf	NA	white	317	white
+S1_M318	Module_318	2	Group_3	2	0	1	GO:0005737; GO:0005829; GO:0016491	2	0	GO:0005737; GO:00...	white	NA	318	white	NA	white	318	white
+S1_M319	Module_319	2	Module_319	0	2	0	GO:0010124; PaaX-; paaXY	2	0	GO:0010124; PaaX-...	white	NA	319	white	NA	white	319	white
+S1_M32	Module_32	64	Group_27	55	9	0.859375		56	8	S1_M32	lightsteelblue	Region_3	Energy_producti...	#bfff7f	Region_3.1	#0072B5	32	#06B6D4
+S1_M320	Module_320	2	Module_320	2	0	1	ychJ-purU	2	0	ychJ-purU	white	NA	320	white	NA	white	320	white
+S1_M321	Module_321	8	Group_2	7	1	0.875		7	1	S1_M321	white	Region_2	321	white	Region_2.2	#E18727	321	#EA580C
+S1_M322	Module_322	2	Module_322	2	0	1	GO:0000166; GO:0000716; GO:0003676; GO:0003677; GO:0003684; GO:0004386; GO:0005515; GO:0005524; GO:0005737; GO:0005829; GO:0006281; GO:0006283; GO:0006294; GO:0006355; GO:0006974; GO:0015616; GO:0016787; GO:0043175; GO:1990391; cog_2.1; kegg_2.4; mbgd_6.13; mfd; tigr_7.1	2	0	GO:0000166; GO:00...	white	NA	Replication_rec...	#ff7fff	NA	white	322	white
+S1_M323	Module_323	3	Module_323	3	0	1	ArgP+; CRP+; DnaA-+; Fis+; H-NS-; NrdR-; nrdAB-yfaE	3	0	ArgP+; CRP+; DnaA...	white	NA	323	white	NA	white	323	white
+S1_M324	Module_324	2	Group_139	2	0	1	GO:0000270; GO:0005886; GO:0008932; GO:0009279; GO:0016020; GO:0016829; GO:0042834; GO:0043093; GO:0071555; cog_3.4; kegg_99.1; mbgd_12.1; rsfS-rlmH-mrdAB-rlpA; tigr_16.4	2	0	GO:0000270; GO:00...	white	NA	Cell_wall/membr...	#bfbf7f	NA	white	324	white
+S1_M325	Module_325	3	Module_325	3	0	1		3	0	S1_M325	white	NA	325	white	NA	white	325	white
+S1_M326	Module_326	3	Group_5	3	0	1		3	0	S1_M326	white	NA	326	white	NA	white	326	white
+S1_M327	Module_327	3	Module_327	3	0	1		3	0	S1_M327	white	NA	327	white	NA	white	327	white
+S1_M328	Module_328	2	Group_14	2	0	1	GO:0016740; lgt-thyA	2	0	GO:0016740; lgt-thyA	white	NA	328	white	NA	white	328	white
+S1_M329	Module_329	3	Module_329	3	0	1	GO:0005737; GO:0005829; GO:0006567; GO:0019518; GO:0046872; kbl-tdh	3	0	GO:0005737; GO:00...	white	NA	329	white	NA	white	329	white
+S1_M33	Module_33	23	Group_28	19	4	0.826086957		22	1	S1_M33	gray	Region_1	Posttranslation...	#bf8f8f	Region_1.4	#7876B1	33	#2E0854
+S1_M330	Module_330	3	Group_229	3	0	1	GO:0005886; GO:0016020; GO:0022857; GO:0055052; GO:0055085; GO:0140271; AraC-; cog_1.5; kegg_3.1; ytfQRT-yjfF	3	0	GO:0005886; GO:00...	white	NA	Carbohydrate_tr...	#bfffff	NA	white	330	white
+S1_M331	Module_331	4	Module_331	4	0	1	ydiJ-menI-ydiH	4	0	ydiJ-menI-ydiH	white	NA	331	white	NA	white	331	white
+S1_M332	Module_332	3	Module_332	2	1	0.666666667	cog_3.4; kegg_1.7; tigr_14.3; Kmodule:M00064; mbgd_2.5	2	1	cog_3.4; kegg_1.7...	white	NA	Cell_wall/membr...	#bfbf7f	NA	white	332	white
+S1_M333	Module_333	2	Group_25	2	0	1	GO:0000160; GO:0005829; GO:0006355; GO:0006817; AlpA-; Kmodule:M00434; PhoB+; cog_3.3; kegg_3.2; phoBR	2	0	GO:0000160; GO:00...	white	NA	Signal_transduc...	#ff7fbf	NA	white	333	white
+S1_M334	Module_334	7	Module_334	6	1	0.857142857	GO:0015031; GO:0015833; GO:0016020; GO:0035351; GO:0035442; GO:0042938; GO:0055052; GO:0055085; GO:0071916; FNR-; GcvB-; IHF+; cog_1.1; dppABCDF; GO:0005886; Fur+; Kmodule:M00324; tigr_11.1	6	1	GO:0015031; GO:00...	white	Region_1	Amino_acid_tran...	#bf7fbf	Region_1.2	#7876B1	334	#D946EF
+S1_M335	Module_335	2	Module_335	1	1	0.5	GO:0005515; GO:0005886; GO:0009636; GO:0015125; GO:0015721; GO:0016020; GO:0046677; GO:0048545; GO:0055085; GO:0098567; GO:0140330; GO:1990281; GO:1990961; MprA-; emrRAB; kegg_1.1	2	0	GO:0005515; GO:00...	white	NA	Defense_mechani...	#afbfaf	NA	white	335	white
+S1_M336	Module_336	2	Module_336	2	0	1	GO:0000976; GO:0003677; GO:0003700; GO:0006351; GO:0006355; Nac-; YeiE+; YeiE-; cog_2.3; kegg_4; mbgd_11.1; tigr_16.4; yeiE	2	0	GO:0000976; GO:00...	white	NA	Transcription	#ffbf7f	NA	white	336	white
+S1_M337	Module_337	4	Module_337	3	1	0.75	nlpD-rpoS	3	1	nlpD-rpoS	white	NA	337	white	NA	white	337	white
+S1_M338	Module_338	3	Module_338	3	0	1	yjeFE-amiB-mutL-miaA-hfq-hflXKC	3	0	yjeFE-amiB-mutL-m...	white	NA	338	white	NA	white	338	white
+S1_M339	Module_339	4	Group_14	3	1	0.75	GO:0005515; cog_2.5; kegg_2.2; leuS-lptE-holA-nadD-cobC; mbgd_10.1; tigr_9.1	3	1	GO:0005515; cog_2...	white	NA	339	white	NA	white	339	white
+S1_M34	Module_34	2	Group_27	2	0	1	ydjXYZ-ynjABCD	2	0	ydjXYZ-ynjABCD	white	NA	34	white	NA	white	34	white
+S1_M340	Module_340	7	Group_3	7	0	1	GO:0005829; GO:0042802	7	0	GO:0005829; GO:00...	white	Region_2	340	white	Region_2.1	#E18727	340	#FDE047
+S1_M341	Module_341	7	Group_14	7	0	1	cog_2.5; GO:0005737	7	0	cog_2.5; GO:0005737	white	Region_2	Translation_rib...	#ffbfbf	Region_2.2	#E18727	341	#EA580C
+S1_M342	Module_342	5	Module_342	5	0	1	CRP+; GutM+; H-NS+; SrlR-; srlAEBD-gutM-srlR-gutQ; GO:0009401; mbgd_15.1	5	0	CRP+; GutM+; H-NS...	white	Region_3	342	white	Region_3.4	#0072B5	342	white
+S1_M343	Module_343	2	Group_9	2	0	1	CRP-; kegg_99.1; mbgd_15.1; yaeP-rof	2	0	CRP-; kegg_99.1; ...	white	NA	343	white	NA	white	343	white
+S1_M344	Module_344	2	Group_14	2	0	1	yqcC-truC-yqcA	2	0	yqcC-truC-yqcA	white	NA	344	white	NA	white	344	white
+S1_M345	Module_345	3	Group_14	3	0	1	holD-rimI-yjjG	3	0	holD-rimI-yjjG	white	NA	345	white	NA	white	345	white
+S1_M346	Module_346	3	Module_346	1	2	0.333333333	GO:0006281; GO:0006974; GO:0009432; LexA-; dinB-yafNOP	3	0	GO:0006281; GO:00...	white	NA	346	white	NA	white	346	white
+S1_M347	Module_347	4	Group_140	2	2	0.5	cog_1.5; kegg_1.1; mbgd_14; tigr_7.1; GO:0008198; GO:0008867; GO:0016829; GO:0019698; GO:0042803; GO:0046392; GO:0046872; CdaR+; FNR+; garD	2	2	cog_1.5; kegg_1.1...	white	NA	Carbohydrate_tr...	#bfffff	NA	white	347	white
+S1_M348	Module_348	3	Module_348	0	3	0	GO:0003676; GO:0003677; GO:0003824; GO:0003887; GO:0004518; GO:0004527; GO:0005737; GO:0005829; GO:0006139; GO:0006260; GO:0006261; GO:0006281; GO:0006284; GO:0006302; GO:0006974; GO:0008408; GO:0008409; GO:0016740; GO:0016779; GO:0016787; GO:0016788; GO:0034061; GO:0071897; DnaA+; Lrp-; Nac-; cog_2.1; kegg_2.4; mbgd_12.2; polA; tigr_7.1	2	1	GO:0003676; GO:00...	white	NA	348	white	NA	white	348	white
+S1_M349	Module_349	4	Module_349	3	1	0.75	cog_2.1; kegg_2.4; tigr_7.1; GO:0000166; GO:0000725; GO:0003677; GO:0003678; GO:0004386; GO:0005515; GO:0005524; GO:0005737; GO:0005829; GO:0006260; GO:0006281; GO:0006289; GO:0006298; GO:0006974; GO:0009314; GO:0009432; GO:0015616; GO:0016787; GO:0016853; GO:0016887; GO:0017116; GO:0017117; GO:0031297; GO:0033202; GO:0042802; GO:0042803; GO:0043138; GO:0070581; GO:0070716; LexA-; uvrD	3	1	cog_2.1; kegg_2.4...	white	NA	Replication_rec...	#ff7fff	NA	white	349	white
+S1_M35	Module_35	12	Group_29	12	0	1		12	0	S1_M35	white	Region_1	Nucleotide_tran...	#ff7f7f	Region_1.2	#7876B1	35	#D946EF
+S1_M350	Module_350	2	Module_350	2	0	1	GO:0005829; GO:0006004; GO:0019317; GO:0019571; GO:0042355; CRP+; FucR+; Spf-; SrsR+; cog_1.5; fucPIKUR; kegg_1.1	2	0	GO:0005829; GO:00...	white	NA	Carbohydrate_tr...	#bfffff	NA	white	350	white
+S1_M351	Module_351	2	Module_351	2	0	1	GO:0003723; GO:0003729; GO:0003730; GO:0003994; GO:0005506; GO:0005737; GO:0005829; GO:0006097; GO:0006099; GO:0006979; GO:0009061; GO:0016829; GO:0030350; GO:0045333; GO:0046872; GO:0051536; GO:0051539; ArcA-; CRP+; Cra+; FNR-; Fur+; Kmodule:M00009; Kmodule:M00010; Kmodule:M00012; Kmodule:M00173; MarA+; Rob+; SoxS+; acnA; carbon storage regulator CsrA-; cog_1.1; kegg_1.1; mbgd_6.13; ppGpp+; tigr_6.12	2	0	GO:0003723; GO:00...	white	NA	Amino_acid_tran...	#bf7fbf	NA	white	351	white
+S1_M352	Module_352	4	Group_243	4	0	1	MraZ-; PdhR-; mraZW-ftsLIO-murEF-mraY-murD-ftsW-murGC-ddlB-ftsQAZ-lpxC	4	0	MraZ-; PdhR-; mra...	white	NA	352	white	NA	white	352	white
+S1_M353	Module_353	2	Module_353	2	0	1	GO:0005829; NagC-; cog_3.3; creABCD	2	0	GO:0005829; NagC-...	white	NA	Signal_transduc...	#ff7fbf	NA	white	353	white
+S1_M354	Module_354	2	Group_124	2	0	1	CRP+; Fis-; NanR-; nanATEK-yhcH	2	0	CRP+; Fis-; NanR-...	white	NA	354	white	NA	white	354	white
+S1_M355	Module_355	4	Module_355	4	0	1	GO:0006865; GO:0016020; GO:0055052; GO:0089718; GO:1903810; ArgR-; H-NS+; Kmodule:M00226; NtrC+; argT-hisJQMP; kegg_3.1; ppGpp-; tigr_11.1	4	0	GO:0006865; GO:00...	white	NA	Amino_acid_tran...	#bf7fbf	NA	white	355	white
+S1_M356	Module_356	2	Module_356	2	0	1	GO:0000166; GO:0005886; GO:0006811; GO:0006812; GO:0006813; GO:0008324; GO:0015297; GO:0016020; GO:0055085; GO:1902600; Nac-; cog_1.7; kegg_99.1; mbgd_1.5; tigr_11.4; ybaL	2	0	GO:0000166; GO:00...	white	NA	Inorganic_ion_t...	#dfbfff	NA	white	356	white
+S1_M357	Module_357	3	Module_357	3	0	1	GO:0003984; GO:0005829; GO:0005948; GO:0008652; GO:0009082; GO:0009097; GO:0009099; GO:0016740; H-NS-; Kmodule:M00019; Kmodule:M00570; Lrp-+; cog_1.1; ilvIH; ppGpp-; tigr_1.4	3	0	GO:0003984; GO:00...	white	NA	Amino_acid_tran...	#bf7fbf	NA	white	357	white
+S1_M358	Module_358	2	Group_248	2	0	1	GO:0000287; GO:0005737; GO:0006564; GO:0008652; GO:0016787; GO:0016791; GO:0036424; GO:0046872; Kmodule:M00020; Lrp+; cog_1.1; kegg_1.5; mbgd_7.4; radA-nadR; tigr_18.1	2	0	GO:0000287; GO:00...	white	NA	Amino_acid_tran...	#bf7fbf	NA	white	358	white
+S1_M359	Module_359	5	Module_359	1	4	0.2	GO:0002197; GO:0005737; GO:0006144; GO:0006166; GO:0009114; GO:0016491; GO:0046872; FNR+; cog_1.6; tigr_16.4; xdhABC	5	0	GO:0002197; GO:00...	white	Region_3	Energy_producti...	#bfff7f	Region_3.2	#0072B5	359	#1D4ED8
+S1_M36	Module_36	6	Group_27	6	0	1	ArcA-; NarL-; hybOABCDEFG; GO:0005515	6	0	ArcA-; NarL-; hyb...	white	Region_3	36	white	Region_3.4	#0072B5	36	white
+S1_M360	Module_360	3	Module_360	2	1	0.666666667	GO:0005886; GO:0015199; GO:0015220; GO:0015297; GO:0015606; GO:0015848; GO:0015871; GO:0016020; GO:0022857; GO:0031460; GO:1902495; GO:1903711; GO:1990961; AcrR-; H-NS-; Kmodule:M00711; cog_3.7; kegg_99.1; mbgd_1.5; mdtUJI; tigr_16.4	2	1	GO:0005886; GO:00...	white	NA	360	white	NA	white	360	white
+S1_M361	Module_361	2	Group_29	2	0	1	yciSM-pyrF-yciH	2	0	yciSM-pyrF-yciH	white	NA	361	white	NA	white	361	white
+S1_M362	Module_362	2	Module_362	2	0	1	hinT-ycfL-lpoB-thiK-nagZ-ycfP	2	0	hinT-ycfL-lpoB-th...	white	NA	362	white	NA	white	362	white
+S1_M363	Module_363	4	Group_85	4	0	1	dcyD-tcyLN	4	0	dcyD-tcyLN	white	NA	363	white	NA	white	363	white
+S1_M364	Module_364	2	Module_364	2	0	1	GO:0005515; cog_3.2; sdhE-ygfX	2	0	GO:0005515; cog_3...	white	NA	Posttranslation...	#bf8f8f	NA	white	364	white
+S1_M365	Module_365	4	Group_14	4	0	1		4	0	S1_M365	white	NA	365	white	NA	white	365	white
+S1_M366	Module_366	5	Module_366	4	1	0.8	GO:0005515; GO:0006865; GO:0006972; GO:0016020; GO:0031460; GO:0043190; GO:0071470; GO:0089718; GO:1903804; GO:1990222; H-NS-; IHF+; Kmodule:M00208; StpA-; kegg_3.1; proVWX	4	1	GO:0005515; GO:00...	white	Region_1	366	white	Region_1.4	#7876B1	366	#2E0854
+S1_M367	Module_367	3	Group_152	3	0	1	GO:0008652; GO:0009088; DksA+; Kmodule:M00018; cog_1.1; ppGpp+; thrLABC	3	0	GO:0008652; GO:00...	white	NA	Amino_acid_tran...	#bf7fbf	NA	white	367	white
+S1_M368	Module_368	2	Module_368	2	0	1	GO:0005737; GO:0005829; GO:0006099; GO:0008924; GO:0009898; GO:0016491; GO:0016614; GO:0050660; ArcA-; Fur-; Kmodule:M00009; Kmodule:M00011; Lrp-; cog_1.5; kegg_1.1; mbgd_15.1; mqo; tigr_6.12	2	0	GO:0005737; GO:00...	white	NA	Carbohydrate_tr...	#bfffff	NA	white	368	white
+S1_M369	Module_369	5	Group_119	5	0	1	ybgIJKL-nei; GO:0000166; GO:0005524; GO:0016787; GO:0017168	5	0	ybgIJKL-nei; GO:0...	white	Region_2	369	white	Region_2.2	#E18727	369	#EA580C
+S1_M37	Module_37	7	Module_37	3	4	0.428571429	kegg_1.2; mbgd_15.1; cog_1.6; tigr_6.5	3	4	kegg_1.2; mbgd_15...	white	Region_1	37	white	Region_1.3	#7876B1	37	#6B21A8
+S1_M370	Module_370	7	Group_255	6	1	0.857142857	FhlA+; IHF+; ModE+; NsrR-; hycABCDEFGHI	7	0	FhlA+; IHF+; ModE...	white	Region_3	Energy_producti...	#bfff7f	Region_3.4	#0072B5	370	white
+S1_M371	Module_371	4	Group_19	2	2	0.5		4	0	S1_M371	white	NA	371	white	NA	white	371	white
+S1_M372	Module_372	2	Group_14	2	0	1	GO:0000166; GO:0004812; GO:0004820; GO:0005515; GO:0005524; GO:0005737; GO:0005829; GO:0006412; GO:0006426; GO:0009345; GO:0016874; Kmodule:M00360; cog_2.5; glyQS; kegg_2.2; tigr_9.1	2	0	GO:0000166; GO:00...	white	NA	Translation_rib...	#ffbfbf	NA	white	372	white
+S1_M373	Module_373	3	Module_373	3	0	1	GO:0003723; GO:0005515; GO:0005737; GO:0005829; nsrR-rnr-rlmB-yjfI	3	0	GO:0003723; GO:00...	white	NA	373	white	NA	white	373	white
+S1_M374	Module_374	14	Group_243	14	0	1	LexA-; MraZ-; PdhR-; mraZW-ftsLIO-murEF-mraY-murD-ftsW-murGC-ddlB-ftsQAZ-lpxC; GO:0051301	14	0	LexA-; MraZ-; Pdh...	white	Region_2	Cell_wall/membr...	#bfbf7f	Region_2.2	#E18727	374	#EA580C
+S1_M375	Module_375	3	Module_375	3	0	1		3	0	S1_M375	white	NA	375	white	NA	white	375	white
+S1_M376	Module_376	4	Group_14	4	0	1	Fis+; surA-pdxA-rsmA-apaGH	4	0	Fis+; surA-pdxA-r...	white	NA	376	white	NA	white	376	white
+S1_M377	Module_377	2	Module_377	2	0	1	MarA+; PhoP+; Rob+; SoxS+; mbgd_15.1; tolC-ygiBC	2	0	MarA+; PhoP+; Rob...	white	NA	377	white	NA	white	377	white
+S1_M378	Module_378	2	Module_378	2	0	1	FlhDC+; ymdAB-clsC	2	0	FlhDC+; ymdAB-clsC	white	NA	378	white	NA	white	378	white
+S1_M379	Module_379	6	Group_14	6	0	1		6	0	S1_M379	white	Region_3	379	white	Region_3.4	#0072B5	379	white
+S1_M38	Module_38	4	Group_31	0	4	0	SdhX-; cog_1.6; fdoGHI-fdhE	4	0	SdhX-; cog_1.6; f...	white	NA	Energy_producti...	#bfff7f	NA	white	38	white
+S1_M380	Module_380	2	Module_380	2	0	1	GO:0000976; GO:0003677; GO:0005886; GO:0006355; GO:0016787; GO:0042803; GO:0045893; GO:0046872; GO:0071111; GO:1900190; Cra-; H-NS-; Nac-; PdeL+; PdeL-; cog_3.3; mbgd_7.6; pdeL; tigr_16.4	2	0	GO:0000976; GO:00...	white	NA	Signal_transduc...	#ff7fbf	NA	white	380	white
+S1_M381	Module_381	2	Module_381	2	0	1	GO:0004175; GO:0004252; GO:0005886; GO:0006508; GO:0008233; GO:0008236; GO:0016020; GO:0016787; GO:0042802; CRP+; cog_1.5; cog_3.2; glpEGR; kegg_1.1; kegg_99.1; mbgd_14; mbgd_7.6; tigr_18.1; tigr_7.1	1	1	GO:0004175; GO:00...	white	NA	381	white	NA	white	381	white
+S1_M382	Module_382	3	Group_14	3	0	1	GO:0005829	3	0	GO:0005829	white	NA	382	white	NA	white	382	white
+S1_M383	Module_383	3	Module_383	3	0	1	GO:0016740; kegg_1.9	3	0	GO:0016740; kegg_1.9	white	NA	383	white	NA	white	383	white
+S1_M384	Module_384	2	Module_384	1	1	0.5	kegg_99.1	2	0	kegg_99.1	white	NA	384	white	NA	white	384	white
+S1_M385	Module_385	3	Group_14	3	0	1	kegg_1.1; rapA-rluA	3	0	kegg_1.1; rapA-rluA	white	NA	385	white	NA	white	385	white
+S1_M386	Module_386	2	Module_386	2	0	1	yfbU-hxpA	2	0	yfbU-hxpA	white	NA	386	white	NA	white	386	white
+S1_M387	Module_387	3	Group_248	2	1	0.666666667	cog_2.1; kegg_1.5; mbgd_7.6; tigr_7.1; GO:0000166; GO:0000725; GO:0003677; GO:0003684; GO:0003697; GO:0005524; GO:0006281; GO:0006974; GO:0008094; GO:0008270; GO:0009314; GO:0016787; GO:0046872; GO:0140664; radA-nadR	2	1	cog_2.1; kegg_1.5...	white	NA	Replication_rec...	#ff7fff	NA	white	387	white
+S1_M388	Module_388	2	Module_388	2	0	1	yciK-btuR	2	0	yciK-btuR	white	NA	388	white	NA	white	388	white
+S1_M389	Module_389	3	Group_148	2	1	0.666666667	mbgd_15.1; GO:0006355; GO:0040008; GO:0044010; GO:0110001; kegg_99.1; sohA-yhaV	2	1	mbgd_15.1; GO:000...	white	NA	389	white	NA	white	389	white
+S1_M39	Module_39	6	Module_39	5	1	0.833333333	GO:0015031; GO:0015833; GO:0016020; GO:0055052; GO:0055085; GO:0140205; GcvB-; Lrp-; ModE-; cog_1.1; oppABCDF; GO:0005886; GO:0015640; GO:0015834; GO:0140207; ArcA-; Fur-; tigr_11.1	5	1	GO:0015031; GO:00...	white	Region_1	Amino_acid_tran...	#bf7fbf	Region_1.3	#7876B1	39	#6B21A8
+S1_M390	Module_390	4	Group_14	4	0	1		4	0	S1_M390	white	NA	390	white	NA	white	390	white
+S1_M391	Module_391	2	Module_391	1	1	0.5	kegg_99.1; mbgd_15.1; GO:0005829; GO:0042255; cog_2.5; cog_4.2; tigr_19; tigr_9.2	1	1	kegg_99.1; mbgd_1...	white	NA	391	white	NA	white	391	white
+S1_M392	Module_392	3	Module_392	3	0	1		3	0	S1_M392	white	NA	392	white	NA	white	392	white
+S1_M393	Module_393	2	Module_393	0	2	0	ligA-ypeB	2	0	ligA-ypeB	white	NA	393	white	NA	white	393	white
+S1_M394	Module_394	2	Module_394	2	0	1	GO:0005886; GO:1902495; GO:1903785; kegg_99.1; mbgd_15.1; ygaZH	2	0	GO:0005886; GO:19...	white	NA	394	white	NA	white	394	white
+S1_M395	Module_395	3	Module_395	3	0	1	yheO-tusDCB	3	0	yheO-tusDCB	white	NA	395	white	NA	white	395	white
+S1_M396	Module_396	2	Module_396	0	2	0	cog_3.11; kegg_1.3; mbgd_14.1	2	0	cog_3.11; kegg_1....	white	NA	396	white	NA	white	396	white
+S1_M397	Module_397	3	Module_397	2	1	0.666666667	mbgd_15.1; GO:0003677; GO:0005667; GO:0005737; GO:0006351; GO:0006355; GO:0044781; GO:0045893; GO:1902208; GO:1902210; AcrR-; ArcZ-; CRP+; FlhDC+; FlhDC-; FliZ-; Fur-; H-NS+; HdfR-; IHF-; LrhA-; MatA-; McaS+; OmpR-; OmrA-; OmrB-; OxyS-; QseB+; RcsAB-; YjjQ-; flhDC	2	1	mbgd_15.1; GO:000...	white	NA	397	white	NA	white	397	white
+S1_M398	Module_398	2	Module_398	2	0	1	kegg_99.1; mbgd_15.1; ymgGD	2	0	kegg_99.1; mbgd_1...	white	NA	398	white	NA	white	398	white
+S1_M399	Module_399	2	Module_399	2	0	1	GO:0016020; GO:0042802; MarA+; Rob+; SoxS+	2	0	GO:0016020; GO:00...	white	NA	399	white	NA	white	399	white
+S1_M4	Module_4	2	Module_4	2	0	1		2	0	S1_M4	white	NA	4	white	NA	white	4	white
+S1_M40	Module_40	2	Group_2	2	0	1	GO:0009314; CRP-+; DksA-; Fis-; IHF+; dusB-fis; ppGpp-	2	0	GO:0009314; CRP-+...	white	NA	40	white	NA	white	40	white
+S1_M400	Module_400	2	Module_400	2	0	1	GO:0005737; rsmE-gshB	2	0	GO:0005737; rsmE-...	white	NA	400	white	NA	white	400	white
+S1_M401	Module_401	2	Module_401	2	0	1	mbgd_15.1	2	0	mbgd_15.1	white	NA	401	white	NA	white	401	white
+S1_M402	Module_402	3	Module_402	3	0	1	GO:0005829	3	0	GO:0005829	white	NA	402	white	NA	white	402	white
+S1_M403	Module_403	4	Group_17	4	0	1	GO:0015689; GO:0016020; GO:0055052; GO:0070614; CRP+; Kmodule:M00189; ModE-; kegg_3.1; modABC	4	0	GO:0015689; GO:00...	white	NA	403	white	NA	white	403	white
+S1_M404	Module_404	5	Module_404	5	0	1	GO:0006865; GO:0016020; GO:0055052; GO:0097638; ArgR-; Kmodule:M00229; artPIQM; kegg_3.1; tigr_11.1; GO:0005886; cog_1.1	5	0	GO:0006865; GO:00...	white	Region_1	Amino_acid_tran...	#bf7fbf	Region_1.4	#7876B1	404	#2E0854
+S1_M405	Module_405	2	Group_14	2	0	1	GO:0005886; GO:0006811; GO:0008381; GO:0016020; GO:0034220; GO:0055085; GO:0071470; CpxR-; cog_3.4; kegg_1.1; mbgd_6; psd-mscM; tigr_6.2	2	0	GO:0005886; GO:00...	white	NA	Cell_wall/membr...	#bfbf7f	NA	white	405	white
+S1_M406	Module_406	2	Module_406	2	0	1	GO:0000166; GO:0000725; GO:0003677; GO:0003678; GO:0003697; GO:0004386; GO:0005515; GO:0005524; GO:0005829; GO:0006259; GO:0006260; GO:0006269; GO:0009314; GO:0016787; GO:0016853; GO:0016887; GO:0031297; GO:0032991; GO:0042803; GO:0043138; GO:0043600; GO:0044787; GO:1990077; GO:1990160; Nac-; cog_2.1; kegg_2.4; mbgd_13.1; rep; tigr_7.1	2	0	GO:0000166; GO:00...	white	NA	Replication_rec...	#ff7fff	NA	white	406	white
+S1_M407	Module_407	2	Module_407	2	0	1	GO:0009093; DecR+; cog_1.1; cyuPA	2	0	GO:0009093; DecR+...	white	NA	Amino_acid_tran...	#bf7fbf	NA	white	407	white
+S1_M408	Module_408	3	Module_408	2	1	0.666666667	kegg_99.1; GO:0005886; GO:0016020; GO:0050660; Nac+; PhoB+; cog_1.7; mbgd_3.1; tigr_7.1; yegH	2	1	kegg_99.1; GO:000...	white	NA	408	white	NA	white	408	white
+S1_M409	Module_409	2	Module_409	2	0	1	mbgd_15.1; tigr_7.1	2	0	mbgd_15.1; tigr_7.1	white	NA	409	white	NA	white	409	white
+S1_M41	Module_41	3	Module_41	3	0	1	MarA+; OxyR-; Rob+; SoxS+; ybjC-nfsA-rimK-ybjN	3	0	MarA+; OxyR-; Rob...	white	NA	41	white	NA	white	41	white
+S1_M410	Module_410	2	Module_410	2	0	1	GO:0003824; GO:0004748; GO:0005515; GO:0005737; GO:0009265; GO:0015949; GO:0016491; GO:0031250; GO:0046872; FNR+; H-NS-; NrdR-; nrdDG	2	0	GO:0003824; GO:00...	white	NA	410	white	NA	white	410	white
+S1_M411	Module_411	2	Module_411	2	0	1		2	0	S1_M411	white	NA	411	white	NA	white	411	white
+S1_M412	Module_412	2	Group_5	2	0	1	GadE+; kegg_99.1; yjbQR	2	0	GadE+; kegg_99.1;...	white	NA	412	white	NA	white	412	white
+S1_M413	Module_413	2	Module_413	0	2	0	GO:0019698; GO:0042840; kegg_1.1	2	0	GO:0019698; GO:00...	white	NA	413	white	NA	white	413	white
+S1_M414	Module_414	4	Group_10	3	1	0.75	GO:0003989; GO:0005515; GO:0005737; GO:0005829; GO:0006629; GO:0006631; GO:0006633; GO:0009317; GO:2001295; AccB-; FadR+; Kmodule:M00082; accBC; cog_1.3	3	1	GO:0003989; GO:00...	white	NA	414	white	NA	white	414	white
+S1_M415	Module_415	4	Module_415	4	0	1		4	0	S1_M415	white	NA	415	white	NA	white	415	white
+S1_M416	Module_416	8	Group_14	8	0	1		8	0	S1_M416	white	Region_2	416	white	Region_2.2	#E18727	416	#EA580C
+S1_M417	Module_417	2	Module_417	2	0	1	ybbAP	2	0	ybbAP	white	NA	417	white	NA	white	417	white
+S1_M418	Module_418	2	Module_418	2	0	1	GO:0004175; GO:0004180; GO:0005886; GO:0006508; GO:0008233; GO:0008360; GO:0008658; GO:0009253; GO:0016020; GO:0016787; GO:0071555; CpxR+; ampH; cog_3.7; kegg_3.2; mbgd_3.1; tigr_7.1	2	0	GO:0004175; GO:00...	white	NA	Defense_mechani...	#afbfaf	NA	white	418	white
+S1_M419	Module_419	7	Group_27	6	1	0.857142857	FNR+; FlhDC+; ModE+; NarL-; NarP-+; napFDAGHBC-ccmABCDEFGH; GO:0046872; IscR-; cog_1.6	6	1	FNR+; FlhDC+; Mod...	white	Region_3	Energy_producti...	#bfff7f	Region_3.1	#0072B5	419	#06B6D4
+S1_M42	Module_42	37	Module_42	31	6	0.837837838	FlhDC+; cog_3.6; kegg_4.1; GO:0071973	31	6	FlhDC+; cog_3.6; ...	lightskyblue	Region_1	Cell_motility	#bfbf9f	Region_1.1	#7876B1	42	#E8D5FF
+S1_M420	Module_420	5	Module_420	4	1	0.8	GO:0042802; BasR+; BolA+; BtsR-; CRP+; CpxR-; Cra+; CsgD+; FliZ-; GcvB-; H-NS-; IHF+; McaS-; MlrA+; MqsA-; OmpR+; OmrA-; OmrB-; RcdA+; RcsAB-; RprA-; RstA-; RybB-; RydC-; csgDEFG; mbgd_15.1; ppGpp+	4	1	GO:0042802; BasR+...	white	Region_2	420	white	Region_2.1	#E18727	420	#FDE047
+S1_M421	Module_421	3	Module_421	3	0	1	CRP+; GutM+; H-NS+; SrlR-; srlAEBD-gutM-srlR-gutQ	3	0	CRP+; GutM+; H-NS...	white	NA	421	white	NA	white	421	white
+S1_M422	Module_422	2	Group_142	2	0	1	GO:0016020; GO:0046872; tigr_16.4	2	0	GO:0016020; GO:00...	white	NA	422	white	NA	white	422	white
+S1_M423	Module_423	2	Module_423	2	0	1	Fis-; NarL+; NarP+; NsrR-; mbgd_15.1; yeaR-yoaG	2	0	Fis-; NarL+; NarP...	white	NA	423	white	NA	white	423	white
+S1_M424	Module_424	3	Group_14	3	0	1	GO:0000049; GO:0000166; GO:0000287; GO:0004812; GO:0004826; GO:0005515; GO:0005524; GO:0005737; GO:0005829; GO:0006412; GO:0006432; GO:0009328; GO:0016874; GO:0046872; DksA-; Kmodule:M00359; Kmodule:M00360; NsrR-; cog_2.5; kegg_2.2; thrS-infC-rpmI-rplT-pheMST-ihfA; tigr_9.1	3	0	GO:0000049; GO:00...	white	NA	Translation_rib...	#ffbfbf	NA	white	424	white
+S1_M425	Module_425	2	Group_14	2	0	1	GO:0008955; GO:0009252; GO:0030288; cog_3.4; kegg_1.7; mbgd_10.1; mrcB; tigr_14.2	2	0	GO:0008955; GO:00...	white	NA	Cell_wall/membr...	#bfbf7f	NA	white	425	white
+S1_M426	Module_426	2	Group_36	2	0	1	GO:0003824; GO:0005515; GO:0005524; GO:0006979; GO:0009408; GO:0016740; GO:0016746; GO:0016747; GO:0032991; GO:0042802; GO:0046872; GO:0061733; CRP+; cog_1.6; kegg_99.1; mbgd_15; tapT-patZ; tigr_7.1	2	0	GO:0003824; GO:00...	white	NA	Energy_producti...	#bfff7f	NA	white	426	white
+S1_M427	Module_427	5	Group_1	4	1	0.8	CRP+; PhoB-+; ugpBAECQ; GO:0015794; GO:0016020; GO:0055085; GO:1902517	5	0	CRP+; PhoB-+; ugp...	white	Region_2	427	white	Region_2.1	#E18727	427	#FDE047
+S1_M428	Module_428	2	Group_36	2	0	1	GO:0000160; GO:0005515; btsSR; cog_3.3; kegg_3.2	2	0	GO:0000160; GO:00...	white	NA	Signal_transduc...	#ff7fbf	NA	white	428	white
+S1_M429	Module_429	2	Module_429	2	0	1	GO:0004325; GO:0005737; GO:0006779; GO:0006783; GO:0009416; GO:0016829; GO:0046501; GO:0046872; Kmodule:M00121; Kmodule:M00868; Nac-; OxyR+; RyhB-; cog_1.4; hemH; kegg_1.9; mbgd_4.3; tigr_4.3	2	0	GO:0004325; GO:00...	white	NA	Coenzyme_transp...	#bf7fff	NA	white	429	white
+S1_M43	Module_43	2	Module_43	0	2	0		0	2	S1_M43	white	NA	43	white	NA	white	43	white
+S1_M430	Module_430	3	Module_430	3	0	1	hinT-ycfL-lpoB-thiK-nagZ-ycfP	3	0	hinT-ycfL-lpoB-th...	white	NA	430	white	NA	white	430	white
+S1_M431	Module_431	3	Group_40	3	0	1	GO:0005886; mbgd_15.1	3	0	GO:0005886; mbgd_...	white	NA	431	white	NA	white	431	white
+S1_M432	Module_432	2	Group_14	2	0	1	GO:0003677; GO:0005515; ybaB-recR	2	0	GO:0003677; GO:00...	white	NA	432	white	NA	white	432	white
+S1_M433	Module_433	2	Module_433	2	0	1	GO:0005515; GO:0016020; GO:0030288; GO:0042802; GO:0061024; MarA+; SoxS+; cog_3.4; kegg_99.1; mbgd_15.1; pqiABC	2	0	GO:0005515; GO:00...	white	NA	Cell_wall/membr...	#bfbf7f	NA	white	433	white
+S1_M434	Module_434	2	Module_434	2	0	1	GO:0005515; GO:0005829; GO:0071978; kegg_99.1; ycdXY	2	0	GO:0005515; GO:00...	white	NA	434	white	NA	white	434	white
+S1_M435	Module_435	3	Module_435	3	0	1	GO:0016020; GO:0042882; GO:0055052; AraC+; CRP+; Kmodule:M00213; araFGH; cog_1.5; kegg_3.1	3	0	GO:0016020; GO:00...	white	NA	Carbohydrate_tr...	#bfffff	NA	white	435	white
+S1_M436	Module_436	2	Module_436	2	0	1		2	0	S1_M436	white	NA	436	white	NA	white	436	white
+S1_M437	Module_437	4	Group_298	4	0	1	GO:0005829	4	0	GO:0005829	white	NA	437	white	NA	white	437	white
+S1_M438	Module_438	2	Module_438	2	0	1	GO:0000166; GO:0000724; GO:0000725; GO:0003677; GO:0003678; GO:0004386; GO:0004518; GO:0004527; GO:0005515; GO:0005524; GO:0006281; GO:0006310; GO:0006974; GO:0008854; GO:0009314; GO:0009338; GO:0016787; GO:0044355; GO:0140097; FlhDC+; cog_2.1; kegg_2.4; mbgd_14; ppdAB-ygdB-ppdC-recC; tigr_7.1	2	0	GO:0000166; GO:00...	white	NA	Replication_rec...	#ff7fff	NA	white	438	white
+S1_M439	Module_439	2	Module_439	2	0	1	GO:0005515; GO:0005886; GO:0006740; GO:0008750; GO:0016020; GO:0050661; GO:0120029; kegg_1.9; pntAB	2	0	GO:0005515; GO:00...	white	NA	439	white	NA	white	439	white
+S1_M44	Module_44	11	Group_36	7	4	0.636363636	tigr_16.4	7	4	tigr_16.4	lightgrey	Region_3	Carbohydrate_tr...	#bfffff	Region_3.2	#0072B5	44	#1D4ED8
+S1_M440	Module_440	2	Group_301	2	0	1	GO:0003824; GO:0005829; GO:0042802; CRP-+; CytR-; cog_1.2; kegg_1.4; tigr_2.5	2	0	GO:0003824; GO:00...	white	NA	Nucleotide_tran...	#ff7f7f	NA	white	440	white
+S1_M441	Module_441	2	Group_152	1	1	0.5		0	2	S1_M441	white	NA	Amino_acid_tran...	#bf7fbf	NA	white	441	white
+S1_M442	Module_442	2	Module_442	0	2	0	GO:0003677; GO:0006355; GO:0040008; GO:0044010; GO:0110001; chpSB; cog_3.7; kegg_99.1; tigr_9.2	2	0	GO:0003677; GO:00...	white	NA	Defense_mechani...	#afbfaf	NA	white	442	white
+S1_M443	Module_443	2	Module_443	2	0	1	GO:0005886; GO:0006813; GO:0016020; GO:0051453; GO:1903103; kefGB-yheV	2	0	GO:0005886; GO:00...	white	NA	443	white	NA	white	443	white
+S1_M444	Module_444	2	Module_444	2	0	1	GO:0004176; GO:0005515; GO:0005829; GO:0009368; GO:0009376; GO:0042802; clpX-lon; cog_3.2; kegg_4.2; tigr_10.4	2	0	GO:0004176; GO:00...	white	NA	Posttranslation...	#bf8f8f	NA	white	444	white
+S1_M445	Module_445	2	Module_445	2	0	1	Lrp+; yciZT	2	0	Lrp+; yciZT	white	NA	445	white	NA	white	445	white
+S1_M446	Module_446	4	Module_446	2	2	0.5	GO:0005737	4	0	GO:0005737	white	NA	Carbohydrate_tr...	#bfffff	NA	white	446	white
+S1_M447	Module_447	4	Group_14	4	0	1		4	0	S1_M447	white	NA	447	white	NA	white	447	white
+S1_M448	Module_448	2	Module_448	2	0	1	GO:0004175; GO:0004252; GO:0005886; GO:0006465; GO:0006508; GO:0008233; GO:0008236; GO:0016020; GO:0016787; cog_3.2; kegg_99.1; mbgd_8.1; sppA; tigr_10.4	2	0	GO:0004175; GO:00...	white	NA	Posttranslation...	#bf8f8f	NA	white	448	white
+S1_M449	Module_449	4	Group_14	4	0	1		4	0	S1_M449	white	NA	449	white	NA	white	449	white
+S1_M45	Module_45	3	Module_45	3	0	1	SoxS+; fldA-uof-fur	3	0	SoxS+; fldA-uof-fur	white	NA	45	white	NA	white	45	white
+S1_M450	Module_450	2	Group_308	2	0	1	GO:0005515; GO:0015914; GO:0120010; Kmodule:M00210; MarA+; cog_3.4; kegg_3.1; mlaFEDCB	2	0	GO:0005515; GO:00...	white	NA	Cell_wall/membr...	#bfbf7f	NA	white	450	white
+S1_M451	Module_451	2	Group_298	2	0	1	GO:0004362; GO:0005737; GO:0005829; GO:0006749; GO:0016020; GO:0016491; GO:0016668; GO:0034599; GO:0045454; GO:0050660; GO:0050661; GO:0071949; GO:0098869; Nac-; OxyR+; cog_1.6; gor; kegg_1.1; mbgd_14; tigr_6.5	2	0	GO:0004362; GO:00...	white	NA	Energy_producti...	#bfff7f	NA	white	451	white
+S1_M452	Module_452	2	Module_452	2	0	1	GO:0005886; GO:0016020; kegg_4; pdeI-dgcI	2	0	GO:0005886; GO:00...	white	NA	452	white	NA	white	452	white
+S1_M453	Module_453	3	Group_14	2	1	0.666666667	cog_2.1; kegg_1.1; mbgd_8.2; tigr_7.1; GO:0000166; GO:0003677; GO:0003916; GO:0003918; GO:0005515; GO:0005524; GO:0005694; GO:0005829; GO:0006265; GO:0007059; GO:0007062; GO:0009330; GO:0016853; GO:0030541; GO:0046677; GO:0046872; GO:0051276; CreB+; nudF-yqiB-cpdA-yqiA-parE	2	1	cog_2.1; kegg_1.1...	white	NA	Replication_rec...	#ff7fff	NA	white	453	white
+S1_M454	Module_454	3	Module_454	3	0	1	GO:0005515; GO:0051301; MicA-; tolB-pal-ybgF	3	0	GO:0005515; GO:00...	white	NA	454	white	NA	white	454	white
+S1_M455	Module_455	3	Module_455	0	3	0		3	0	S1_M455	white	NA	455	white	NA	white	455	white
+S1_M456	Module_456	2	Module_456	0	2	0	cog_3.11; GO:0003677; GO:0004803; GO:0005829; GO:0006310; GO:0006313; GO:0032196; kegg_98.1; kegg_99.1; mbgd_15.1; mbgd_6.5; tigr_16.4; tigr_7.1	1	1	cog_3.11; GO:0003...	white	NA	456	white	NA	white	456	white
+S1_M457	Module_457	4	Group_313	3	1	0.75	CRP+; OxyR-; UxuR-; cog_1.5; kegg_1.1	3	1	CRP+; OxyR-; UxuR...	white	NA	457	white	NA	white	457	white
+S1_M458	Module_458	4	Group_14	4	0	1	GO:0005737	4	0	GO:0005737	white	NA	458	white	NA	white	458	white
+S1_M459	Module_459	3	Group_308	3	0	1	GO:0005515; GO:0005886; GO:0015914; GO:0016020; GO:0120010; GO:0120014; GO:1990531; MarA+; mlaFEDCB	3	0	GO:0005515; GO:00...	white	NA	459	white	NA	white	459	white
+S1_M46	Module_46	3	Module_46	3	0	1	GO:0016020; GO:0055052; GO:0071934; DksA+; SgrR-; kegg_3.1; ppGpp+; sgrR-sroA-thiBPQ	3	0	GO:0016020; GO:00...	white	NA	46	white	NA	white	46	white
+S1_M460	Module_460	2	Module_460	1	1	0.5	GO:0005384; GO:0005886; GO:0006811; GO:0016020; GO:0030026; Fur+; MntR+; cog_1.7; cog_4.2; kegg_1.1; kegg_99.1; mbgd_15.1; mbgd_7.2; tigr_16.4; tigr_19	1	1	GO:0005384; GO:00...	white	NA	460	white	NA	white	460	white
+S1_M461	Module_461	2	Module_461	2	0	1	tigr_18.2; yqgEF	2	0	tigr_18.2; yqgEF	white	NA	461	white	NA	white	461	white
+S1_M462	Module_462	2	Module_462	1	1	0.5	GO:0005737; GO:0005829; GO:0009103; GO:0016740; GO:0019294; GO:0032991; GO:0042802; GO:0046394; GlaR+; Kmodule:M00063; Nac-; cog_1.1; cog_4.2; kegg_1.1; kegg_1.5; mbgd_1.4; mbgd_15.1; tigr_14.3; tigr_19; ychQA-kdsA	1	1	GO:0005737; GO:00...	white	NA	462	white	NA	white	462	white
+S1_M463	Module_463	2	Module_463	2	0	1		2	0	S1_M463	white	NA	463	white	NA	white	463	white
+S1_M464	Module_464	5	Module_464	4	1	0.8	GO:0005829	5	0	GO:0005829	white	Region_3	464	white	Region_3.4	#0072B5	464	white
+S1_M465	Module_465	2	Module_465	2	0	1	GO:0008838; GO:0016829; GO:0030170; GO:0042803; cog_1.1; kegg_99.1; mbgd_15.1; tigr_16.4; ygeX	2	0	GO:0008838; GO:00...	white	NA	Amino_acid_tran...	#bf7fbf	NA	white	465	white
+S1_M466	Module_466	3	Module_466	3	0	1	pabC-mltG-tmk-holB-ycfH	3	0	pabC-mltG-tmk-hol...	white	NA	466	white	NA	white	466	white
+S1_M467	Module_467	2	Module_467	2	0	1	GO:0005886; GO:0015833; GO:0016020; GO:0035672; GO:0042884; GO:0055052; GO:0055085; yejABEF	2	0	GO:0005886; GO:00...	white	NA	467	white	NA	white	467	white
+S1_M468	Module_468	2	Group_139	2	0	1		2	0	S1_M468	white	NA	468	white	NA	white	468	white
+S1_M469	Module_469	2	Module_469	2	0	1	GO:0004366; GO:0005515; GO:0005886; GO:0006629; GO:0006631; GO:0008374; GO:0008654; GO:0016020; GO:0016024; GO:0016740; GO:0016746; CpxR-; cog_1.3; kegg_1.3; mbgd_15.1; plsB; tigr_3.1	2	0	GO:0004366; GO:00...	white	NA	Lipid_transport...	#bfffbf	NA	white	469	white
+S1_M47	Module_47	2	Module_47	1	1	0.5	GO:0005886; GO:0050660; GO:0071111; GO:0071949; GO:0140297; GO:1900190; H-NS-; RcdA+; cog_3.3; cog_4.2; kegg_3.2; kegg_99.1; mbgd_15.1; mbgd_7.6; tigr_16.4; tigr_19	1	1	GO:0005886; GO:00...	white	NA	47	white	NA	white	47	white
+S1_M470	Module_470	2	Module_470	2	0	1	GO:0005886; GO:0016020; kegg_1.1; mbgd_15.1; tigr_16.4; yhfK	2	0	GO:0005886; GO:00...	white	NA	470	white	NA	white	470	white
+S1_M471	Module_471	2	Module_471	2	0	1	GO:0003824; GO:0003920; GO:0005515; GO:0005737; GO:0005829; GO:0006163; GO:0009117; GO:0015951; GO:0016491; GO:0032264; GO:0042802; GO:0046872; GO:1902560; cog_3.3; guaC; kegg_1.4; mbgd_2.3; tigr_2.3	2	0	GO:0003824; GO:00...	white	NA	Signal_transduc...	#ff7fbf	NA	white	471	white
+S1_M472	Module_472	2	Group_14	2	0	1	GO:0000166; GO:0003677; GO:0003916; GO:0003918; GO:0005515; GO:0005524; GO:0005694; GO:0005737; GO:0005829; GO:0006261; GO:0006265; GO:0006351; GO:0008094; GO:0009330; GO:0009410; GO:0016853; GO:0034335; GO:0046677; GO:0046872; GO:0051276; Fis-; cog_2.1; gyrB; kegg_1.1; mbgd_6.1; tigr_7.1	2	0	GO:0000166; GO:00...	white	NA	Replication_rec...	#ff7fff	NA	white	472	white
+S1_M473	Module_473	2	Module_473	2	0	1	GO:0000160; GO:0010041; Kmodule:M00451; Kmodule:M00721; Kmodule:M00722; basRS; cog_3.3; kegg_3.2; mbgd_11.1	2	0	GO:0000160; GO:00...	white	NA	Signal_transduc...	#ff7fbf	NA	white	473	white
+S1_M474	Module_474	5	Group_14	5	0	1	Fur-; ydgK-rsxABCDGE-nth; GO:0005515; GO:0005886; GO:0016020; GO:0022900; cog_1.6	5	0	Fur-; ydgK-rsxABC...	white	Region_2	Energy_producti...	#bfff7f	Region_2.2	#E18727	474	#EA580C
+S1_M475	Module_475	2	Module_475	2	0	1	GO:0000400; GO:0000725; GO:0003677; GO:0003678; GO:0005515; GO:0005524; GO:0005737; GO:0006281; GO:0006310; GO:0006974; GO:0009378; GO:0009379; GO:0009432; GO:0048476; LexA-; cog_2.1; kegg_2.4; ruvAB; tigr_7.1	2	0	GO:0000400; GO:00...	white	NA	Replication_rec...	#ff7fff	NA	white	475	white
+S1_M476	Module_476	3	Module_476	3	0	1	GO:0005515; GO:0005886; GO:0015920; GO:0016020; GO:0043165; GO:0043190; GO:0055085; GO:1990351; Kmodule:M00320; cog_3.4; kegg_3.1; lptFG; tigr_16.4	3	0	GO:0005515; GO:00...	white	NA	Cell_wall/membr...	#bfbf7f	NA	white	476	white
+S1_M477	Module_477	3	Module_477	3	0	1	GO:0006974; kegg_99.1	3	0	GO:0006974; kegg_...	white	NA	477	white	NA	white	477	white
+S1_M478	Module_478	3	Group_329	3	0	1	GO:0005515; GO:0005737; GO:0005829	3	0	GO:0005515; GO:00...	white	NA	478	white	NA	white	478	white
+S1_M479	Module_479	3	Module_479	3	0	1	CRP+; Cra-+; Fis-; mtlADR	3	0	CRP+; Cra-+; Fis-...	white	NA	479	white	NA	white	479	white
+S1_M48	Module_48	8	Group_27	6	2	0.75	kegg_1.2; GO:0042128; FNR+; Fis-; IHF+; NarL+; cog_1.6; tigr_6.3; GO:0005886; GO:0016020; RstA+; narGHJI	6	2	kegg_1.2; GO:0042...	white	Region_3	Energy_producti...	#bfff7f	Region_3.1	#0072B5	48	#06B6D4
+S1_M480	Module_480	2	Module_480	2	0	1	GO:0005829	2	0	GO:0005829	white	NA	480	white	NA	white	480	white
+S1_M481	Module_481	3	Module_481	3	0	1	GO:0005737; GO:0005829; GO:0008652; GO:0042802; GO:0055129; Kmodule:M00015; cog_1.1; kegg_1.5; mbgd_1.4; proBA; tigr_1.3	3	0	GO:0005737; GO:00...	white	NA	Amino_acid_tran...	#bf7fbf	NA	white	481	white
+S1_M482	Module_482	3	Module_482	3	0	1	GO:0003677	3	0	GO:0003677	white	NA	482	white	NA	white	482	white
+S1_M483	Module_483	2	Module_483	2	0	1	GO:0005829; GO:0032324; GO:0061598; Kmodule:M00880; cog_1.4; kegg_1.9; mbgd_4.6; mog; tigr_4.6	2	0	GO:0005829; GO:00...	white	NA	Coenzyme_transp...	#bf7fff	NA	white	483	white
+S1_M484	Module_484	3	Group_335	3	0	1		3	0	S1_M484	white	NA	484	white	NA	white	484	white
+S1_M485	Module_485	2	Module_485	2	0	1	GO:0005515; GO:0005886; GO:0008320; GO:0009977; GO:0015031; GO:0016020; GO:0033281; GO:0042802; GO:0043953; GO:0065002; Kmodule:M00336; cog_3.1; tatABC; tigr_10.1	2	0	GO:0005515; GO:00...	white	NA	Intracellular_t...	#bf7f7f	NA	white	485	white
+S1_M486	Module_486	2	Module_486	2	0	1	GO:0005247; GO:0005886; GO:0006811; GO:0006821; GO:0015108; GO:0015297; GO:0016020; GO:0042802; GO:0055085; GO:0062158; GO:1902476; GO:1902600; GO:1990451; clcA; cog_1.7; kegg_99.1; mbgd_15.1; tigr_7.1	2	0	GO:0005247; GO:00...	white	NA	Inorganic_ion_t...	#dfbfff	NA	white	486	white
+S1_M487	Module_487	2	Module_487	2	0	1		2	0	S1_M487	white	NA	487	white	NA	white	487	white
+S1_M488	Module_488	6	Group_14	6	0	1	GO:0005829; xseB-ispA-dxs-yajO	6	0	GO:0005829; xseB-...	white	Region_3	488	white	Region_3.4	#0072B5	488	white
+S1_M489	Module_489	2	Group_14	2	0	1	GO:0009250; mbgd_15.1; mdoGH	2	0	GO:0009250; mbgd_...	white	NA	489	white	NA	white	489	white
+S1_M49	Module_49	4	Group_40	3	1	0.75	kegg_99.1; tigr_9.3	3	1	kegg_99.1; tigr_9.3	white	NA	49	white	NA	white	49	white
+S1_M490	Module_490	4	Module_490	4	0	1	GO:0006865; GO:0016020; GO:0055052; GO:0098712; GO:0140009; FlhDC+; gltI-sroC-gltJKL; kegg_3.1	4	0	GO:0006865; GO:00...	white	NA	490	white	NA	white	490	white
+S1_M491	Module_491	2	Group_14	2	0	1	GO:0005886; GO:0016020; GO:0016651; GO:0022900; GO:0098797; GO:1990204; Fur-; cog_1.6; tigr_6.5; ydgK-rsxABCDGE-nth	2	0	GO:0005886; GO:00...	white	NA	Energy_producti...	#bfff7f	NA	white	491	white
+S1_M492	Module_492	4	Group_14	4	0	1	cog_2.5	4	0	cog_2.5	white	NA	Translation_rib...	#ffbfbf	NA	white	492	white
+S1_M493	Module_493	2	Group_14	2	0	1	H-NS+; kegg_99.1; mbgd_15.1; smtA-mukFEB	2	0	H-NS+; kegg_99.1;...	white	NA	493	white	NA	white	493	white
+S1_M494	Module_494	3	Module_494	3	0	1	GO:0005737; GO:0005829; GO:0006012; GO:0033499; CRP-+; GalR-+; GalS-+; H-NS-; HU-; Kmodule:M00632; galETKM; kegg_1.1; tigr_6.11	3	0	GO:0005737; GO:00...	white	NA	494	white	NA	white	494	white
+S1_M495	Module_495	5	Group_158	5	0	1	GO:0005886; GO:0016020; ArcA-; CRP+; Cra-+; CusR+; FNR-; Fis+; Fur-; GadE+; HprR-; PdhR-; cyoABCDE; GO:0009055; GO:0009060; GO:0009319; GO:0009486; GO:0015078; GO:0015453; GO:0015990; GO:0019646; Kmodule:M00417; cog_1.6; kegg_1.2; tigr_6.5	5	0	GO:0005886; GO:00...	white	Region_1	Energy_producti...	#bfff7f	Region_1.3	#7876B1	495	#6B21A8
+S1_M496	Module_496	2	Module_496	1	1	0.5	GO:0005829; GO:0010181; GO:0016491; GO:0042803; cog_1.6; cog_4.2; kegg_4; kegg_99.1; mbgd_15.1; mbgd_4.4; tigr_10.1; tigr_16.4; ydjA-selD-topB	1	1	GO:0005829; GO:00...	white	NA	496	white	NA	white	496	white
+S1_M497	Module_497	2	Module_497	2	0	1	GO:0016787; kegg_99.1; yjjUV	2	0	GO:0016787; kegg_...	white	NA	497	white	NA	white	497	white
+S1_M498	Module_498	4	Group_301	4	0	1	GO:0005829; GO:0006974; CRP-+; CytR-; DeoR-; Fis+; ModE-; deoCABD	4	0	GO:0005829; GO:00...	white	NA	498	white	NA	white	498	white
+S1_M499	Module_499	2	Module_499	0	2	0	GO:0010124; CRP+; Fur-; IHF+; PaaX-; SlyA+; SrsR+; kegg_1.5; paaABCDEFGHIJK; tigr_16.4	2	0	GO:0010124; CRP+;...	white	NA	499	white	NA	white	499	white
+S1_M5	Module_5	138	Group_5	124	14	0.898550725		132	6	S1_M5	paleturquoise	Region_1	5	white	Region_1.4	#7876B1	5	#2E0854
+S1_M50	Module_50	2	Group_14	2	0	1	GO:0005515; secE-nusG	2	0	GO:0005515; secE-...	white	NA	50	white	NA	white	50	white
+S1_M500	Module_500	3	Module_500	0	3	0	GO:0005515; GO:0006355; GO:0044010; GO:0110001; MqsA-; mbgd_15.1; mqsRA	2	1	GO:0005515; GO:00...	white	NA	500	white	NA	white	500	white
+S1_M501	Module_501	5	Module_501	5	0	1	GO:0005886; CecR-; cecR-ybhGFSR; cog_3.7; kegg_99.1	5	0	GO:0005886; CecR-...	white	Region_3	Defense_mechani...	#afbfaf	Region_3.4	#0072B5	501	white
+S1_M502	Module_502	2	Module_502	2	0	1	kegg_1.1	2	0	kegg_1.1	white	NA	502	white	NA	white	502	white
+S1_M503	Module_503	2	Group_14	2	0	1	GO:0016616; GO:0030497; DksA-; FadR+; Kmodule:M00083; Kmodule:M00572; cog_1.3; mbgd_14; rpmF-plsX-fabHDG; tigr_16.4	2	0	GO:0016616; GO:00...	white	NA	Lipid_transport...	#bfffbf	NA	white	503	white
+S1_M504	Module_504	3	Group_14	3	0	1	GO:0005515; GO:0005737; GO:0042802; cog_2.1; kegg_99.1	3	0	GO:0005515; GO:00...	white	NA	Replication_rec...	#ff7fff	NA	white	504	white
+S1_M505	Module_505	2	Module_505	2	0	1	pdxB-usg-truA-dedA	2	0	pdxB-usg-truA-dedA	white	NA	505	white	NA	white	505	white
+S1_M506	Module_506	5	Group_31	4	1	0.8	GO:0016020; CRP+	4	1	GO:0016020; CRP+	white	Region_3	506	white	Region_3.2	#0072B5	506	#1D4ED8
+S1_M507	Module_507	2	Module_507	2	0	1	GO:0000166; GO:0003676; GO:0003677; GO:0003678; GO:0004386; GO:0005515; GO:0005524; GO:0006139; GO:0006281; GO:0009432; GO:0016787; GO:0016818; GO:0016853; GO:0016887; GO:0033677; GO:0043139; GO:0046872; GO:0051536; GO:0051539; GO:0140640; LexA-; cog_2.1; dinG-ybiB; kegg_2.4; mbgd_8.2; tigr_7.1	2	0	GO:0000166; GO:00...	white	NA	Replication_rec...	#ff7fff	NA	white	507	white
+S1_M508	Module_508	2	Group_139	2	0	1	GO:0016787	2	0	GO:0016787	white	NA	508	white	NA	white	508	white
+S1_M509	Module_509	2	Module_509	2	0	1	GO:0000166; GO:0000287; GO:0000309; GO:0000987; GO:0003677; GO:0003824; GO:0005524; GO:0005737; GO:0005886; GO:0009435; GO:0010446; GO:0016020; GO:0016301; GO:0016740; GO:0019363; GO:0042802; GO:0050262; GO:0051289; GO:0071248; GO:1902494; GO:1902503; NadR-; cog_1.4; kegg_1.9; mbgd_15.1; radA-nadR; tigr_9.2	2	0	GO:0000166; GO:00...	white	NA	Coenzyme_transp...	#bf7fff	NA	white	509	white
+S1_M51	Module_51	2	Module_51	0	2	0	GO:0016020; tigr_9.3	2	0	GO:0016020; tigr_9.3	white	NA	51	white	NA	white	51	white
+S1_M510	Module_510	6	Group_139	6	0	1	lptB-rpoN-hpf-ptsN-yhbJ	6	0	lptB-rpoN-hpf-pts...	white	Region_2	510	white	Region_2.2	#E18727	510	#EA580C
+S1_M511	Module_511	2	Group_14	2	0	1	GO:0000345; GO:0000428; GO:0003677; GO:0003899; GO:0005515; GO:0005737; GO:0005829; GO:0006351; GO:0006352; GO:0006879; GO:0009408; GO:0016020; GO:0016740; GO:0016779; GO:0031564; GO:0032784; GO:0034062; GO:0036460; GO:0042128; GO:0044780; GO:0046677; GO:0048870; GO:0071973; GO:0090605; GO:2000142; DksA-; Kmodule:M00183; RplA-; cog_2.3; kegg_2.1; rplKAJL-rpoBC; tigr_8.2	2	0	GO:0000345; GO:00...	white	NA	Transcription	#ffbf7f	NA	white	511	white
+S1_M512	Module_512	3	Module_512	2	1	0.666666667	GO:0003333; GO:0005295; GO:0005886; GO:0006865; GO:0015171; GO:0015175; GO:0015194; GO:0015195; GO:0015293; GO:0015825; GO:0015826; GO:0016020; GO:0032329; GO:0055085; ArcA+; GcvB-; Lrp-; OmpR+; cog_1.6; kegg_3.2; mbgd_5.4; sstT; tigr_7.1	2	1	GO:0003333; GO:00...	white	NA	512	white	NA	white	512	white
+S1_M513	Module_513	2	Module_513	2	0	1	GO:0004177; GO:0005515; GO:0005886; GO:0006508; GO:0008233; GO:0008237; GO:0008270; GO:0016020; GO:0016285; GO:0016787; GO:0042802; GO:0046872; ArcA-; cog_1.1; kegg_1.6; mbgd_1.1; pepN; tigr_10.4	2	0	GO:0004177; GO:00...	white	NA	Amino_acid_tran...	#bf7fbf	NA	white	513	white
+S1_M514	Module_514	6	Group_14	6	0	1	GO:0005515; rsfS-rlmH-mrdAB-rlpA	6	0	GO:0005515; rsfS-...	white	Region_2	514	white	Region_2.2	#E18727	514	#EA580C
+S1_M515	Module_515	3	Module_515	2	1	0.666666667	mbgd_15.1; kegg_1.1	2	1	mbgd_15.1; kegg_1.1	white	NA	515	white	NA	white	515	white
+S1_M516	Module_516	2	Module_516	2	0	1	GO:0005829; GO:0042802; mbgd_15.1	2	0	GO:0005829; GO:00...	white	NA	516	white	NA	white	516	white
+S1_M517	Module_517	3	Group_313	3	0	1	GO:0019698; CRP+; ExuR-; FNR+; KdpE+; Kmodule:M00631; cog_1.5; kegg_1.1; uxaCA	3	0	GO:0019698; CRP+;...	white	NA	Carbohydrate_tr...	#bfffff	NA	white	517	white
+S1_M518	Module_518	2	Module_518	2	0	1	GO:0003677; GO:0003916; GO:0003917; GO:0005515; GO:0005694; GO:0005829; GO:0006265; GO:0007059; GO:0008270; GO:0016853; GO:0046872; GO:0140226; Fis-+; Lrp-; cog_2.1; kegg_1.1; mbgd_8.2; tigr_7.1; topA	2	0	GO:0003677; GO:00...	white	NA	Replication_rec...	#ff7fff	NA	white	518	white
+S1_M519	Module_519	2	Module_519	2	0	1	GO:0005737; GO:0005829; GO:0006629; GO:0006631; GO:0006633; GO:0006636; GO:0016829; GO:0016853; GO:0019171; GO:0034017; GO:0042803; FabR-; FadR+; Kmodule:M00083; cog_1.3; fabA; kegg_1.3; mbgd_13.2; tigr_3.1	2	0	GO:0005737; GO:00...	white	NA	Lipid_transport...	#bfffbf	NA	white	519	white
+S1_M52	Module_52	4	Module_52	1	3	0.25	mbgd_15.1; cog_4.2; tigr_19; kegg_99.1; GO:0005886; GO:0006974; GO:0009432; GO:0016020; GO:0022611; GO:0098656; Fur-; LexA-; cog_1.3; kegg_1.5; kegg_1.8; tigr_7.1	1	3	mbgd_15.1; cog_4....	white	NA	52	white	NA	white	52	white
+S1_M520	Module_520	2	Module_520	2	0	1	CpxR+; tigr_9.3	2	0	CpxR+; tigr_9.3	white	NA	520	white	NA	white	520	white
+S1_M521	Module_521	2	Module_521	2	0	1	GO:0003824; GO:0005829; GO:0006596; GO:0008295; Kmodule:M00034; Kmodule:M00133; cog_1.1; kegg_1.5; tigr_5.4; yacC-speED	2	0	GO:0003824; GO:00...	white	NA	Amino_acid_tran...	#bf7fbf	NA	white	521	white
+S1_M522	Module_522	2	Module_522	2	0	1	GO:0003824; GO:0005515; GO:0005737; GO:0005829; GO:0009107; GO:0009249; GO:0016740; GO:0016783; GO:0016992; GO:0042803; GO:0046872; GO:0051536; GO:0051539; Lrp+; cog_1.4; kegg_1.9; lipA	2	0	GO:0003824; GO:00...	white	NA	Coenzyme_transp...	#bf7fff	NA	white	522	white
+S1_M523	Module_523	2	Module_523	2	0	1	GO:0005886; GO:0016020; yciCB	2	0	GO:0005886; GO:00...	white	NA	523	white	NA	white	523	white
+S1_M524	Module_524	2	Module_524	2	0	1	GO:0005829; GO:0016787; GO:0046872	2	0	GO:0005829; GO:00...	white	NA	524	white	NA	white	524	white
+S1_M525	Module_525	2	Module_525	2	0	1	GO:0006044; GO:0006046; GO:0016787; GO:0019262; GO:0042802; CRP-+; NagC-; cog_1.5; kegg_1.1; mbgd_15.1; nagBACD; tigr_5.1	2	0	GO:0006044; GO:00...	white	NA	Carbohydrate_tr...	#bfffff	NA	white	525	white
+S1_M526	Module_526	2	Group_29	2	0	1	GO:0000166; GO:0005524; GO:0005829; GO:0006164; GO:0006177; GO:0042802; CRP+; DnaA-; Fis-; Kmodule:M00050; PurR-; guaBA; kegg_1.4; tigr_2.3	2	0	GO:0000166; GO:00...	white	NA	526	white	NA	white	526	white
+S1_M527	Module_527	2	Module_527	2	0	1	GO:0005829; GO:0042802; GO:0042803	2	0	GO:0005829; GO:00...	white	NA	527	white	NA	white	527	white
+S1_M528	Module_528	2	Group_142	2	0	1	GO:0005886; GO:0006811; GO:0006829; GO:0010043; GO:0016020; GO:0043190; GO:0055052; GO:0071578; Kmodule:M00242; OxyR+; Zur-; kegg_3.1; znuCB	2	0	GO:0005886; GO:00...	white	NA	528	white	NA	white	528	white
+S1_M529	Module_529	6	Group_363	3	3	0.5	GO:0006865; GO:0006868; GO:0016020; GO:0055052; GO:1903803; IHF+; NtrC-+; cog_4.2; glnHPQ; kegg_3.1; kegg_99.1; mbgd_15.1; tigr_11.1	3	3	GO:0006865; GO:00...	white	Region_2	529	white	Region_2.2	#E18727	529	#EA580C
+S1_M53	Module_53	3	Group_5	3	0	1		3	0	S1_M53	white	NA	53	white	NA	white	53	white
+S1_M530	Module_530	2	Module_530	2	0	1	GO:0005886; Kmodule:M00254; cog_3.7; kegg_3.1; yadGH	2	0	GO:0005886; Kmodu...	white	NA	Defense_mechani...	#afbfaf	NA	white	530	white
+S1_M531	Module_531	2	Group_217	2	0	1	GO:0000166; GO:0005524; GO:0005886; GO:0015489; GO:0015833; GO:0015847; GO:0016020; GO:0016887; GO:0043190; GO:0055052; Kmodule:M00739; kegg_3.1; mbgd_7.6; sapABCDF; tigr_11.1	2	0	GO:0000166; GO:00...	white	NA	531	white	NA	white	531	white
+S1_M532	Module_532	3	Module_532	3	0	1	GO:0000049; GO:0000166; GO:0003723; GO:0003747; GO:0005524; GO:0005737; GO:0006412; GO:0006415; GO:0006417; GO:0016787; GO:0016887; GO:0019843; GO:0043022; GO:0045900; CpxR+; cog_4.1; kegg_3.1; mbgd_7.6; tigr_16.4; yjjK	3	0	GO:0000049; GO:00...	white	NA	532	white	NA	white	532	white
+S1_M533	Module_533	4	Group_28	4	0	1		4	0	S1_M533	white	NA	533	white	NA	white	533	white
+S1_M534	Module_534	2	Module_534	1	1	0.5	cog_2.1; kegg_2.4; mbgd_8.2; tigr_7.1; GO:0000166; GO:0003676; GO:0003677; GO:0003678; GO:0004386; GO:0005515; GO:0005524; GO:0006139; GO:0006281; GO:0006974; GO:0009432; GO:0016787; GO:0016818; GO:0016853; GO:0016887; GO:0043139; GO:0046872; GO:0051536; LexA-; yoaA	1	1	cog_2.1; kegg_2.4...	white	NA	Replication_rec...	#ff7fff	NA	white	534	white
+S1_M535	Module_535	2	Module_535	2	0	1		2	0	S1_M535	white	NA	535	white	NA	white	535	white
+S1_M536	Module_536	3	Group_14	3	0	1	GO:0005886; GO:0016020; GO:0043190; GO:0044874; GO:0098797; GO:0140306; Kmodule:M00255; cog_3.4; kegg_3.1; lolCDE	3	0	GO:0005886; GO:00...	white	NA	Cell_wall/membr...	#bfbf7f	NA	white	536	white
+S1_M537	Module_537	3	Module_537	3	0	1	GO:0005515; Fis+; MazE-; MazEF-; relA-mazEF	3	0	GO:0005515; Fis+;...	white	NA	537	white	NA	white	537	white
+S1_M538	Module_538	2	Module_538	2	0	1	CRP-+; H-NS-; LacI-; MarA-; lacZYA	2	0	CRP-+; H-NS-; Lac...	white	NA	538	white	NA	white	538	white
+S1_M539	Module_539	2	Module_539	2	0	1	GO:0000166; GO:0005515; GO:0005524; GO:0005525; GO:0008728; GO:0008893; GO:0015949; GO:0015969; GO:0015970; GO:0016301; GO:0016740; GO:0042594; GO:0051302; CRP+; H-NS+; HipAB-; HipB-; Lrp+; NtrC+; cog_2.3; kegg_1.4; mbgd_13.1; ppGpp+; relA-mazEF; tigr_15.9	2	0	GO:0000166; GO:00...	white	NA	Transcription	#ffbf7f	NA	white	539	white
+S1_M54	Module_54	2	Module_54	0	2	0	GO:0046677; mbgd_15.1; recET-ralR-rcbA-xisR-intR	2	0	GO:0046677; mbgd_...	white	NA	54	white	NA	white	54	white
+S1_M540	Module_540	3	Module_540	2	1	0.666666667	kegg_99.1; cog_2.1	2	1	kegg_99.1; cog_2.1	white	NA	540	white	NA	white	540	white
+S1_M541	Module_541	2	Module_541	1	1	0.5	GO:0003824; GO:0004632; GO:0004633; GO:0005515; GO:0005829; GO:0010181; GO:0015937; GO:0015941; GO:0016829; GO:0016831; GO:0016874; GO:0042802; GO:0046872; Kmodule:M00120; cog_1.4; cog_4.2; dfp; kegg_1.9; kegg_99.1; mbgd_15.1; mbgd_4; tigr_19; tigr_4.7	1	1	GO:0003824; GO:00...	white	NA	541	white	NA	white	541	white
+S1_M542	Module_542	2	Group_206	2	0	1	GO:0005515; kegg_1.5; pepQ-yigZ-trkH-hemG	2	0	GO:0005515; kegg_...	white	NA	542	white	NA	white	542	white
+S1_M543	Module_543	2	Group_14	2	0	1	GO:0000166; GO:0005515; GO:0005524; GO:0016301; GO:0016740; lolB-ispE-prs	2	0	GO:0000166; GO:00...	white	NA	543	white	NA	white	543	white
+S1_M544	Module_544	4	Module_544	3	1	0.75	kegg_99.1; mbgd_15.1; GO:0005886; GO:0016020; tigr_16.4; yohJK	3	1	kegg_99.1; mbgd_1...	white	NA	544	white	NA	white	544	white
+S1_M545	Module_545	2	Group_335	2	0	1		2	0	S1_M545	white	NA	545	white	NA	white	545	white
+S1_M546	Module_546	2	Module_546	2	0	1	GO:0005737; GO:0008652; GO:0009073; SoxR+; TyrR-; aroF-tyrA; cog_1.1; kegg_1.5; tigr_1.1	2	0	GO:0005737; GO:00...	white	NA	Amino_acid_tran...	#bf7fbf	NA	white	546	white
+S1_M547	Module_547	2	Module_547	2	0	1	H-NS-; NhaR+; nhaAR	2	0	H-NS-; NhaR+; nhaAR	white	NA	547	white	NA	white	547	white
+S1_M548	Module_548	3	Group_27	3	0	1	GO:0005737; GO:0005829; GO:0006083; GO:0006085; GO:0008270; GO:0016740; GO:0019413; CreB+; ackA-pta	3	0	GO:0005737; GO:00...	white	NA	548	white	NA	white	548	white
+S1_M549	Module_549	2	Group_27	2	0	1	yedEF	2	0	yedEF	white	NA	549	white	NA	white	549	white
+S1_M55	Module_55	3	Group_44	3	0	1	GO:0009234; Kmodule:M00116; menFD-yfbB-menBCE; tigr_4.5	3	0	GO:0009234; Kmodu...	white	NA	55	white	NA	white	55	white
+S1_M550	Module_550	2	Module_550	2	0	1	cog_1.3; tesA-ybbO	2	0	cog_1.3; tesA-ybbO	white	NA	Lipid_transport...	#bfffbf	NA	white	550	white
+S1_M551	Module_551	3	Group_31	2	1	0.666666667	cog_1.6; kegg_1.1; mbgd_1.2; tigr_6.7; GO:0003824; GO:0004470; GO:0004473; GO:0005829; GO:0006108; GO:0008948; GO:0016491; GO:0016616; GO:0016746; GO:0030145; GO:0042802; GO:0043883; GO:0046872; GO:0051287; Fur-; Kmodule:M00169; Kmodule:M00172; maeB	2	1	cog_1.6; kegg_1.1...	white	NA	Energy_producti...	#bfff7f	NA	white	551	white
+S1_M552	Module_552	2	Module_552	2	0	1	GO:0004222; GO:0005737; GO:0006508; GO:0008233; GO:0008237; GO:0008270; GO:0016787; GO:0030288; GO:0042597; GO:0046872; LexA-; Nac-; cog_3.2; kegg_6; mbgd_5; ptrA-recBD; tigr_7.1	2	0	GO:0004222; GO:00...	white	NA	Posttranslation...	#bf8f8f	NA	white	552	white
+S1_M553	Module_553	2	Module_553	2	0	1	GO:0006744; cog_1.4; ubiEJB	2	0	GO:0006744; cog_1...	white	NA	Coenzyme_transp...	#bf7fff	NA	white	553	white
+S1_M554	Module_554	2	Group_198	2	0	1	yifL-dapF-yigA-xerC-yigB	2	0	yifL-dapF-yigA-xe...	white	NA	554	white	NA	white	554	white
+S1_M555	Module_555	2	Group_255	2	0	1	FhlA+; IHF+; ModE+; NsrR-; hycABCDEFGHI	2	0	FhlA+; IHF+; ModE...	white	NA	555	white	NA	white	555	white
+S1_M556	Module_556	2	Module_556	1	1	0.5	GO:0000976; GO:0001217; GO:0003677; GO:0003700; GO:0005515; GO:0005737; GO:0005829; GO:0006355; GO:0019568; GO:0032993; GO:0042802; GO:0043565; GO:0045892; AraC+; AraC-; AraC-+; CRP+; XylR-; cog_2.3; cog_4.2; kegg_3.2; kegg_99.1; mbgd_15.1; mbgd_7.6; tigr_16.4; tigr_19	1	1	GO:0000976; GO:00...	white	NA	556	white	NA	white	556	white
+S1_M557	Module_557	2	Group_58	2	0	1	GO:0005515; Fis-; cbpA-cbpM; kegg_1.5; ppGpp+	2	0	GO:0005515; Fis-;...	white	NA	557	white	NA	white	557	white
+S1_M558	Module_558	3	Module_558	2	1	0.666666667	mbgd_15.1; GO:0000166; GO:0003824; GO:0005515; GO:0005524; GO:0005829; GO:0006749; GO:0008216; GO:0008884; GO:0008885; GO:0016787; GO:0016874; GO:0046872; Spf+; cog_1.1; gss; kegg_1.6; tigr_1.1	2	1	mbgd_15.1; GO:000...	white	NA	558	white	NA	white	558	white
+S1_M559	Module_559	3	Module_559	3	0	1	GO:0005515; kegg_99.1	3	0	GO:0005515; kegg_...	white	NA	559	white	NA	white	559	white
+S1_M56	Module_56	2	Module_56	2	0	1	GO:0000156; GO:0000160; GO:0000976; GO:0003677; GO:0005515; GO:0005737; GO:0005829; GO:0006355; GO:0032993; GO:0045893; CRP-+; IHF-; Kmodule:M00445; Kmodule:M00742; Kmodule:M00743; Nac-; OmpR+; OmpR-; OmpR-+; OmrA-; OmrB-; cog_3.3; kegg_3.2; mbgd_7.6; ompR-envZ; tigr_16.4	2	0	GO:0000156; GO:00...	white	NA	Signal_transduc...	#ff7fbf	NA	white	56	white
+S1_M560	Module_560	2	Module_560	2	0	1	GO:0005515; GO:0005886; GO:0009279; GO:0009306; GO:0016020; GO:0089705; GO:0097347; tamAB-ytfP	2	0	GO:0005515; GO:00...	white	NA	560	white	NA	white	560	white
+S1_M561	Module_561	2	Group_14	2	0	1	GO:0000166; GO:0003676; GO:0004812; GO:0004816; GO:0005524; GO:0005737; GO:0006412; GO:0006418; GO:0006421; GO:0016874; GO:0042803; GO:0140640; Kmodule:M00359; Kmodule:M00360; asnS; cog_2.5; kegg_2.2; mbgd_2.3; tigr_9.1	2	0	GO:0000166; GO:00...	white	NA	Translation_rib...	#ffbfbf	NA	white	561	white
+S1_M562	Module_562	2	Module_562	2	0	1	GO:0003824; GO:0005515; GO:0005886; GO:0006629; GO:0008654; GO:0008808; GO:0016020; GO:0016740; GO:0016780; GO:0030572; GO:0032049; GO:0060187; clsA-yciU; cog_1.3; kegg_1.3; mbgd_4.9; tigr_9.2	2	0	GO:0003824; GO:00...	white	NA	Lipid_transport...	#bfffbf	NA	white	562	white
+S1_M563	Module_563	2	Group_27	2	0	1	GO:0004177; GO:0005515; GO:0005737; GO:0005829; GO:0006508; GO:0006518; GO:0008233; GO:0008237; GO:0008270; GO:0016787; GO:0042803; GO:0043171; GO:0045148; GO:0046872; FNR+; cog_1.1; kegg_99.1; mbgd_1.2; pepT; tigr_10.4	2	0	GO:0004177; GO:00...	white	NA	Amino_acid_tran...	#bf7fbf	NA	white	563	white
+S1_M564	Module_564	2	Module_564	2	0	1	GO:0006744; ArcA-; FNR-; IHF-; Kmodule:M00117; NarL-; cog_1.4; kegg_1.9; ubiCA	2	0	GO:0006744; ArcA-...	white	NA	Coenzyme_transp...	#bf7fff	NA	white	564	white
+S1_M565	Module_565	2	Module_565	2	0	1	GO:0016787; CreB+; nudF-yqiB-cpdA-yqiA-parE	2	0	GO:0016787; CreB+...	white	NA	565	white	NA	white	565	white
+S1_M566	Module_566	3	Module_566	2	1	0.666666667		3	0	S1_M566	white	NA	566	white	NA	white	566	white
+S1_M567	Module_567	2	Module_567	2	0	1	GO:0005886; GO:0006813; GO:0008324; GO:0016020; GO:0022857; GO:0055085; GO:0098655; cog_4.1; kegg_99.1; mbgd_15.1; tigr_11.8; ybjL	2	0	GO:0005886; GO:00...	white	NA	567	white	NA	white	567	white
+S1_M568	Module_568	2	Group_5	1	1	0.5	kegg_99.1; mbgd_15.1; GO:0043709; cog_4.1; cog_4.2; tigr_11.2; tigr_19	1	1	kegg_99.1; mbgd_1...	white	NA	568	white	NA	white	568	white
+S1_M569	Module_569	2	Module_569	2	0	1	cmtBA-yggPF-fumE-yggC; mbgd_15.1	2	0	cmtBA-yggPF-fumE-...	white	NA	569	white	NA	white	569	white
+S1_M57	Module_57	3	Group_44	3	0	1	GO:0009234; Kmodule:M00116; menFD-yfbB-menBCE; tigr_4.5	3	0	GO:0009234; Kmodu...	white	NA	57	white	NA	white	57	white
+S1_M570	Module_570	2	Module_570	1	1	0.5	GO:0005996; GO:0008270; GO:0016853; GO:0019852; GO:0019854; CRP+; IHF-; Kmodule:M00550; UlaR-; kegg_1.1; ulaABCDEF	2	0	GO:0005996; GO:00...	white	NA	Carbohydrate_tr...	#bfffff	NA	white	570	white
+S1_M571	Module_571	2	Group_184	2	0	1	GO:0005515; GO:0005829; cog_3.2; sspAB	2	0	GO:0005515; GO:00...	white	NA	Posttranslation...	#bf8f8f	NA	white	571	white
+S1_M572	Module_572	2	Module_572	2	0	1	GO:0005886; GO:0016020; cog_1.1; kegg_99.1; mbgd_15.1; yjiHG-iadA	2	0	GO:0005886; GO:00...	white	NA	Amino_acid_tran...	#bf7fbf	NA	white	572	white
+S1_M573	Module_573	2	Group_27	2	0	1	GO:0005515; GO:0005737; FNR+; FlhDC+; IscR-; ModE+; NarL-; NarP-+; kegg_99.1; napFDAGHBC-ccmABCDEFGH	2	0	GO:0005515; GO:00...	white	NA	573	white	NA	white	573	white
+S1_M574	Module_574	2	Module_574	2	0	1	GO:0005737; kegg_99.1	2	0	GO:0005737; kegg_...	white	NA	574	white	NA	white	574	white
+S1_M575	Module_575	2	Module_575	1	1	0.5		2	0	S1_M575	white	NA	575	white	NA	white	575	white
+S1_M576	Module_576	4	Group_139	4	0	1	lptB-rpoN-hpf-ptsN-yhbJ	4	0	lptB-rpoN-hpf-pts...	white	NA	576	white	NA	white	576	white
+S1_M577	Module_577	2	Group_229	2	0	1	GO:0005534; GO:0015757; GO:0030246; GO:0030288; GO:0042597; GO:0048029; GO:0055052; GO:0055085; GO:0140271; AraC-; cog_1.5; kegg_3.1; mbgd_7.6; tigr_11.3; ytfQRT-yjfF	2	0	GO:0005534; GO:00...	white	NA	Carbohydrate_tr...	#bfffff	NA	white	577	white
+S1_M578	Module_578	3	Group_172	3	0	1	GO:0000160; GO:0005515; GO:0007155; CpxR+; Kmodule:M00447; Kmodule:M00727; Kmodule:M00728; MicF-; cog_3.3; cpxRA; kegg_3.2	3	0	GO:0000160; GO:00...	white	NA	Signal_transduc...	#ff7fbf	NA	white	578	white
+S1_M579	Module_579	4	Group_14	4	0	1	GO:0042802	4	0	GO:0042802	white	NA	579	white	NA	white	579	white
+S1_M58	Module_58	8	Group_46	8	0	1		8	0	S1_M58	white	Region_3	Cell_wall/membr...	#bfbf7f	Region_3.3	#0072B5	58	#030712
+S1_M580	Module_580	3	Module_580	3	0	1	GO:0005829; GO:0006979; GO:0009321; GO:0016491; GO:0042744; GO:0045454; GO:0098869; GO:0102039; MetJ-; OxyR+; ahpCF; cog_3.2	3	0	GO:0005829; GO:00...	white	NA	Posttranslation...	#bf8f8f	NA	white	580	white
+S1_M581	Module_581	4	Group_14	3	1	0.75	GO:0005829	3	1	GO:0005829	white	NA	581	white	NA	white	581	white
+S1_M582	Module_582	2	Module_582	2	0	1	fabR-yijD; mbgd_15.1	2	0	fabR-yijD; mbgd_15.1	white	NA	582	white	NA	white	582	white
+S1_M583	Module_583	2	Module_583	2	0	1	GO:0005829; folD-ybcJ; kegg_1.9; tigr_7.1	2	0	GO:0005829; folD-...	white	NA	583	white	NA	white	583	white
+S1_M584	Module_584	2	Module_584	2	0	1		2	0	S1_M584	white	NA	584	white	NA	white	584	white
+S1_M585	Module_585	2	Group_14	2	0	1	GO:0042802; dapA-nlpB; kegg_1.5	2	0	GO:0042802; dapA-...	white	NA	585	white	NA	white	585	white
+S1_M586	Module_586	3	Group_14	3	0	1	GO:0005515; rnc-era-recO-pdxJ-acpS	3	0	GO:0005515; rnc-e...	white	NA	586	white	NA	white	586	white
+S1_M587	Module_587	2	Module_587	0	2	0	GO:0005515; GO:0005829; GO:0010124; GO:0062077; CRP+; Fur-; IHF+; Kmodule:M00878; PaaX-; SlyA+; SrsR+; cog_1.8; kegg_1.5; mbgd_15.1; paaABCDEFGHIJK; tigr_16.4	2	0	GO:0005515; GO:00...	white	NA	Secondary_metab...	#7f7fff	NA	white	587	white
+S1_M588	Module_588	4	Group_27	4	0	1		4	0	S1_M588	white	NA	588	white	NA	white	588	white
+S1_M589	Module_589	2	Module_589	2	0	1	GO:0005515; GO:0005737; GO:0005829; GO:0006048; GO:0016740; GlmZ+; NagC-+; cog_3.4; glmUS; tigr_5.1	2	0	GO:0005515; GO:00...	white	NA	Cell_wall/membr...	#bfbf7f	NA	white	589	white
+S1_M59	Module_59	22	Group_47	16	6	0.727272727	Fur-	17	5	Fur-	orchid	Region_1	Inorganic_ion_t...	#dfbfff	Region_1.2	#7876B1	59	#D946EF
+S1_M590	Module_590	2	Module_590	0	2	0		2	0	S1_M590	white	NA	590	white	NA	white	590	white
+S1_M591	Module_591	2	Group_14	2	0	1	GO:0005829; GO:0006629; GO:0006631; GO:0006633; GO:0016740; GO:0016746; DksA-; FadR+; Kmodule:M00082; cog_1.3; kegg_1.3; rpmF-plsX-fabHDG; tigr_3.1	2	0	GO:0005829; GO:00...	white	NA	Lipid_transport...	#bfffbf	NA	white	591	white
+S1_M592	Module_592	3	Module_592	3	0	1		3	0	S1_M592	white	NA	592	white	NA	white	592	white
+S1_M593	Module_593	2	Module_593	2	0	1	GO:0000166; GO:0003677; GO:0005515; GO:0005524; GO:0016887; GO:0042802; kegg_99.1; tigr_7.1	2	0	GO:0000166; GO:00...	white	NA	593	white	NA	white	593	white
+S1_M594	Module_594	2	Group_94	1	1	0.5	mbgd_15.1; GO:0003333; GO:0005886; GO:0006865; GO:0015173; GO:0015196; GO:0015293; GO:0015801; GO:0015827; GO:0016020; GO:0022857; HU-; IHF-; Lrp-; TrpR-; TyrR+; cog_1.1; cog_4.2; kegg_1.1; kegg_99.1; tigr_11.1; tigr_19	1	1	mbgd_15.1; GO:000...	white	NA	594	white	NA	white	594	white
+S1_M595	Module_595	2	Module_595	2	0	1		2	0	S1_M595	white	NA	595	white	NA	white	595	white
+S1_M596	Module_596	2	Module_596	2	0	1	GO:0005829; GO:0009255; GO:0016829; Cra-; GntR-; KdgR-; Kmodule:M00008; edd-eda; kegg_1.1	2	0	GO:0005829; GO:00...	white	NA	596	white	NA	white	596	white
+S1_M597	Module_597	6	Group_363	0	6	0	CRP-+; Fis+; Lrp+; NtrC-+; glnAZLG; kegg_1.1	3	3	CRP-+; Fis+; Lrp+...	white	Region_2	597	white	Region_2.2	#E18727	597	#EA580C
+S1_M598	Module_598	2	Module_598	0	2	0		2	0	S1_M598	white	NA	598	white	NA	white	598	white
+S1_M599	Module_599	2	Module_599	2	0	1	GO:0003677; GO:0003700; GO:0005515; GO:0005737; GO:0006355; GO:0045892; GO:0046914; GO:0046983; GO:2000144; ATP-dependent RNA helicase DeaD+; MntR+; MntR-; cog_2.3; kegg_99.1; mbgd_15; mntR-ybiR; tigr_9.2	2	0	GO:0003677; GO:00...	white	NA	Transcription	#ffbf7f	NA	white	599	white
+S1_M6	Module_6	75	Group_2	70	5	0.933333333	cog_2.5; GO:0005737	71	4	cog_2.5; GO:0005737	wheat	Region_1	Translation_rib...	#ffbfbf	Region_1.3	#7876B1	6	#6B21A8
+S1_M60	Module_60	33	Group_47	26	7	0.787878788	Fur-	28	5	Fur-	darkolivegreen	Region_1	Inorganic_ion_t...	#dfbfff	Region_1.2	#7876B1	60	#D946EF
+S1_M600	Module_600	2	Module_600	1	1	0.5	GO:0000976; GO:0001217; GO:0003677; GO:0005515; GO:0006355; GO:0032993; GO:0040008; GO:0043565; GO:0045892; GO:0110001; HipAB-; HipB-; IHF+; hipBA; kegg_1.1	2	0	GO:0000976; GO:00...	white	NA	600	white	NA	white	600	white
+S1_M601	Module_601	3	Module_601	3	0	1	GO:0005829	3	0	GO:0005829	white	NA	601	white	NA	white	601	white
+S1_M602	Module_602	2	Module_602	2	0	1	GO:0005829; GO:0016485; GO:1905368; cog_4.1; kegg_99.1; mbgd_15; tigr_7.1	2	0	GO:0005829; GO:00...	white	NA	602	white	NA	white	602	white
+S1_M603	Module_603	2	Group_14	2	0	1	GO:0000918; GO:0005515; GO:0005829; GO:0005886; GO:0042802; GO:0051301; cog_3.5; minCDE; tigr_15.1	2	0	GO:0000918; GO:00...	white	NA	Cell_cycle_cont...	#bfbfbf	NA	white	603	white
+S1_M604	Module_604	2	Module_604	2	0	1	GO:0006208; GO:0006212; GO:0016787; GO:0019740; ArcA+; NtrC+; PhoP+; RutR-; rutABCDEFG; tigr_16.4	2	0	GO:0006208; GO:00...	white	NA	604	white	NA	white	604	white
+S1_M605	Module_605	2	Module_605	2	0	1	CreB+; nudF-yqiB-cpdA-yqiA-parE	2	0	CreB+; nudF-yqiB-...	white	NA	605	white	NA	white	605	white
+S1_M606	Module_606	2	Group_14	2	0	1	GO:0000166; GO:0003989; GO:0005515; GO:0005524; GO:0005737; GO:0005829; GO:0006629; GO:0006631; GO:0006633; GO:0009317; GO:0009329; GO:0016740; GO:0016743; GO:0042759; GO:2001295; FadR+; Kmodule:M00082; acetyl-CoA carboxyltransferase-; cog_1.3; kegg_1.1; tigr_3.1	2	0	GO:0000166; GO:00...	white	NA	Lipid_transport...	#bfffbf	NA	white	606	white
+S1_M607	Module_607	2	Module_607	0	2	0	GO:0005737; GO:0016491; GO:0046210; FNR-; IHF-+; NarL-; NarP-; NorR+; cog_1.6; norVW	2	0	GO:0005737; GO:00...	white	NA	Energy_producti...	#bfff7f	NA	white	607	white
+S1_M608	Module_608	2	Module_608	0	2	0		0	2	S1_M608	white	NA	608	white	NA	white	608	white
+S1_M609	Module_609	2	Group_27	2	0	1	GO:0000166; GO:0000287; GO:0003824; GO:0004743; GO:0005515; GO:0005524; GO:0005737; GO:0005829; GO:0006096; GO:0016208; GO:0016301; GO:0016740; GO:0030955; GO:0042802; GO:0046872; GO:1902912; DicF-; FNR+; Kmodule:M00001; Kmodule:M00002; Kmodule:M00049; Kmodule:M00050; cog_1.5; kegg_1.1; mbgd_6.9; pykA; tigr_6.8	2	0	GO:0000166; GO:00...	white	NA	Carbohydrate_tr...	#bfffff	NA	white	609	white
+S1_M61	Module_61	7	Module_61	6	1	0.857142857	Fis+; H-NS+; IHF+; Lrp+; QseB+; fimAICDFGH; GO:0007155; GO:0009289; GO:0043709; mbgd_15.1	6	1	Fis+; H-NS+; IHF+...	white	Region_2	61	white	Region_2.1	#E18727	61	#FDE047
+S1_M610	Module_610	2	Module_610	2	0	1	GO:0003677; BasR+; CpxR+; PdhR-; kegg_1.1; mbgd_15.1; tomB-hha	2	0	GO:0003677; BasR+...	white	NA	610	white	NA	white	610	white
+S1_M611	Module_611	2	Module_611	1	1	0.5	GO:0000976; GO:0001216; GO:0001217; GO:0003677; GO:0005515; GO:0005829; GO:0006355; GO:0032993; GO:0042802; GO:0043565; GO:0045892; GO:0045893; ArgR-; DsrA-; GadE+; GcvB-; H-NS-; Lrp+; Lrp-; Lrp-+; MicF-; Nac-; NsrR-; cog_2.3; cog_4.2; kegg_1.1; kegg_99.1; mbgd_14.3; mbgd_15.1; ppGpp+; tigr_16.4; tigr_19	1	1	GO:0000976; GO:00...	white	NA	611	white	NA	white	611	white
+S1_M612	Module_612	2	Module_612	2	0	1	cog_1.6; kegg_99.1; ygcNOP	2	0	cog_1.6; kegg_99....	white	NA	Energy_producti...	#bfff7f	NA	white	612	white
+S1_M613	Module_613	2	Group_29	0	2	0	GO:0000976; GO:0000987; GO:0001216; GO:0001217; GO:0003677; GO:0003700; GO:0005515; GO:0005829; GO:0006164; GO:0006355; GO:0042803; GO:0045892; GO:0045893; CRP+; CRP-+; CytR-; DsrA-; Fur-; GcvB-; PurR-; RbsR+; RbsR-; SgrS-; cog_2.3; cog_4.2; kegg_1.1; kegg_99.1; mbgd_15.1; mbgd_4.1; rbsDACBZKR; tigr_11.1; tigr_19	1	1	GO:0000976; GO:00...	white	NA	Transcription	#ffbf7f	NA	white	613	white
+S1_M614	Module_614	2	Group_329	2	0	1	GO:0005515; GO:0016020	2	0	GO:0005515; GO:00...	white	NA	614	white	NA	white	614	white
+S1_M615	Module_615	2	Module_615	2	0	1	GO:0005829; kegg_99.1	2	0	GO:0005829; kegg_...	white	NA	615	white	NA	white	615	white
+S1_M616	Module_616	2	Module_616	0	2	0	CRP+; SlyA-; kegg_1.1; sgcXBCQAER	2	0	CRP+; SlyA-; kegg...	white	NA	616	white	NA	white	616	white
+S1_M617	Module_617	2	Group_27	1	1	0.5	kegg_1.2; GO:0004365; GO:0005737; GO:0005829; GO:0006006; GO:0008615; GO:0016491; GO:0016620; GO:0042823; GO:0051287; GO:0072524; CRP+; Cra-; FlhDC+; Kmodule:M00124; cog_1.3; cog_1.5; epd-pgk-fbaA; mbgd_15.1; mbgd_4; tigr_6.5; tigr_6.8	1	1	kegg_1.2; GO:0004...	white	NA	617	white	NA	white	617	white
+S1_M62	Module_62	3	Module_62	1	2	0.333333333	cog_2.3; kegg_99.1; mbgd_6; tigr_18.1; GO:0003676; GO:0003677; GO:0005737; GO:0005829; GO:0010468	1	2	cog_2.3; kegg_99....	white	NA	Transcription	#ffbf7f	NA	white	62	white
+S1_M63	Module_63	3	Module_63	1	2	0.333333333	cog_4.2; kegg_99.1; mbgd_15.1; tigr_19; GO:0000166; GO:0003677; GO:0003680; GO:0003700; GO:0005515; GO:0005829; GO:0006351; GO:0006355; GO:0008301; GO:0032993; GO:0042802; GO:0043565; GO:0045892; GO:0045893; CRP+; CRP-; CRP-+; CRP-Sxy+; Cra+; Fis-; cog_3.3; kegg_4; mbgd_7.6; ppGpp-; tigr_16.4	1	2	cog_4.2; kegg_99....	white	NA	63	white	NA	white	63	white
+S1_M64	Module_64	2	Group_51	1	1	0.5	cog_4.2; mbgd_15.1; GO:0005515; GO:0005737; GO:0006974; GO:0034599; GO:0042177; GO:0043856; GO:0045893; CsrA-; DksA-; DnaA-; FNR+; Lrp-; iraD; kegg_1.2; kegg_99.1; ppGpp+; tigr_19; tigr_6.2	1	1	cog_4.2; mbgd_15....	white	NA	64	white	NA	white	64	white
+S1_M65	Module_65	2	Module_65	1	1	0.5	GO:0000166; GO:0003676; GO:0003677; GO:0004386; GO:0004844; GO:0005524; GO:0006281; GO:0006284; GO:0006974; GO:0006979; GO:0015616; GO:0016787; GO:0016818; GO:0016853; GO:0016887; GO:0033679; GO:0042802; GO:0097510; cog_2.1; mbgd_6; rnt-lhr; tigr_6.5	2	0	GO:0000166; GO:00...	white	NA	Replication_rec...	#ff7fff	NA	white	65	white
+S1_M66	Module_66	3	Module_66	0	3	0	GO:0005886; GO:0016020	3	0	GO:0005886; GO:00...	white	NA	66	white	NA	white	66	white
+S1_M67	Module_67	3	Group_14	3	0	1		3	0	S1_M67	white	NA	67	white	NA	white	67	white
+S1_M68	Module_68	11	Group_36	8	3	0.727272727	cog_1.5; kegg_1.1; CRP+; mbgd_15.1; GO:0005829; GO:0019402; ArcA-; GatR-; gatYZABCD	6	5	cog_1.5; kegg_1.1...	white	Region_1	Carbohydrate_tr...	#bfffff	Region_1.3	#7876B1	68	#6B21A8
+S1_M69	Module_69	10	Module_69	6	4	0.6	CusR+; HprR+; PhoB+; GO:0046688; kegg_3.2	6	4	CusR+; HprR+; Pho...	white	Region_2	69	white	Region_2.1	#E18727	69	#FDE047
+S1_M7	Module_7	8	Group_6	8	0	1	GO:0005515; GO:0005829	8	0	GO:0005515; GO:00...	white	Region_1	Posttranslation...	#bf8f8f	Region_1.4	#7876B1	7	#2E0854
+S1_M70	Module_70	2	Module_70	0	2	0	GO:0005886; yqeIJ	2	0	GO:0005886; yqeIJ	white	NA	70	white	NA	white	70	white
+S1_M71	Module_71	4	Group_31	4	0	1	GO:0019285; ArcA-; BetI-; Cra+	4	0	GO:0019285; ArcA-...	white	NA	71	white	NA	white	71	white
+S1_M72	Module_72	3	Group_14	2	1	0.666666667	GO:0000166; GO:0005524; GO:0005886	3	0	GO:0000166; GO:00...	white	NA	72	white	NA	white	72	white
+S1_M73	Module_73	3	Module_73	3	0	1	cog_3.3	3	0	cog_3.3	white	NA	Signal_transduc...	#ff7fbf	NA	white	73	white
+S1_M74	Module_74	22	Group_14	22	0	1		22	0	S1_M74	darkseagreen	Region_2	Translation_rib...	#ffbfbf	Region_2.2	#E18727	74	#EA580C
+S1_M75	Module_75	6	Module_75	6	0	1	AppY+; ArcA+; Fis-; IscR-; NarL-; NarP-; YdeO+; hyaABCDEF	6	0	AppY+; ArcA+; Fis...	white	Region_3	75	white	Region_3.4	#0072B5	75	white
+S1_M76	Module_76	36	Group_58	20	16	0.555555556	mbgd_15.1	21	15	mbgd_15.1	sandybrown	Region_1	Amino_acid_tran...	#bf7fbf	Region_1.4	#7876B1	76	#2E0854
+S1_M77	Module_77	3	Module_77	3	0	1	GO:0046677; AcrR-; CRP+; CpxR+; Cra-; Fis+; MarA+; MarR-; Rob+; SoxS+; marRAB	3	0	GO:0046677; AcrR-...	white	NA	77	white	NA	white	77	white
+S1_M78	Module_78	2	Module_78	0	2	0		0	2	S1_M78	white	NA	78	white	NA	white	78	white
+S1_M79	Module_79	3	Module_79	3	0	1	mbgd_15.1	3	0	mbgd_15.1	white	NA	79	white	NA	white	79	white
+S1_M8	Module_8	5	Module_8	3	2	0.6	FNR+; Fur-; NagC; OmpR+; feoABC; kegg_99.1; mbgd_15.1	3	2	FNR+; Fur-; NagC;...	white	Region_2	8	white	Region_2.1	#E18727	8	#FDE047
+S1_M80	Module_80	3	Module_80	1	2	0.333333333		0	3	S1_M80	white	NA	80	white	NA	white	80	white
+S1_M81	Module_81	5	Group_63	2	3	0.4	GO:0005886; GO:0016020; ArcA-; GlcC+; IHF+; PdhR-; cog_1.6; glcDEFGBA; GO:0016491; GO:0019154; GO:0046296; GO:0047809; kegg_1.1	5	0	GO:0005886; GO:00...	white	Region_3	Energy_producti...	#bfff7f	Region_3.2	#0072B5	81	#1D4ED8
+S1_M82	Module_82	2	Module_82	2	0	1		2	0	S1_M82	white	NA	82	white	NA	white	82	white
+S1_M83	Module_83	8	Group_46	8	0	1	wcaCDEF-gmd-fcl-gmm-wcaI-cpsBG-wcaJ-wzxC	8	0	wcaCDEF-gmd-fcl-g...	white	Region_3	83	white	Region_3.3	#0072B5	83	#030712
+S1_M84	Module_84	4	Module_84	4	0	1	GO:0005507; CueR+	4	0	GO:0005507; CueR+	white	NA	84	white	NA	white	84	white
+S1_M85	Module_85	4	Module_85	3	1	0.75	NtrC+; mbgd_15	3	1	NtrC+; mbgd_15	white	NA	85	white	NA	white	85	white
+S1_M86	Module_86	5	Group_27	1	4	0.2	cog_1.6; kegg_1.2; GO:0005886; GO:0009061; GO:0009389; GO:0009390; GO:0016020; GO:0016491; GO:0019645; GO:1990204; FNR+; NarL-; mbgd_1.6; mbgd_6; tigr_6.5; ynfEFGH-dmsD	2	3	cog_1.6; kegg_1.2...	white	Region_3	Energy_producti...	#bfff7f	Region_3.1	#0072B5	86	#06B6D4
+S1_M87	Module_87	8	Group_8	4	4	0.5	cog_1.1; GO:0009086; GO:0008652; GO:0016740	6	2	cog_1.1; GO:00090...	white	Region_2	Amino_acid_tran...	#bf7fbf	Region_2.1	#E18727	87	#FDE047
+S1_M88	Module_88	2	Module_88	1	1	0.5	kegg_99.1; mbgd_15.1; Lrp+; cog_3.4; cog_4.2; tigr_10.1; tigr_19	1	1	kegg_99.1; mbgd_1...	white	NA	88	white	NA	white	88	white
+S1_M89	Module_89	6	Module_89	6	0	1	GO:0006629; GO:0009103; GO:0009245; GO:0016020; BasR+; arnBCADTEF; Kmodule:M00721	6	0	GO:0006629; GO:00...	white	Region_3	89	white	Region_3.2	#0072B5	89	#1D4ED8
+S1_M9	Module_9	15	Group_8	12	3	0.8	MetJ-	12	3	MetJ-	white	Region_2	Amino_acid_tran...	#bf7fbf	Region_2.1	#E18727	9	#FDE047
+S1_M90	Module_90	3	Module_90	0	3	0	GO:0005515; GO:0051607; GO:0099048; CRP-; H-NS-; LeuO+; SlyA+; StpA+; casDE-ygbTF; mbgd_15.1	3	0	GO:0005515; GO:00...	white	NA	90	white	NA	white	90	white
+S1_M91	Module_91	13	Module_91	5	8	0.384615385		11	2	S1_M91	white	Region_2	91	white	Region_2.2	#E18727	91	#EA580C
+S1_M92	Module_92	2	Module_92	2	0	1	GO:0005886; FNR+; Fis-; FlhDC+; IHF-+; Nac+; NarL-+; NarP+; NsrR-; cog_3.2; kegg_99.1; mbgd_15.1; nrfABCDEFG; tigr_6.5	2	0	GO:0005886; FNR+;...	white	NA	Posttranslation...	#bf8f8f	NA	white	92	white
+S1_M93	Module_93	3	Module_93	0	3	0	cog_4.2; mbgd_15.1; kegg_99.1; tigr_19; kegg_98.1; tigr_12.1	1	2	cog_4.2; mbgd_15....	white	NA	93	white	NA	white	93	white
+S1_M94	Module_94	2	Module_94	2	0	1	IHF-; amiA-hemF	2	0	IHF-; amiA-hemF	white	NA	94	white	NA	white	94	white
+S1_M95	Module_95	2	Group_51	0	2	0	CsrA-; DksA-; DnaA-; cog_4.2; iraD; kegg_99.1; mbgd_15.1; ppGpp+; tigr_19	2	0	CsrA-; DksA-; Dna...	white	NA	95	white	NA	white	95	white
+S1_M96	Module_96	5	Module_96	5	0	1	GO:0009102; BirA-; tigr_4.1; Kmodule:M00123; Kmodule:M00577; bioBFCD; cog_1.4; kegg_1.9	5	0	GO:0009102; BirA-...	white	Region_2	Coenzyme_transp...	#bf7fff	Region_2.1	#E18727	96	#FDE047
+S1_M97	Module_97	4	Group_47	0	4	0	GO:0005515; GO:0006811; GO:0006826; GO:0006879; GO:0016020; GO:0033214; CRP+; Fur-; HypT-; PdhR+; cog_1.7; fecABCDE	4	0	GO:0005515; GO:00...	white	NA	Inorganic_ion_t...	#dfbfff	NA	white	97	white
+S1_M98	Module_98	2	Module_98	0	2	0	cog_1.1; kegg_99.1; mbgd_15.1; tigr_6.5; yfeCD	2	0	cog_1.1; kegg_99....	white	NA	Amino_acid_tran...	#bf7fbf	NA	white	98	white
+S1_M99	Module_99	9	Group_76	0	9	0	GO:0009103	9	0	GO:0009103	white	Region_1	Cell_wall/membr...	#bfbf7f	Region_1.3	#7876B1	99	#6B21A8

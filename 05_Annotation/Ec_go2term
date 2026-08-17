@@ -1,0 +1,2279 @@
+cog_1	cog_1:Metabolism
+cog_1.1	cog_1.1:Amino acid transport and metabolism
+cog_1.2	cog_1.2:Nucleotide transport and metabolism
+cog_1.3	cog_1.3:Lipid transport and metabolism
+cog_1.4	cog_1.4:Coenzyme transport and metabolism
+cog_1.5	cog_1.5:Carbohydrate transport and metabolism
+cog_1.6	cog_1.6:Energy production and conversion
+cog_1.7	cog_1.7:Inorganic ion transport and metabolism
+cog_1.8	cog_1.8:Secondary metabolites biosynthesis, transport and catabolism
+cog_2	cog_2:Information starage and processing
+cog_2.1	cog_2.1:Replication, recombination and repair
+cog_2.2	cog_2.2:Chromatin structure and dynamics
+cog_2.3	cog_2.3:Transcription
+cog_2.4	cog_2.4:RNA processing and modification
+cog_2.5	cog_2.5:Translation, ribosomal structure and biogenesis
+cog_3	cog_3:Cellular processes and signaling
+cog_3.1	cog_3.1:Intracellular trafficking, secretion, and vesicular transport
+cog_3.2	cog_3.2:Posttranslational modification, protein turnover, chaperones
+cog_3.3	cog_3.3:Signal transduction mechanisms
+cog_3.4	cog_3.4:Cell wall/membrane/envelope biogenesis
+cog_3.5	cog_3.5:Cell cycle control, cell division, chromosome partitioning
+cog_3.6	cog_3.6:Cell motility
+cog_3.7	cog_3.7:Defense mechanisms
+cog_3.8	cog_3.8:Cytoskeleton
+cog_3.9	cog_3.9:Nuclear structure
+cog_3.1	cog_3.1:Extracellular structures
+cog_4	cog_4:Poorly characterized
+cog_4.1	cog_4.1:General function prediction only
+cog_4.2	cog_4.2:Function unknown
+kegg_1	kegg_1:Metabolism
+kegg_1.1	kegg_1.1:Carbohydrate Metabolism
+kegg_1.2	kegg_1.2:Energy Metabolism
+kegg_1.3	kegg_1.3:Lipid Metabolism
+kegg_1.4	kegg_1.4:Nucleotide Metabolism
+kegg_1.5	kegg_1.5:Amino Acid Metabolism
+kegg_1.6	kegg_1.6:Metabolism of Other Amino Acids
+kegg_1.7	kegg_1.7:Glycan Biosynthesis and Metabolism
+kegg_1.8	kegg_1.8:Metabolism of Terpenoids and Polyketides
+kegg_1.9	kegg_1.9:Metabolism of Cofactors and Vitamins
+kegg_1.1	kegg_1.1:Biosynthesis of Other Secondary Metabolites
+kegg_1.11	kegg_1.11:Xenobiotics Biodegradation and Metabolism
+kegg_2	kegg_2:Genetic Information Processing
+kegg_2.1	kegg_2.1:Transcription
+kegg_2.2	kegg_2.2:Translation
+kegg_2.3	kegg_2.3:Folding, Sorting and Degradation
+kegg_2.4	kegg_2.4:Replication and Repair
+kegg_3	kegg_3:Environmental Information Processing
+kegg_3.1	kegg_3.1:Membrane Transport
+kegg_3.2	kegg_3.2:Signal Transduction
+kegg_4	kegg_4:Cellular Processes
+kegg_4.1	kegg_4.1:Cell Motility
+kegg_4.2	kegg_4.2:Cell Growth and Death
+kegg_99	kegg_99:Unknown
+kegg_99.1	kegg_99.1:Unknown
+kegg_99.2	kegg_99.2:Assigned only other BRITE category
+kegg_1.12	kegg_1.12:Reaction Module Maps
+kegg_1.13	kegg_1.13:Chemical Structure Transformation Maps
+kegg_3.3	kegg_3.3:Signaling molecules and interactio
+kegg_4.3	kegg_4.3:Transport and Catabolism
+kegg_4.4	kegg_4.4:Cell Communication
+kegg_5	kegg_5:Organismal Systems
+kegg_5.1	kegg_5.1:Immune System
+kegg_5.2	kegg_5.2:Endocrine System
+kegg_5.3	kegg_5.3:Circulatory System
+kegg_5.4	kegg_5.4:Digestive System
+kegg_5.5	kegg_5.5:Excretory System
+kegg_5.6	kegg_5.6:Nervous System
+kegg_5.7	kegg_5.7:Sensory System
+kegg_5.8	kegg_5.8:Development
+kegg_5.9	kegg_5.9:Environmental Adaptation
+kegg_6	kegg_6:Human Diseases
+kegg_6.1	kegg_6.1:Cancers
+kegg_6.2	kegg_6.2:Immune Diseases
+kegg_6.3	kegg_6.3:Neurodegenerative Diseases
+kegg_6.4	kegg_6.4:Substance Dependence
+kegg_6.5	kegg_6.5:Cardiovascular Diseases
+kegg_6.6	kegg_6.6:Endocrine and metabolic Diseases
+kegg_6.7	kegg_6.7:Infectious Diseases: Bacterial
+kegg_6.8	kegg_6.8:Infectious Diseases: Viral
+kegg_6.9	kegg_6.9:Infectious Diseases: Parasitic
+kegg_7	kegg_7:Drug Development
+kegg_7.1	kegg_7.1:Chronology: Antiinfectives
+kegg_7.2	kegg_7.2:Chronology: Antineoplastics
+kegg_7.3	kegg_7.3:Chronology: Nervous system agents
+kegg_7.4	kegg_7.4:Chronology: Other drugs
+kegg_7.5	kegg_7.5:Target-based classification: G protein-coupled receptors
+kegg_7.6	kegg_7.6:Target-based classification: Nuclear receptors
+kegg_7.7	kegg_7.7:Target-based classification: Ion channels
+kegg_7.8	kegg_7.8:Target-based classification: Transporters
+kegg_7.9	kegg_7.9:Target-based classification: Enzymes
+kegg_7.1	kegg_7.1:Structure-based classification
+kegg_7.11	kegg_7.11:Skeleton-based classification
+kegg_98	kegg_98:Others
+kegg_98.1	kegg_98.1:Others
+mbgd_1	mbgd_1:Amino acid biosynthesis
+mbgd_1.1	mbgd_1.1:Aromatic amino acid family
+mbgd_1.2	mbgd_1.2:Aspartate family
+mbgd_1.3	mbgd_1.3:Branched chain family
+mbgd_1.4	mbgd_1.4:Glutamate family
+mbgd_1.5	mbgd_1.5:Pyruvate family
+mbgd_1.6	mbgd_1.6:Serine family
+mbgd_1.7	mbgd_1.7:Histidine family
+mbgd_2	mbgd_2:Purines, pyrimidines, nucleosides, and nucleotides
+mbgd_2.1	mbgd_2.1:2'-Deoxyribonucleotide metabolism
+mbgd_2.2	mbgd_2.2:Nucleotide and nucleoside interconversions
+mbgd_2.3	mbgd_2.3:Purine ribonucleotide biosynthesis
+mbgd_2.4	mbgd_2.4:Pyrimidine ribonucleotide biosynthesis
+mbgd_2.5	mbgd_2.5:Salvage of nucleosides and nucleotides
+mbgd_2.6	mbgd_2.6:Sugar-nucleotide biosynthesis and conversions
+mbgd_3	mbgd_3:Fatty acid, phospholipid and sterol metabolism
+mbgd_3.1	mbgd_3.1:General
+mbgd_4	mbgd_4:Biosynthesis of cofactors, prosthetic groups, and carriers
+mbgd_4.1	mbgd_4.1:Biotin
+mbgd_4.2	mbgd_4.2:Folic acid
+mbgd_4.3	mbgd_4.3:Heme and porphyrin
+mbgd_4.4	mbgd_4.4:Lipoate
+mbgd_4.5	mbgd_4.5:Menaquinone and ubiquinone
+mbgd_4.6	mbgd_4.6:Molybdopterin
+mbgd_4.7	mbgd_4.7:Pantothenate
+mbgd_4.8	mbgd_4.8:Pyridoxine
+mbgd_4.9	mbgd_4.9:Riboflavin
+mbgd_4.1	mbgd_4.1:Thioredoxin, glutaredoxin, and glutathione
+mbgd_4.11	mbgd_4.11:Pyridine nucleotides
+mbgd_4.12	mbgd_4.12:Thiamine
+mbgd_5	mbgd_5:Central intermediary metabolism
+mbgd_5.1	mbgd_5.1:Amino sugars
+mbgd_5.2	mbgd_5.2:Degradation of polysaccharides
+mbgd_5.3	mbgd_5.3:Phosphorus compounds
+mbgd_5.4	mbgd_5.4:Polyamine biosynthesis
+mbgd_5.5	mbgd_5.5:Polysaccharides - (cytoplasmic)
+mbgd_5.6	mbgd_5.6:Sulfur metabolism
+mbgd_5.7	mbgd_5.7:Others
+mbgd_6	mbgd_6:Energy metabolism
+mbgd_6.1	mbgd_6.1:Aerobic
+mbgd_6.2	mbgd_6.2:Amino acids and amines
+mbgd_6.3	mbgd_6.3:Anaerobic
+mbgd_6.4	mbgd_6.4:ATP-proton motive force interconversion
+mbgd_6.5	mbgd_6.5:Electron transport
+mbgd_6.6	mbgd_6.6:Entner-Doudoroff
+mbgd_6.7	mbgd_6.7:Fermentation
+mbgd_6.8	mbgd_6.8:Gluconeogenesis
+mbgd_6.9	mbgd_6.9:Glycolysis
+mbgd_6.1	mbgd_6.1:Pentose phosphate pathway
+mbgd_6.11	mbgd_6.11:Pyruvate dehydrogenase
+mbgd_6.12	mbgd_6.12:Sugars
+mbgd_6.13	mbgd_6.13:TCA cycle
+mbgd_7	mbgd_7:Transport and binding proteins
+mbgd_7.1	mbgd_7.1:Amino acids, peptides and amines
+mbgd_7.2	mbgd_7.2:Anions
+mbgd_7.3	mbgd_7.3:Carbohydrates, organic alcohols, and acids
+mbgd_7.4	mbgd_7.4:Cations
+mbgd_7.5	mbgd_7.5:Nucleosides, purines and pyrimidines
+mbgd_7.6	mbgd_7.6:Others
+mbgd_8	mbgd_8:DNA replication, restriction, modification, recombination, and repair
+mbgd_8.1	mbgd_8.1:Degradation of DNA
+mbgd_8.2	mbgd_8.2:DNA replication, restriction, modification, recombination, and repair
+mbgd_9	mbgd_9:Transcription
+mbgd_9.1	mbgd_9.1:Degradation of RNA
+mbgd_9.2	mbgd_9.2:DNA-dependent RNA polymerase
+mbgd_10	mbgd_10:Translation
+mbgd_10.1	mbgd_10.1:Amino acyl tRNA synthetases
+mbgd_10.2	mbgd_10.2:Degradation of proteins, peptides, and glycopeptides
+mbgd_10.3	mbgd_10.3:Nucleoproteins
+mbgd_10.4	mbgd_10.4:Protein modification and translation factors
+mbgd_10.5	mbgd_10.5:Ribosomal proteins: synthesis and modification
+mbgd_10.6	mbgd_10.6:tRNA modification
+mbgd_11	mbgd_11:Regulatory functions
+mbgd_11.1	mbgd_11.1:General
+mbgd_12	mbgd_12:Cell envelope
+mbgd_12.1	mbgd_12.1:Membranes, lipoproteins, and porins
+mbgd_12.2	mbgd_12.2:Murein sacculus and peptidoglycan
+mbgd_12.3	mbgd_12.3:Surface polysaccharides, lipopolysaccharides and antigens
+mbgd_12.4	mbgd_12.4:Surface structures
+mbgd_13	mbgd_13:Cellular processes
+mbgd_13.1	mbgd_13.1:Cell division
+mbgd_13.2	mbgd_13.2:Cell killing
+mbgd_13.3	mbgd_13.3:Chaperones
+mbgd_13.4	mbgd_13.4:Detoxification
+mbgd_13.5	mbgd_13.5:Protein and peptide secretion
+mbgd_13.6	mbgd_13.6:Transformation
+mbgd_13.7	mbgd_13.7:Motility
+mbgd_13.8	mbgd_13.8:Sporulation
+mbgd_14	mbgd_14:Other categories
+mbgd_14.1	mbgd_14.1:Adaptations and atypical conditions
+mbgd_14.2	mbgd_14.2:Colicin-related functions
+mbgd_14.3	mbgd_14.3:Drug and analog sensitivity
+mbgd_14.4	mbgd_14.4:Phage-related functions and prophages
+mbgd_14.5	mbgd_14.5:Transposon-related functions
+mbgd_14.6	mbgd_14.6:Plasmid
+mbgd_15	mbgd_15:Hypothetical
+mbgd_15.1	mbgd_15.1:General
+tigr_1	tigr_1:Amino acid biosynthesis
+tigr_1.1	tigr_1.1:Aromatic amino acid family
+tigr_1.2	tigr_1.2:Aspartate family
+tigr_1.3	tigr_1.3:Glutamate family
+tigr_1.4	tigr_1.4:Pyruvate family
+tigr_1.5	tigr_1.5:Serine family
+tigr_1.6	tigr_1.6:Histidine family
+tigr_2	tigr_2:Purines, pyrimidines, nucleosides, and nucleotides
+tigr_2.1	tigr_2.1:2'-Deoxyribonucleotide metabolism
+tigr_2.2	tigr_2.2:Nucleotide and nucleoside interconversions
+tigr_2.3	tigr_2.3:Purine ribonucleotide biosynthesis
+tigr_2.4	tigr_2.4:Pyrimidine ribonucleotide biosynthesis
+tigr_2.5	tigr_2.5:Salvage of nucleosides and nucleotides
+tigr_2.6	tigr_2.6:Other
+tigr_3	tigr_3:Fatty acid and phospholipid metabolism
+tigr_3.1	tigr_3.1:Biosynthesis
+tigr_3.2	tigr_3.2:Degradation
+tigr_3.3	tigr_3.3:Other
+tigr_4	tigr_4:Biosynthesis of cofactors, prosthetic groups, and carriers
+tigr_4.1	tigr_4.1:Biotin
+tigr_4.2	tigr_4.2:Folic acid
+tigr_4.3	tigr_4.3:Heme, porphyrin, and cobalamin
+tigr_4.4	tigr_4.4:Lipoate
+tigr_4.5	tigr_4.5:Menaquinone and ubiquinone
+tigr_4.6	tigr_4.6:Molybdopterin
+tigr_4.7	tigr_4.7:Pantothenate and coenzyme A
+tigr_4.8	tigr_4.8:Pyridoxine
+tigr_4.9	tigr_4.9:Riboflavin, FMN, and FAD
+tigr_4.1	tigr_4.1:Glutathione and analogs
+tigr_4.11	tigr_4.11:Thiamine
+tigr_4.12	tigr_4.12:Pyridine nucleotides
+tigr_4.13	tigr_4.13:Chlorophyll and bacteriochlorphyll
+tigr_4.14	tigr_4.14:Other
+tigr_5	tigr_5:Central intermediary metabolism
+tigr_5.1	tigr_5.1:Amino sugars
+tigr_5.2	tigr_5.2:One-carbon metabolism
+tigr_5.3	tigr_5.3:Phosphorus compounds
+tigr_5.4	tigr_5.4:Polyamine biosynthesis
+tigr_5.5	tigr_5.5:Sulfur metabolism
+tigr_5.6	tigr_5.6:Nitrogen fixation
+tigr_5.7	tigr_5.7:Nitrogen metabolism
+tigr_5.8	tigr_5.8:Other
+tigr_6	tigr_6:Energy metabolism
+tigr_6.1	tigr_6.1:Aerobic
+tigr_6.2	tigr_6.2:Amino acids and amines
+tigr_6.3	tigr_6.3:Anaerobic
+tigr_6.4	tigr_6.4:ATP-proton motive force interconversion
+tigr_6.5	tigr_6.5:Electron transport
+tigr_6.6	tigr_6.6:Entner-Doudoroff
+tigr_6.7	tigr_6.7:Fermentation
+tigr_6.8	tigr_6.8:Glycolysis/gluconeogenesis
+tigr_6.9	tigr_6.9:Pentose phosphate pathway
+tigr_6.1	tigr_6.1:Pyruvate dehydrogenase
+tigr_6.11	tigr_6.11:Sugars
+tigr_6.12	tigr_6.12:TCA cycle
+tigr_6.13	tigr_6.13:Methanogenesis
+tigr_6.14	tigr_6.14:Biosynthesis and degradation of polysaccharides
+tigr_6.15	tigr_6.15:Photosynthesis
+tigr_6.16	tigr_6.16:Chemoautotrophy
+tigr_6.17	tigr_6.17:Other
+tigr_7	tigr_7:DNA metabolism
+tigr_7.1	tigr_7.1:DNA replication, recombination, and repair
+tigr_7.2	tigr_7.2:Restriction/modification
+tigr_7.3	tigr_7.3:Degradation of DNA
+tigr_7.4	tigr_7.4:Chromosome-associated proteins
+tigr_7.5	tigr_7.5:Other
+tigr_8	tigr_8:Transcription
+tigr_8.1	tigr_8.1:Degradation of RNA
+tigr_8.2	tigr_8.2:DNA-dependent RNA polymerase
+tigr_8.3	tigr_8.3:Transcription factors
+tigr_8.4	tigr_8.4:RNA processing
+tigr_8.5	tigr_8.5:Other
+tigr_9	tigr_9:Protein synthesis
+tigr_9.1	tigr_9.1:tRNA aminoacylation
+tigr_9.2	tigr_9.2:Ribosomal proteins: synthesis and modification
+tigr_9.3	tigr_9.3:tRNA and rRNA base modification
+tigr_9.4	tigr_9.4:Translation factors
+tigr_9.5	tigr_9.5:Other
+tigr_10	tigr_10:Protein fate
+tigr_10.1	tigr_10.1:Protein and peptide secretion and trafficking
+tigr_10.2	tigr_10.2:Protein modification and repair
+tigr_10.3	tigr_10.3:Protein folding and stabilization
+tigr_10.4	tigr_10.4:Degradation of proteins, peptides, and glycopeptides
+tigr_10.5	tigr_10.5:Other
+tigr_11	tigr_11:Transport and binding proteins
+tigr_11.1	tigr_11.1:Amino acids, peptides and amines
+tigr_11.2	tigr_11.2:Anions
+tigr_11.3	tigr_11.3:Carbohydrates, organic alcohols, and acids
+tigr_11.4	tigr_11.4:Cations and iron carrying compounds
+tigr_11.5	tigr_11.5:Nucleosides, purines and pyrimidines
+tigr_11.6	tigr_11.6:Porins
+tigr_11.7	tigr_11.7:Other
+tigr_11.8	tigr_11.8:Unknown substrate
+tigr_12	tigr_12:Regulatory functions
+tigr_12.1	tigr_12.1:DNA interactions
+tigr_12.2	tigr_12.2:RNA interactions
+tigr_12.3	tigr_12.3:Protein interactions
+tigr_12.4	tigr_12.4:Small molecule interactions
+tigr_12.5	tigr_12.5:Other
+tigr_13	tigr_13:Signal transduction
+tigr_13.1	tigr_13.1:Two-component systems
+tigr_13.2	tigr_13.2:PTS
+tigr_13.3	tigr_13.3:Other
+tigr_14	tigr_14:Cell envelope
+tigr_14.1	tigr_14.1:Surface structures
+tigr_14.2	tigr_14.2:Biosynthesis and degradation of murein sacculus and peptidoglycan
+tigr_14.3	tigr_14.3:Biosynthesis and degradation of surface polysaccharides and lipopolysaccharides
+tigr_14.4	tigr_14.4:Other
+tigr_15	tigr_15:Cellular processes
+tigr_15.1	tigr_15.1:Cell division
+tigr_15.2	tigr_15.2:Chemotaxis and motility
+tigr_15.3	tigr_15.3:Conjugation
+tigr_15.4	tigr_15.4:Detoxification
+tigr_15.5	tigr_15.5:DNA transformation
+tigr_15.6	tigr_15.6:Sporulation and germination
+tigr_15.7	tigr_15.7:Toxin production and resistance
+tigr_15.8	tigr_15.8:Pathogenesis
+tigr_15.9	tigr_15.9:Adaptations to atypical conditions
+tigr_15.1	tigr_15.1:Biosynthesis of natural products
+tigr_15.11	tigr_15.11:Other
+tigr_16	tigr_16:Mobile and extrachromosomal element functions
+tigr_16.1	tigr_16.1:Plasmid functions
+tigr_16.2	tigr_16.2:Prophage functions
+tigr_16.3	tigr_16.3:Transposon functions
+tigr_16.4	tigr_16.4:Other
+tigr_17	tigr_17:Unclassified
+tigr_17.1	tigr_17.1:Role category not yet assigned
+tigr_18	tigr_18:Unknown function
+tigr_18.1	tigr_18.1:Enzymes of unknown specificity
+tigr_18.2	tigr_18.2:General
+tigr_19	tigr_19:Hypothetical proteins
+tigr_19.1	tigr_19.1:Conserved Hypothetical proteins
+tigr_19.2	tigr_19.2:Conserved Domain proteins
+Regulon:AaeR	Regulon:AaeR
+Regulon:CRP	Regulon:CRP
+Regulon:Nac	Regulon:Nac
+Regulon:acetyl-CoAcarboxyltransferase	Regulon:acetyl-CoAcarboxyltransferase
+Regulon:FadR	Regulon:FadR
+Regulon:AccB	Regulon:AccB
+Regulon:IHF	Regulon:IHF
+Regulon:IclR	Regulon:IclR
+Regulon:ArcA	Regulon:ArcA
+Regulon:Cra	Regulon:Cra
+Regulon:FlhDC	Regulon:FlhDC
+Regulon:Lrp	Regulon:Lrp
+Regulon:BtsR	Regulon:BtsR
+Regulon:PdhR	Regulon:PdhR
+Regulon:NsrR	Regulon:NsrR
+Regulon:FNR	Regulon:FNR
+Regulon:SdhX	Regulon:SdhX
+Regulon:CreB	Regulon:CreB
+Regulon:Rob	Regulon:Rob
+Regulon:MarA	Regulon:MarA
+Regulon:carbonstorageregulatorCsrA	Regulon:carbonstorageregulatorCsrA
+Regulon:Fur	Regulon:Fur
+Regulon:ppGpp	Regulon:ppGpp
+Regulon:SoxS	Regulon:SoxS
+Regulon:Fis	Regulon:Fis
+Regulon:RyhB	Regulon:RyhB
+Regulon:bifunctionalaconitatehydrataseB/2-methylisocitratedehydratase	Regulon:bifunctionalaconitatehydrataseB/2-methylisocitratedehydratase
+Regulon:EnvR	Regulon:EnvR
+Regulon:PhoP	Regulon:PhoP
+Regulon:MprA	Regulon:MprA
+Regulon:AcrR	Regulon:AcrR
+Regulon:PtrR	Regulon:PtrR
+Regulon:BaeR	Regulon:BaeR
+Regulon:EvgA	Regulon:EvgA
+Regulon:CpxR	Regulon:CpxR
+Regulon:ZraR	Regulon:ZraR
+Regulon:H-NS	Regulon:H-NS
+Regulon:OmpR	Regulon:OmpR
+Regulon:GcvB	Regulon:GcvB
+Regulon:Ada	Regulon:Ada
+Regulon:RbsR	Regulon:RbsR
+Regulon:KdpE	Regulon:KdpE
+Regulon:YiaU	Regulon:YiaU
+Regulon:SrsR	Regulon:SrsR
+Regulon:NarL	Regulon:NarL
+Regulon:YdeO	Regulon:YdeO
+Regulon:AdiY	Regulon:AdiY
+Regulon:TorR	Regulon:TorR
+Regulon:PhoB	Regulon:PhoB
+Regulon:GadRcs	Regulon:GadRcs
+Regulon:SgrS	Regulon:SgrS
+Regulon:AgaR	Regulon:AgaR
+Regulon:OxyR	Regulon:OxyR
+Regulon:MetJ	Regulon:MetJ
+Regulon:AidB	Regulon:AidB
+Regulon:SgrR	Regulon:SgrR
+Regulon:GlaR	Regulon:GlaR
+Regulon:AlaS	Regulon:AlaS
+Regulon:DnaA	Regulon:DnaA
+Regulon:AllR	Regulon:AllR
+Regulon:AllS	Regulon:AllS
+Regulon:AlsR	Regulon:AlsR
+Regulon:BolA	Regulon:BolA
+Regulon:NtrC	Regulon:NtrC
+Regulon:GadX	Regulon:GadX
+Regulon:CytR	Regulon:CytR
+Regulon:AppY	Regulon:AppY
+Regulon:DpiA	Regulon:DpiA
+Regulon:AraC	Regulon:AraC
+Regulon:XylR	Regulon:XylR
+Regulon:Spf	Regulon:Spf
+Regulon:ArgR	Regulon:ArgR
+Regulon:DksA	Regulon:DksA
+Regulon:ArgP	Regulon:ArgP
+Regulon:YeiE	Regulon:YeiE
+Regulon:BluR	Regulon:BluR
+Regulon:CysB	Regulon:CysB
+Regulon:BasR	Regulon:BasR
+Regulon:TyrR	Regulon:TyrR
+Regulon:SoxR	Regulon:SoxR
+Regulon:TrpR	Regulon:TrpR
+Regulon:ArsR	Regulon:ArsR
+Regulon:AscG	Regulon:AscG
+Regulon:AsnC	Regulon:AsnC
+Regulon:DcuR	Regulon:DcuR
+Regulon:RcdA	Regulon:RcdA
+Regulon:RstA	Regulon:RstA
+Regulon:AtoC	Regulon:AtoC
+Regulon:FnrS	Regulon:FnrS
+Regulon:RcsB	Regulon:RcsB
+Regulon:BetI	Regulon:BetI
+Regulon:StpA	Regulon:StpA
+Regulon:RcsB-BglJ	Regulon:RcsB-BglJ
+Regulon:LeuO	Regulon:LeuO
+Regulon:ComR	Regulon:ComR
+Regulon:BirA	Regulon:BirA
+Regulon:YciT	Regulon:YciT
+Regulon:YhaJ	Regulon:YhaJ
+Regulon:AzuR	Regulon:AzuR
+Regulon:CadC	Regulon:CadC
+Regulon:MlrA	Regulon:MlrA
+Regulon:CaiF	Regulon:CaiF
+Regulon:PepA	Regulon:PepA
+Regulon:RutR	Regulon:RutR
+Regulon:PurR	Regulon:PurR
+Regulon:SlyA	Regulon:SlyA
+Regulon:ModE	Regulon:ModE
+Regulon:NarP	Regulon:NarP
+Regulon:CdaR	Regulon:CdaR
+Regulon:CecR	Regulon:CecR
+Regulon:ArrS	Regulon:ArrS
+Regulon:CpxQ	Regulon:CpxQ
+Regulon:RydC	Regulon:RydC
+Regulon:ChbR	Regulon:ChbR
+Regulon:NagC	Regulon:NagC
+Regulon:ChiX	Regulon:ChiX
+Regulon:LexA	Regulon:LexA
+Regulon:OmrB	Regulon:OmrB
+Regulon:Hfq	Regulon:Hfq
+Regulon:OmrA	Regulon:OmrA
+Regulon:CueR	Regulon:CueR
+Regulon:MicA	Regulon:MicA
+Regulon:MicF	Regulon:MicF
+Regulon:Mlc	Regulon:Mlc
+Regulon:CsgD	Regulon:CsgD
+Regulon:FliZ	Regulon:FliZ
+Regulon:RprA	Regulon:RprA
+Regulon:MqsA	Regulon:MqsA
+Regulon:RybB	Regulon:RybB
+Regulon:McaS	Regulon:McaS
+Regulon:RcsAB	Regulon:RcsAB
+Regulon:YdiP	Regulon:YdiP
+Regulon:RpoN	Regulon:RpoN
+Regulon:DinJ-YafQ	Regulon:DinJ-YafQ
+Regulon:HprR	Regulon:HprR
+Regulon:CusR	Regulon:CusR
+Regulon:YieP	Regulon:YieP
+Regulon:HypT	Regulon:HypT
+Regulon:CynR	Regulon:CynR
+Regulon:GadE	Regulon:GadE
+Regulon:SutR	Regulon:SutR
+Regulon:YafC	Regulon:YafC
+Regulon:DecR	Regulon:DecR
+Regulon:GadW	Regulon:GadW
+Regulon:MraZ	Regulon:MraZ
+Regulon:DeoR	Regulon:DeoR
+Regulon:YjjQ	Regulon:YjjQ
+Regulon:DgoR	Regulon:DgoR
+Regulon:DhaR	Regulon:DhaR
+Regulon:DicA	Regulon:DicA
+Regulon:DicD	Regulon:DicD
+Regulon:AgrB	Regulon:AgrB
+Regulon:YqhC	Regulon:YqhC
+Regulon:QseB	Regulon:QseB
+Regulon:MntR	Regulon:MntR
+Regulon:DsdC	Regulon:DsdC
+Regulon:EbgR	Regulon:EbgR
+Regulon:MatA	Regulon:MatA
+Regulon:PlaR	Regulon:PlaR
+Regulon:KdgR	Regulon:KdgR
+Regulon:GntR	Regulon:GntR
+Regulon:MgrR	Regulon:MgrR
+Regulon:ArcZ	Regulon:ArcZ
+Regulon:IscR	Regulon:IscR
+Regulon:HipB	Regulon:HipB
+Regulon:UxuR	Regulon:UxuR
+Regulon:ExuR	Regulon:ExuR
+Regulon:FabR	Regulon:FabR
+Regulon:LldR	Regulon:LldR
+Regulon:C0293	Regulon:C0293
+Regulon:FhlA	Regulon:FhlA
+Regulon:FeaR	Regulon:FeaR
+Regulon:OxyS	Regulon:OxyS
+Regulon:NanR	Regulon:NanR
+Regulon:RseX	Regulon:RseX
+Regulon:LrhA	Regulon:LrhA
+Regulon:RpsA	Regulon:RpsA
+Regulon:HdfR	Regulon:HdfR
+Regulon:AsflhD	Regulon:AsflhD
+Regulon:FliX	Regulon:FliX
+Regulon:MotR	Regulon:MotR
+Regulon:UhpU	Regulon:UhpU
+Regulon:PdeL	Regulon:PdeL
+Regulon:FimR2	Regulon:FimR2
+Regulon:YdcI	Regulon:YdcI
+Regulon:HyfR	Regulon:HyfR
+Regulon:FrlR	Regulon:FrlR
+Regulon:FrmR	Regulon:FrmR
+Regulon:SdiA	Regulon:SdiA
+Regulon:StfZ	Regulon:StfZ
+Regulon:DicF	Regulon:DicF
+Regulon:FucR	Regulon:FucR
+Regulon:RpsG	Regulon:RpsG
+Regulon:GadY	Regulon:GadY
+Regulon:HU	Regulon:HU
+Regulon:GalR	Regulon:GalR
+Regulon:GalS	Regulon:GalS
+Regulon:GatR	Regulon:GatR
+Regulon:GcvA	Regulon:GcvA
+Regulon:GlcC	Regulon:GlcC
+Regulon:GlmZ	Regulon:GlmZ
+Regulon:GlnZ	Regulon:GlnZ
+Regulon:NemR	Regulon:NemR
+Regulon:GlpR	Regulon:GlpR
+Regulon:MetR	Regulon:MetR
+Regulon:IdnR	Regulon:IdnR
+Regulon:GutM	Regulon:GutM
+Regulon:SrlR	Regulon:SrlR
+Regulon:CspA	Regulon:CspA
+Regulon:HcaR	Regulon:HcaR
+Regulon:CyaR	Regulon:CyaR
+Regulon:HicB	Regulon:HicB
+Regulon:HigBA	Regulon:HigBA
+Regulon:HigA	Regulon:HigA
+Regulon:HipAB	Regulon:HipAB
+Regulon:H-+NS	Regulon:H-+NS
+Regulon:SdsN	Regulon:SdsN
+Regulon:DsrA	Regulon:DsrA
+Regulon:RelBE	Regulon:RelBE
+Regulon:RelB	Regulon:RelB
+Regulon:YfeC	Regulon:YfeC
+Regulon:smallheatshockproteinIbpA	Regulon:smallheatshockproteinIbpA
+Regulon:SibC	Regulon:SibC
+Regulon:CsrA	Regulon:CsrA
+Regulon:IlvY	Regulon:IlvY
+Regulon:AlpA	Regulon:AlpA
+Regulon:LacI	Regulon:LacI
+Regulon:MalT	Regulon:MalT
+Regulon:DeaD	Regulon:DeaD
+Regulon:MicL	Regulon:MicL
+Regulon:LsrR	Regulon:LsrR
+Regulon:UvrY	Regulon:UvrY
+Regulon:LysR	Regulon:LysR
+Regulon:YidZ	Regulon:YidZ
+Regulon:MalI	Regulon:MalI
+Regulon:MarR	Regulon:MarR
+Regulon:AmeF	Regulon:AmeF
+Regulon:MazEF	Regulon:MazEF
+Regulon:MazE	Regulon:MazE
+Regulon:McbR	Regulon:McbR
+Regulon:YgiV	Regulon:YgiV
+Regulon:MelR	Regulon:MelR
+Regulon:MhpR	Regulon:MhpR
+Regulon:MngR	Regulon:MngR
+Regulon:ATP-dependentRNAhelicaseDeaD	Regulon:ATP-dependentRNAhelicaseDeaD
+Regulon:PgrR	Regulon:PgrR
+Regulon:YrdG	Regulon:YrdG
+Regulon:MurR	Regulon:MurR
+Regulon:SdsR	Regulon:SdsR
+Regulon:NadR	Regulon:NadR
+Regulon:NfeR	Regulon:NfeR
+Regulon:NhaR	Regulon:NhaR
+Regulon:NikR	Regulon:NikR
+Regulon:NimR	Regulon:NimR
+Regulon:NorR	Regulon:NorR
+Regulon:NrdR	Regulon:NrdR
+Regulon:EnvY	Regulon:EnvY
+Regulon:MalH	Regulon:MalH
+Regulon:MicC	Regulon:MicC
+Regulon:YcjW	Regulon:YcjW
+Regulon:PaaX	Regulon:PaaX
+Regulon:Zur	Regulon:Zur
+Regulon:Pnp	Regulon:Pnp
+Regulon:SraG	Regulon:SraG
+Regulon:S6:S18ribosomalsubunitcomplex	Regulon:S6:S18ribosomalsubunitcomplex
+Regulon:PrpR	Regulon:PrpR
+Regulon:PspF	Regulon:PspF
+Regulon:PutA	Regulon:PutA
+Regulon:PuuR	Regulon:PuuR
+Regulon:FimZ	Regulon:FimZ
+Regulon:RalA	Regulon:RalA
+Regulon:RclR	Regulon:RclR
+Regulon:RcnR	Regulon:RcnR
+Regulon:YdaT	Regulon:YdaT
+Regulon:RhaS	Regulon:RhaS
+Regulon:RhaR	Regulon:RhaR
+Regulon:ZntR	Regulon:ZntR
+Regulon:ribonucleaseE	Regulon:ribonucleaseE
+Regulon:RplA	Regulon:RplA
+Regulon:RpsH	Regulon:RpsH
+Regulon:RplM	Regulon:RplM
+Regulon:RpsD	Regulon:RpsD
+Regulon:RplT	Regulon:RplT
+Regulon:RplY	Regulon:RplY
+Regulon:RpmE	Regulon:RpmE
+Regulon:GlrR	Regulon:GlrR
+Regulon:RpsB	Regulon:RpsB
+Regulon:RpsO	Regulon:RpsO
+Regulon:YdfH	Regulon:YdfH
+Regulon:RtcR	Regulon:RtcR
+Regulon:SelB-L-selenocysteinyl-tRNA<sup>sec</sup>	Regulon:SelB-L-selenocysteinyl-tRNA<sup>sec</sup>
+Regulon:OhsC	Regulon:OhsC
+Regulon:Cbl	Regulon:Cbl
+Regulon:CRP-Sxy	Regulon:CRP-Sxy
+Regulon:SymR	Regulon:SymR
+Regulon:TdcA	Regulon:TdcA
+Regulon:TdcR	Regulon:TdcR
+Regulon:threonine&mdash;tRNAligase	Regulon:threonine&mdash;tRNAligase
+Regulon:IstR-1	Regulon:IstR-1
+Regulon:RplD	Regulon:RplD
+Regulon:TreR	Regulon:TreR
+Regulon:Dan	Regulon:Dan
+Regulon:UhpA	Regulon:UhpA
+Regulon:UidR	Regulon:UidR
+Regulon:UlaR	Regulon:UlaR
+Regulon:XapR	Regulon:XapR
+Regulon:XynR	Regulon:XynR
+Regulon:CitR	Regulon:CitR
+Regulon:RacR	Regulon:RacR
+Regulon:YebK	Regulon:YebK
+Regulon:YefMB	Regulon:YefMB
+Regulon:YefM	Regulon:YefM
+Regulon:YegW	Regulon:YegW
+Regulon:YeiL	Regulon:YeiL
+Regulon:YgbI	Regulon:YgbI
+Regulon:PyrR	Regulon:PyrR
+Regulon:CsqR	Regulon:CsqR
+Operon:aaeXAB	Operon:aaeXAB
+Operon:aas-lplT	Operon:aas-lplT
+Operon:abgABT-ogt	Operon:abgABT-ogt
+Operon:abpAB	Operon:abpAB
+Operon:accBC	Operon:accBC
+Operon:aceBAK	Operon:aceBAK
+Operon:pdhR-aceEF-lpdA	Operon:pdhR-aceEF-lpdA
+Operon:ackA-pta	Operon:ackA-pta
+Operon:acnA	Operon:acnA
+Operon:rpmF-plsX-fabHDG	Operon:rpmF-plsX-fabHDG
+Operon:rnc-era-recO-pdxJ-acpS	Operon:rnc-era-recO-pdxJ-acpS
+Operon:acrAB	Operon:acrAB
+Operon:acrEF	Operon:acrEF
+Operon:acs-yjcHG	Operon:acs-yjcHG
+Operon:ada-alkB	Operon:ada-alkB
+Operon:insA2B2AB2-afuBC	Operon:insA2B2AB2-afuBC
+Operon:agaSYBCDI	Operon:agaSYBCDI
+Operon:kbaZ-agaVWA	Operon:kbaZ-agaVWA
+Operon:ahpCF	Operon:ahpCF
+Operon:alaA-yfbR	Operon:alaA-yfbR
+Operon:gcl-hyi-glxR-ybbVW-allB-ybbY-glxK	Operon:gcl-hyi-glxR-ybbVW-allB-ybbY-glxK
+Operon:allDC-ylbA	Operon:allDC-ylbA
+Operon:alsRBACE	Operon:alsRBACE
+Operon:amiA-hemF	Operon:amiA-hemF
+Operon:yjeFE-amiB-mutL-miaA-hfq-hflXKC	Operon:yjeFE-amiB-mutL-miaA-hfq-hflXKC
+Operon:ybjQ-amiD	Operon:ybjQ-amiD
+Operon:ampDE	Operon:ampDE
+Operon:yajG-ampG	Operon:yajG-ampG
+Operon:glnK-amtB	Operon:glnK-amtB
+Operon:ansA-pncA	Operon:ansA-pncA
+Operon:surA-pdxA-rsmA-apaGH	Operon:surA-pdxA-rsmA-apaGH
+Operon:appCBA-yccB	Operon:appCBA-yccB
+Operon:araBAD	Operon:araBAD
+Operon:araE-ygeA	Operon:araE-ygeA
+Operon:araFGH	Operon:araFGH
+Operon:yaeQ-arfB-nlpE	Operon:yaeQ-arfB-nlpE
+Operon:argCBH	Operon:argCBH
+Operon:argF-xynR	Operon:argF-xynR
+Operon:scpA-argK-scpBC	Operon:scpA-argK-scpBC
+Operon:argT-hisJQMP	Operon:argT-hisJQMP
+Operon:ycgZ-ymgA-ariR-ymgC	Operon:ycgZ-ymgA-ariR-ymgC
+Operon:arnBCADTEF	Operon:arnBCADTEF
+Operon:serC-aroA	Operon:serC-aroA
+Operon:aroKB-damX-dam-rpe-gph-trpS	Operon:aroKB-damX-dam-rpe-gph-trpS
+Operon:prmB-aroC-mepA-yfcA-epmC-yfcL	Operon:prmB-aroC-mepA-yfcA-epmC-yfcL
+Operon:ydiNB-aroD	Operon:ydiNB-aroD
+Operon:yrdD-rimN-aroE-yrdB	Operon:yrdD-rimN-aroE-yrdB
+Operon:aroF-tyrA	Operon:aroF-tyrA
+Operon:aroL-yaiA-aroM	Operon:aroL-yaiA-aroM
+Operon:arsRBC	Operon:arsRBC
+Operon:artPIQM	Operon:artPIQM
+Operon:ascFB	Operon:ascFB
+Operon:asnC-mioC-mnmG	Operon:asnC-mioC-mnmG
+Operon:aspA-dcuA	Operon:aspA-dcuA
+Operon:astCADBE	Operon:astCADBE
+Operon:atoDAEB	Operon:atoDAEB
+Operon:atoSC	Operon:atoSC
+Operon:atpIBEFHAGDC	Operon:atpIBEFHAGDC
+Operon:azuCR	Operon:azuCR
+Operon:mdtABCD-baeSR	Operon:mdtABCD-baeSR
+Operon:bamA-hlpA-lpxD-fabZ-lpxAB-rnhB-dnaE	Operon:bamA-hlpA-lpxD-fabZ-lpxAB-rnhB-dnaE
+Operon:bamB-der	Operon:bamB-der
+Operon:dapA-nlpB	Operon:dapA-nlpB
+Operon:basRS	Operon:basRS
+Operon:bcsABZC	Operon:bcsABZC
+Operon:bcsEFG	Operon:bcsEFG
+Operon:bdm-sra	Operon:bdm-sra
+Operon:ymfTLMNR-beeE-jayE-ymfQ-ycfK-tfaP	Operon:ymfTLMNR-beeE-jayE-ymfQ-ycfK-tfaP
+Operon:bepA-yfgD	Operon:bepA-yfgD
+Operon:betIBA	Operon:betIBA
+Operon:bfd-bfr	Operon:bfd-bfr
+Operon:bglGFB	Operon:bglGFB
+Operon:bglH-yieLK	Operon:bglH-yieLK
+Operon:yjjQ-bglJ	Operon:yjjQ-bglJ
+Operon:bioBFCD	Operon:bioBFCD
+Operon:murB-birA	Operon:murB-birA
+Operon:brnQ-proY	Operon:brnQ-proY
+Operon:btsSR	Operon:btsSR
+Operon:btuB-murI	Operon:btuB-murI
+Operon:btuCED	Operon:btuCED
+Operon:mnt-btuF-yadS	Operon:mnt-btuF-yadS
+Operon:yciK-btuR	Operon:yciK-btuR
+Operon:cadBA	Operon:cadBA
+Operon:caiTABCDE	Operon:caiTABCDE
+Operon:carAB	Operon:carAB
+Operon:casDE-ygbTF	Operon:casDE-ygbTF
+Operon:yeeRST-cbeA-cbtA-yeeW	Operon:yeeRST-cbeA-cbtA-yeeW
+Operon:cbpA-cbpM	Operon:cbpA-cbpM
+Operon:cbrBC	Operon:cbrBC
+Operon:htrG-cca	Operon:htrG-cca
+Operon:napFDAGHBC-ccmABCDEFGH	Operon:napFDAGHBC-ccmABCDEFGH
+Operon:dxr-uppS-cdsA	Operon:dxr-uppS-cdsA
+Operon:cecR-ybhGFSR	Operon:cecR-ybhGFSR
+Operon:chaBC	Operon:chaBC
+Operon:chbBCARFG	Operon:chbBCARFG
+Operon:motRAB-cheAW	Operon:motRAB-cheAW
+Operon:tar-tap-cheRBYZ	Operon:tar-tap-cheRBYZ
+Operon:chiZPQ	Operon:chiZPQ
+Operon:chpSB	Operon:chpSB
+Operon:citCDEFXG	Operon:citCDEFXG
+Operon:clpX-lon	Operon:clpX-lon
+Operon:clsA-yciU	Operon:clsA-yciU
+Operon:ybhP-clsB-ybhN	Operon:ybhP-clsB-ybhN
+Operon:ymdAB-clsC	Operon:ymdAB-clsC
+Operon:rpsA-ihfB	Operon:rpsA-ihfB
+Operon:yecN-cmoAB	Operon:yecN-cmoAB
+Operon:smtA-mukFEB	Operon:smtA-mukFEB
+Operon:cmtBA-yggPF-fumE-yggC	Operon:cmtBA-yggPF-fumE-yggC
+Operon:kdtA-coaD	Operon:kdtA-coaD
+Operon:coaE-zapD-yacG	Operon:coaE-zapD-yacG
+Operon:nagK-cobB	Operon:nagK-cobB
+Operon:leuS-lptE-holA-nadD-cobC	Operon:leuS-lptE-holA-nadD-cobC
+Operon:cobUST	Operon:cobUST
+Operon:codBA	Operon:codBA
+Operon:nudF-yqiB-cpdA-yqiA-parE	Operon:nudF-yqiB-cpdA-yqiA-parE
+Operon:tolB-pal-ybgF	Operon:tolB-pal-ybgF
+Operon:wcaCDEF-gmd-fcl-gmm-wcaI-cpsBG-wcaJ-wzxC	Operon:wcaCDEF-gmd-fcl-gmm-wcaI-cpsBG-wcaJ-wzxC
+Operon:cpxRA	Operon:cpxRA
+Operon:cpxPQ	Operon:cpxPQ
+Operon:creABCD	Operon:creABCD
+Operon:ptsHI-crr	Operon:ptsHI-crr
+Operon:csdAE	Operon:csdAE
+Operon:csgBAC	Operon:csgBAC
+Operon:csgDEFG	Operon:csgDEFG
+Operon:yobF-cspC	Operon:yobF-cspC
+Operon:cusCFBA	Operon:cusCFBA
+Operon:cusRS	Operon:cusRS
+Operon:yecM-cutC	Operon:yecM-cutC
+Operon:cvpA-purF-ubiX	Operon:cvpA-purF-ubiX
+Operon:cydAB	Operon:cydAB
+Operon:cydDC	Operon:cydDC
+Operon:ybgTE	Operon:ybgTE
+Operon:cynTSX	Operon:cynTSX
+Operon:cyoABCDE	Operon:cyoABCDE
+Operon:cysPUWAM	Operon:cysPUWAM
+Operon:cysDNC	Operon:cysDNC
+Operon:nirBDC-cysG	Operon:nirBDC-cysG
+Operon:cysJIH	Operon:cysJIH
+Operon:cyuPA	Operon:cyuPA
+Operon:dadAX	Operon:dadAX
+Operon:map-glnD-dapD	Operon:map-glnD-dapD
+Operon:yffB-dapE-ypfN	Operon:yffB-dapE-ypfN
+Operon:yifL-dapF-yigA-xerC-yigB	Operon:yifL-dapF-yigA-xerC-yigB
+Operon:udk-dcd	Operon:udk-dcd
+Operon:dcm-vsr	Operon:dcm-vsr
+Operon:slp-dctR	Operon:slp-dctR
+Operon:dcuB-fumB	Operon:dcuB-fumB
+Operon:dcuSR	Operon:dcuSR
+Operon:dcyD-tcyLN	Operon:dcyD-tcyLN
+Operon:mraZW-ftsLIO-murEF-mraY-murD-ftsW-murGC-ddlB-ftsQAZ-lpxC	Operon:mraZW-ftsLIO-murEF-mraY-murD-ftsW-murGC-ddlB-ftsQAZ-lpxC
+Operon:ddpXABCDF	Operon:ddpXABCDF
+Operon:yrbN-deaD	Operon:yrbN-deaD
+Operon:pdxB-usg-truA-dedA	Operon:pdxB-usg-truA-dedA
+Operon:folC-dedD	Operon:folC-dedD
+Operon:def-fmt	Operon:def-fmt
+Operon:degQS	Operon:degQS
+Operon:deoCABD	Operon:deoCABD
+Operon:pdeI-dgcI	Operon:pdeI-dgcI
+Operon:yfiR-dgcN-yfiB	Operon:yfiR-dgcN-yfiB
+Operon:dgoRKADT	Operon:dgoRKADT
+Operon:dhaKLM	Operon:dhaKLM
+Operon:dicB-ydfDE-insD-intQ	Operon:dicB-ydfDE-insD-intQ
+Operon:dicC-ydfXW	Operon:dicC-ydfXW
+Operon:dinB-yafNOP	Operon:dinB-yafNOP
+Operon:lexA-dinF	Operon:lexA-dinF
+Operon:dinG-ybiB	Operon:dinG-ybiB
+Operon:dinJ-yafQ	Operon:dinJ-yafQ
+Operon:ybeR-djlB	Operon:ybeR-djlB
+Operon:ybeU-djlC	Operon:ybeU-djlC
+Operon:yqhD-dkgA	Operon:yqhD-dkgA
+Operon:sfsA-dksA	Operon:sfsA-dksA
+Operon:dmsABC	Operon:dmsABC
+Operon:ynfEFGH-dmsD	Operon:ynfEFGH-dmsD
+Operon:dnaAN-recF	Operon:dnaAN-recF
+Operon:yjjB-dnaTC-yjjA	Operon:yjjB-dnaTC-yjjA
+Operon:rpsU-dnaG-rpoD	Operon:rpsU-dnaG-rpoD
+Operon:tpke11	Operon:tpke11
+Operon:dosCP	Operon:dosCP
+Operon:dpiBA	Operon:dpiBA
+Operon:dppABCDF	Operon:dppABCDF
+Operon:srkA-dsbA	Operon:srkA-dsbA
+Operon:dsbC-recJ-prfB	Operon:dsbC-recJ-prfB
+Operon:dsbD-yjdC	Operon:dsbD-yjdC
+Operon:dsdXA	Operon:dsdXA
+Operon:yihXY-dtd-fabY	Operon:yihXY-dtd-fabY
+Operon:dusB-fis	Operon:dusB-fis
+Operon:dut-slmA	Operon:dut-slmA
+Operon:xseB-ispA-dxs-yajO	Operon:xseB-ispA-dxs-yajO
+Operon:ebgAC	Operon:ebgAC
+Operon:ecnAB	Operon:ecnAB
+Operon:ecpBCDE	Operon:ecpBCDE
+Operon:edd-eda	Operon:edd-eda
+Operon:efeOB	Operon:efeOB
+Operon:elbB-mtgA	Operon:elbB-mtgA
+Operon:elfDCG-ycbUVF	Operon:elfDCG-ycbUVF
+Operon:emrRAB	Operon:emrRAB
+Operon:emrKY	Operon:emrKY
+Operon:pyrG-eno	Operon:pyrG-eno
+Operon:entCEBA-ybdB	Operon:entCEBA-ybdB
+Operon:fepA-entD	Operon:fepA-entD
+Operon:fes-ybdZ-entF-fepE	Operon:fes-ybdZ-entF-fepE
+Operon:gpmM-envC-yibQ	Operon:gpmM-envC-yibQ
+Operon:envY-ompT	Operon:envY-ompT
+Operon:ompR-envZ	Operon:ompR-envZ
+Operon:epd-pgk-fbaA	Operon:epd-pgk-fbaA
+Operon:essD-ybcS-rzpD	Operon:essD-ybcS-rzpD
+Operon:essQ-ydfR-rrrQ-rzpQ-rzoQ	Operon:essQ-ydfR-rrrQ-rzpQ-rzoQ
+Operon:gfcE-etp-etk	Operon:gfcE-etp-etk
+Operon:eutHA	Operon:eutHA
+Operon:eutBCLKR	Operon:eutBCLKR
+Operon:eutSPQTDM	Operon:eutSPQTDM
+Operon:eutNEJG	Operon:eutNEJG
+Operon:evgLAS	Operon:evgLAS
+Operon:exbBD	Operon:exbBD
+Operon:yobB-exoX	Operon:yobB-exoX
+Operon:fabR-yijD	Operon:fabR-yijD
+Operon:fadBA	Operon:fadBA
+Operon:fadD-sroD	Operon:fadD-sroD
+Operon:fadIJ	Operon:fadIJ
+Operon:ydiQRST-fadK	Operon:ydiQRST-fadK
+Operon:ssrS-ygfA	Operon:ssrS-ygfA
+Operon:fdoGHI-fdhE	Operon:fdoGHI-fdhE
+Operon:fdnGHI	Operon:fdnGHI
+Operon:fdrA-ylbEF-ybcF	Operon:fdrA-ylbEF-ybcF
+Operon:hscBA-fdx-iscX	Operon:hscBA-fdx-iscX
+Operon:fecABCDE	Operon:fecABCDE
+Operon:fecIR	Operon:fecIR
+Operon:feoABC	Operon:feoABC
+Operon:fepDGC	Operon:fepDGC
+Operon:fetAB	Operon:fetAB
+Operon:hypABCDE-fhlA	Operon:hypABCDE-fhlA
+Operon:fhuACDB	Operon:fhuACDB
+Operon:yhfG-fic-pabA	Operon:yhfG-fic-pabA
+Operon:fimAICDFGH	Operon:fimAICDFGH
+Operon:fixABCX	Operon:fixABCX
+Operon:ribF-ileS-lspA-fkpB-ispH	Operon:ribF-ileS-lspA-fkpB-ispH
+Operon:fldA-uof-fur	Operon:fldA-uof-fur
+Operon:flgAMN	Operon:flgAMN
+Operon:flgBCDEFGHIJ	Operon:flgBCDEFGHIJ
+Operon:flgK	Operon:flgK
+Operon:flhBAE	Operon:flhBAE
+Operon:flhDC	Operon:flhDC
+Operon:fliAZY	Operon:fliAZY
+Operon:fliCX	Operon:fliCX
+Operon:fliDST	Operon:fliDST
+Operon:fliFGHIJK	Operon:fliFGHIJK
+Operon:fliLMNOPQR	Operon:fliLMNOPQR
+Operon:isrC-flu	Operon:isrC-flu
+Operon:focA-pflB	Operon:focA-pflB
+Operon:hyfABCDEFGHIJR-focB	Operon:hyfABCDEFGHIJR-focB
+Operon:folD-ybcJ	Operon:folD-ybcJ
+Operon:folE-yeiB	Operon:folE-yeiB
+Operon:pcnB-folK	Operon:pcnB-folK
+Operon:ydgI-folM	Operon:ydgI-folM
+Operon:folP-glmM	Operon:folP-glmM
+Operon:folX-yfcH	Operon:folX-yfcH
+Operon:yfdV	Operon:yfdV
+Operon:frdABCD	Operon:frdABCD
+Operon:frlABCDR	Operon:frlABCDR
+Operon:frmRAB	Operon:frmRAB
+Operon:fruBKA	Operon:fruBKA
+Operon:frvABXR	Operon:frvABXR
+Operon:frwCB	Operon:frwCB
+Operon:fryBC-ypdFE-fryA	Operon:fryBC-ypdFE-fryA
+Operon:ptsA-fsaB-gldA	Operon:ptsA-fsaB-gldA
+Operon:ftsYEX	Operon:ftsYEX
+Operon:rlmE-ftsH	Operon:rlmE-ftsH
+Operon:fucAO	Operon:fucAO
+Operon:fucPIKUR	Operon:fucPIKUR
+Operon:fumAC	Operon:fumAC
+Operon:rpsLG-fusA-tufA	Operon:rpsLG-fusA-tufA
+Operon:csiD-ygaF-gabDTP	Operon:csiD-ygaF-gabDTP
+Operon:gadAX	Operon:gadAX
+Operon:gadBC	Operon:gadBC
+Operon:gadEF-mdtEF	Operon:gadEF-mdtEF
+Operon:galETKM	Operon:galETKM
+Operon:gapA-yeaD	Operon:gapA-yeaD
+Operon:garPLRK-rnpB	Operon:garPLRK-rnpB
+Operon:gatYZABCD	Operon:gatYZABCD
+Operon:gcvTHP	Operon:gcvTHP
+Operon:gfcBCD	Operon:gfcBCD
+Operon:ghoST	Operon:ghoST
+Operon:xanQ-guaD-ghxQ	Operon:xanQ-guaD-ghxQ
+Operon:glcDEFGBA	Operon:glcDEFGBA
+Operon:glf-rfc	Operon:glf-rfc
+Operon:glgBXCAP	Operon:glgBXCAP
+Operon:glmUS	Operon:glmUS
+Operon:glnAZLG	Operon:glnAZLG
+Operon:glrR-glnB	Operon:glrR-glnB
+Operon:ygiF-glnE	Operon:ygiF-glnE
+Operon:glnHPQ	Operon:glnHPQ
+Operon:nemRA-gloA	Operon:nemRA-gloA
+Operon:mepK-gloC	Operon:mepK-gloC
+Operon:glpABC	Operon:glpABC
+Operon:glpEGR	Operon:glpEGR
+Operon:glpFKX	Operon:glpFKX
+Operon:glpTQ	Operon:glpTQ
+Operon:glsA-ybaT	Operon:glsA-ybaT
+Operon:sad-glsB-yneG	Operon:sad-glsB-yneG
+Operon:gltBDF	Operon:gltBDF
+Operon:gltI-sroC-gltJKL	Operon:gltI-sroC-gltJKL
+Operon:glvCBG-ysdC	Operon:glvCBG-ysdC
+Operon:glyQS	Operon:glyQS
+Operon:gnd-gndA	Operon:gnd-gndA
+Operon:ymcE-gnsA	Operon:ymcE-gnsA
+Operon:gntRKU	Operon:gntRKU
+Operon:yibN-grxC-secB-gpsA	Operon:yibN-grxC-secB-gpsA
+Operon:groSL	Operon:groSL
+Operon:rsmE-gshB	Operon:rsmE-gshB
+Operon:iaaA-gsiABCD	Operon:iaaA-gsiABCD
+Operon:gspAB	Operon:gspAB
+Operon:gspCDEFGHIJKLMO	Operon:gspCDEFGHIJKLMO
+Operon:guaBA	Operon:guaBA
+Operon:gudPXD	Operon:gudPXD
+Operon:srlAEBD-gutM-srlR-gutQ	Operon:srlAEBD-gutM-srlR-gutQ
+Operon:hcaEFCBD	Operon:hcaEFCBD
+Operon:hcaR-iroK	Operon:hcaR-iroK
+Operon:poxB-ltaE-ybjT	Operon:poxB-ltaE-ybjT
+Operon:hdeAB-yhiD	Operon:hdeAB-yhiD
+Operon:hemA-prfA-prmC	Operon:hemA-prfA-prmC
+Operon:hemCDXY	Operon:hemCDXY
+Operon:nudC-hemE-nfi	Operon:nudC-hemE-nfi
+Operon:pepQ-yigZ-trkH-hemG	Operon:pepQ-yigZ-trkH-hemG
+Operon:hflD-purB	Operon:hflD-purB
+Operon:tomB-hha	Operon:tomB-hha
+Operon:hicAB	Operon:hicAB
+Operon:higBA	Operon:higBA
+Operon:hinT-ycfL-lpoB-thiK-nagZ-ycfP	Operon:hinT-ycfL-lpoB-thiK-nagZ-ycfP
+Operon:hipBA	Operon:hipBA
+Operon:hisLGDCBHAFI	Operon:hisLGDCBHAFI
+Operon:ppdD-hofBC	Operon:ppdD-hofBC
+Operon:hofMNOP	Operon:hofMNOP
+Operon:mokC-hokC	Operon:mokC-hokC
+Operon:relBE-hokD	Operon:relBE-hokD
+Operon:pabC-mltG-tmk-holB-ycfH	Operon:pabC-mltG-tmk-holB-ycfH
+Operon:holC-valS	Operon:holC-valS
+Operon:holD-rimI-yjjG	Operon:holD-rimI-yjjG
+Operon:lptB-rpoN-hpf-ptsN-yhbJ	Operon:lptB-rpoN-hpf-ptsN-yhbJ
+Operon:hprRS	Operon:hprRS
+Operon:hsdRMS	Operon:hsdRMS
+Operon:yrfG-hslR	Operon:yrfG-hslR
+Operon:hslVU	Operon:hslVU
+Operon:yieP-hsrA	Operon:yieP-hsrA
+Operon:yadV-htrE	Operon:yadV-htrE
+Operon:yfbU-hxpA	Operon:yfbU-hxpA
+Operon:hyaABCDEF	Operon:hyaABCDEF
+Operon:hybOABCDEFG	Operon:hybOABCDEFG
+Operon:hycABCDEFGHI	Operon:hycABCDEFGHI
+Operon:hydN-hypF	Operon:hydN-hypF
+Operon:yjiHG-iadA	Operon:yjiHG-iadA
+Operon:ibaG-murA	Operon:ibaG-murA
+Operon:ibpAB	Operon:ibpAB
+Operon:iraD	Operon:iraD
+Operon:idnDOTR	Operon:idnDOTR
+Operon:thrS-infC-rpmI-rplT-pheMST-ihfA	Operon:thrS-infC-rpmI-rplT-pheMST-ihfA
+Operon:ivbL-ilvBN-uhpABC	Operon:ivbL-ilvBN-uhpABC
+Operon:ilvIH	Operon:ilvIH
+Operon:infA-serW	Operon:infA-serW
+Operon:metY-yhbC-nusA-infB-rbfA-truB-rpsO-pnp	Operon:metY-yhbC-nusA-infB-rbfA-truB-rpsO-pnp
+Operon:ymfH-xisE-intE	Operon:ymfH-xisE-intE
+Operon:recET-ralR-rcbA-xisR-intR	Operon:recET-ralR-rcbA-xisR-intR
+Operon:iscRSUA	Operon:iscRSUA
+Operon:ispDF	Operon:ispDF
+Operon:lolB-ispE-prs	Operon:lolB-ispE-prs
+Operon:ispG-sroE	Operon:ispG-sroE
+Operon:kbl-tdh	Operon:kbl-tdh
+Operon:yqaE-kbp	Operon:yqaE-kbp
+Operon:kdpFABC	Operon:kdpFABC
+Operon:kdpDE	Operon:kdpDE
+Operon:ychQA-kdsA	Operon:ychQA-kdsA
+Operon:ycaR-kdsB	Operon:ycaR-kdsB
+Operon:kefGB-yheV	Operon:kefGB-yheV
+Operon:kefFC	Operon:kefFC
+Operon:kilR-ydaE	Operon:kilR-ydaE
+Operon:lacZYA	Operon:lacZYA
+Operon:mhpR-lacI	Operon:mhpR-lacI
+Operon:malK-lamB-malM	Operon:malK-lamB-malM
+Operon:yciSM-pyrF-yciH	Operon:yciSM-pyrF-yciH
+Operon:lepAB	Operon:lepAB
+Operon:leuLABCD	Operon:leuLABCD
+Operon:lgt-thyA	Operon:lgt-thyA
+Operon:rnt-lhr	Operon:rnt-lhr
+Operon:ligA-ypeB	Operon:ligA-ypeB
+Operon:ybeD-lipB	Operon:ybeD-lipB
+Operon:livKHMGF	Operon:livKHMGF
+Operon:lldPRD	Operon:lldPRD
+Operon:ybeZYX-lnt	Operon:ybeZYX-lnt
+Operon:lolA-rarA	Operon:lolA-rarA
+Operon:lolCDE	Operon:lolCDE
+Operon:ytjB-lplA	Operon:ytjB-lplA
+Operon:lptFG	Operon:lptFG
+Operon:ppiB-lpxH	Operon:ppiB-lpxH
+Operon:ycaI-msbA-lpxK-ycaQ	Operon:ycaI-msbA-lpxK-ycaQ
+Operon:yeiR-lpxT	Operon:yeiR-lpxT
+Operon:lsrACDBFG-tam	Operon:lsrACDBFG-tam
+Operon:lsrRK	Operon:lsrRK
+Operon:yiaKLMNO-lyx-sgbHUE	Operon:yiaKLMNO-lyx-sgbHUE
+Operon:macAB	Operon:macAB
+Operon:malEFGH	Operon:malEFGH
+Operon:malPQ	Operon:malPQ
+Operon:malXY	Operon:malXY
+Operon:manXYZ-yobD	Operon:manXYZ-yobD
+Operon:marRAB	Operon:marRAB
+Operon:relA-mazEF	Operon:relA-mazEF
+Operon:mcrBC	Operon:mcrBC
+Operon:mdlAB	Operon:mdlAB
+Operon:mdtUJI	Operon:mdtUJI
+Operon:mdtM-yjiN	Operon:mdtM-yjiN
+Operon:mdtNOP	Operon:mdtNOP
+Operon:melAB	Operon:melAB
+Operon:menA-rraA	Operon:menA-rraA
+Operon:menFD-yfbB-menBCE	Operon:menFD-yfbB-menBCE
+Operon:ydiJ-menI-ydiH	Operon:ydiJ-menI-ydiH
+Operon:metBL	Operon:metBL
+Operon:metNIQ	Operon:metNIQ
+Operon:mglBAC	Operon:mglBAC
+Operon:mgtA	Operon:mgtA
+Operon:mhpABCDFE	Operon:mhpABCDFE
+Operon:minCDE	Operon:minCDE
+Operon:mlaFEDCB	Operon:mlaFEDCB
+Operon:mlc-ynfK	Operon:mlc-ynfK
+Operon:mutY-yggX-mltC-nupG	Operon:mutY-yggX-mltC-nupG
+Operon:mmuPM	Operon:mmuPM
+Operon:mnaT-ydcZ	Operon:mnaT-ydcZ
+Operon:mngAB	Operon:mngAB
+Operon:mntR-ybiR	Operon:mntR-ybiR
+Operon:rybA-mntS	Operon:rybA-mntS
+Operon:moaABCDE	Operon:moaABCDE
+Operon:mobAB	Operon:mobAB
+Operon:modABC	Operon:modABC
+Operon:modEF	Operon:modEF
+Operon:moeAB	Operon:moeAB
+Operon:ycjY-ymjDC-mpaA	Operon:ycjY-ymjDC-mpaA
+Operon:mqsRA	Operon:mqsRA
+Operon:rsfS-rlmH-mrdAB-rlpA	Operon:rsfS-rlmH-mrdAB-rlpA
+Operon:mreBCD	Operon:mreBCD
+Operon:psd-mscM	Operon:psd-mscM
+Operon:hiuH-msrPQ	Operon:hiuH-msrPQ
+Operon:mtlADR	Operon:mtlADR
+Operon:murQP-yfeW	Operon:murQP-yfeW
+Operon:yicR-rpmBG-mutM	Operon:yicR-rpmBG-mutM
+Operon:secMA-mutT	Operon:secMA-mutT
+Operon:yqjA-mzrA	Operon:yqjA-mzrA
+Operon:nadA-pnuC	Operon:nadA-pnuC
+Operon:radA-nadR	Operon:radA-nadR
+Operon:nagBACD	Operon:nagBACD
+Operon:nanATEK-yhcH	Operon:nanATEK-yhcH
+Operon:nanCMS	Operon:nanCMS
+Operon:narGHJI	Operon:narGHJI
+Operon:narK	Operon:narK
+Operon:narXL	Operon:narXL
+Operon:narUZYWV	Operon:narUZYWV
+Operon:ybgIJKL-nei	Operon:ybgIJKL-nei
+Operon:nfrBA	Operon:nfrBA
+Operon:ybjC-nfsA-rimK-ybjN	Operon:ybjC-nfsA-rimK-ybjN
+Operon:gntXY	Operon:gntXY
+Operon:nhaAR	Operon:nhaAR
+Operon:nikABCDER	Operon:nikABCDER
+Operon:ybcN-ninE-ybcO-rusA-ylcG	Operon:ybcN-ninE-ybcO-rusA-ylcG
+Operon:nlpD-rpoS	Operon:nlpD-rpoS
+Operon:nohA-stfQ-tfaQ	Operon:nohA-stfQ-tfaQ
+Operon:norVW	Operon:norVW
+Operon:nrdAB-yfaE	Operon:nrdAB-yfaE
+Operon:nrdDG	Operon:nrdDG
+Operon:nrdHIEF	Operon:nrdHIEF
+Operon:nrdR-ribDE-nusB-thiL-pgpA	Operon:nrdR-ribDE-nusB-thiL-pgpA
+Operon:nrfABCDEFG	Operon:nrfABCDEFG
+Operon:nsrR-rnr-rlmB-yjfI	Operon:nsrR-rnr-rlmB-yjfI
+Operon:ydgK-rsxABCDGE-nth	Operon:ydgK-rsxABCDGE-nth
+Operon:nudB-yebC-ruvC	Operon:nudB-yebC-ruvC
+Operon:rluE-nudJ	Operon:rluE-nudJ
+Operon:pabB-nudL	Operon:pabB-nudL
+Operon:nuoABCEFGHIJKLMN	Operon:nuoABCEFGHIJKLMN
+Operon:secE-nusG	Operon:secE-nusG
+Operon:rplU-rpmA-yhbE-obgE	Operon:rplU-rpmA-yhbE-obgE
+Operon:ycjMNOPQRSTUV-ymjB-ompG	Operon:ycjMNOPQRSTUV-ymjB-ompG
+Operon:ydbK-ompN	Operon:ydbK-ompN
+Operon:yliM-ompX	Operon:yliM-ompX
+Operon:mdoGH	Operon:mdoGH
+Operon:oppABCDF	Operon:oppABCDF
+Operon:osmF-yehYXW	Operon:osmF-yehYXW
+Operon:otsBA	Operon:otsBA
+Operon:paaABCDEFGHIJK	Operon:paaABCDEFGHIJK
+Operon:paaXY	Operon:paaXY
+Operon:panBC	Operon:panBC
+Operon:panE-yajL	Operon:panE-yajL
+Operon:yhdT-panF-prmA	Operon:yhdT-panF-prmA
+Operon:paoABCD	Operon:paoABCD
+Operon:ydcSTUV-patD	Operon:ydcSTUV-patD
+Operon:tapT-patZ	Operon:tapT-patZ
+Operon:yfhM-pbpC	Operon:yfhM-pbpC
+Operon:umpG-pcm	Operon:umpG-pcm
+Operon:pdxH-tyrS-pdxY	Operon:pdxH-tyrS-pdxY
+Operon:ygfB-pepP-ubiHI	Operon:ygfB-pepP-ubiHI
+Operon:pflDC	Operon:pflDC
+Operon:pgaABCD	Operon:pgaABCD
+Operon:seqA-pgm	Operon:seqA-pgm
+Operon:pgpC-tadA	Operon:pgpC-tadA
+Operon:pheLA	Operon:pheLA
+Operon:phnCDEEFGHIJKLMNOP	Operon:phnCDEEFGHIJKLMNOP
+Operon:phoA-psiF	Operon:phoA-psiF
+Operon:phoBR	Operon:phoBR
+Operon:phoPQ	Operon:phoPQ
+Operon:pstSCAB-phoU	Operon:pstSCAB-phoU
+Operon:yhfXW-php-yhfUTS	Operon:yhfXW-php-yhfUTS
+Operon:ybgA-phr	Operon:ybgA-phr
+Operon:pldB-yigL	Operon:pldB-yigL
+Operon:pntAB	Operon:pntAB
+Operon:potABCD	Operon:potABCD
+Operon:speF-potE	Operon:speF-potE
+Operon:potFGHI	Operon:potFGHI
+Operon:ppdAB-ygdB-ppdC-recC	Operon:ppdAB-ygdB-ppdC-recC
+Operon:sdsR-pphA	Operon:sdsR-pphA
+Operon:yegL-pphC	Operon:yegL-pphC
+Operon:ppk-ppx	Operon:ppk-ppx
+Operon:pqiABC	Operon:pqiABC
+Operon:proQ-prc	Operon:proQ-prc
+Operon:preTA	Operon:preTA
+Operon:rpsF-priB-rpsR-rplI	Operon:rpsF-priB-rpsR-rplI
+Operon:priC-ybaM	Operon:priC-ybaM
+Operon:prlC-yhiQ	Operon:prlC-yhiQ
+Operon:sohA-yhaV	Operon:sohA-yhaV
+Operon:proBA	Operon:proBA
+Operon:proVWX	Operon:proVWX
+Operon:prpBCDE	Operon:prpBCDE
+Operon:pspABCDE	Operon:pspABCDE
+Operon:pspG	Operon:pspG
+Operon:pssLA	Operon:pssLA
+Operon:psuKG	Operon:psuKG
+Operon:pth-ychF	Operon:pth-ychF
+Operon:ptrA-recBD	Operon:ptrA-recBD
+Operon:rppH-ptsP	Operon:rppH-ptsP
+Operon:purHD	Operon:purHD
+Operon:purEK	Operon:purEK
+Operon:purMN	Operon:purMN
+Operon:ychJ-purU	Operon:ychJ-purU
+Operon:puuAP	Operon:puuAP
+Operon:puuDRCBE	Operon:puuDRCBE
+Operon:pyrLBI	Operon:pyrLBI
+Operon:rph-pyrE	Operon:rph-pyrE
+Operon:qmcA-ybbJ	Operon:qmcA-ybbJ
+Operon:qseBC	Operon:qseBC
+Operon:raiAZ	Operon:raiAZ
+Operon:rapA-rluA	Operon:rapA-rluA
+Operon:ratA-yfjF	Operon:ratA-yfjF
+Operon:ravA-viaA	Operon:ravA-viaA
+Operon:yhiI-rbbA-yhhJ	Operon:yhiI-rbbA-yhhJ
+Operon:rbsDACBZKR	Operon:rbsDACBZKR
+Operon:rclABC	Operon:rclABC
+Operon:rcnAB	Operon:rcnAB
+Operon:rcsDB	Operon:rcsDB
+Operon:rcsF-trmO	Operon:rcsF-trmO
+Operon:yggSTU-rdgB-hemW	Operon:yggSTU-rdgB-hemW
+Operon:recAX	Operon:recAX
+Operon:rpoZ-spoT-trmH-recG	Operon:rpoZ-spoT-trmH-recG
+Operon:ybaB-recR	Operon:ybaB-recR
+Operon:rfaDFCL	Operon:rfaDFCL
+Operon:rfbBDACX	Operon:rfbBDACX
+Operon:rfe-wzzE-wecBC-rffGHC-wecE-wzxE-wecF-wzyE-rffM	Operon:rfe-wzzE-wecBC-rffGHC-wecE-wzxE-wecF-wzyE-rffM
+Operon:rhaBAD	Operon:rhaBAD
+Operon:rhaSR	Operon:rhaSR
+Operon:yfaX-rhmD	Operon:yfaX-rhmD
+Operon:rhoL-rho	Operon:rhoL-rho
+Operon:rhsA-yibA	Operon:rhsA-yibA
+Operon:rhsC-ybfB	Operon:rhsC-ybfB
+Operon:rhsD-ybbC-ylbH-ybbD	Operon:rhsD-ybbC-ylbH-ybbD
+Operon:sroG-ribB	Operon:sroG-ribB
+Operon:rpsP-rimM-trmD-rplS	Operon:rpsP-rimM-trmD-rplS
+Operon:ybjO-rlmC	Operon:ybjO-rlmC
+Operon:rlmL-uup	Operon:rlmL-uup
+Operon:rluD-pgeF	Operon:rluD-pgeF
+Operon:rnlAB	Operon:rnlAB
+Operon:rpmH-rnpA	Operon:rpmH-rnpA
+Operon:yaeP-rof	Operon:yaeP-rof
+Operon:rplKAJL-rpoBC	Operon:rplKAJL-rpoBC
+Operon:rpsJ-rplCDWB-rpsS-rplV-rpsC-rplP-rpmC-rpsQ	Operon:rpsJ-rplCDWB-rpsS-rplV-rpsC-rplP-rpmC-rpsQ
+Operon:rplNXE-rpsNH-rplFR-rpsE-rpmD-rplO-secY-rpmJ	Operon:rplNXE-rpsNH-rplFR-rpsE-rpmD-rplO-secY-rpmJ
+Operon:rplM-rpsI	Operon:rplM-rpsI
+Operon:rpsMKD-rpoA-rplQ	Operon:rpsMKD-rpoA-rplQ
+Operon:rpnE-ypaA	Operon:rpnE-ypaA
+Operon:rseD-rpoE-rseABC	Operon:rseD-rpoE-rseABC
+Operon:rpsB-tsf	Operon:rpsB-tsf
+Operon:rsmD-yhhL	Operon:rsmD-yhhL
+Operon:rspA-rspB	Operon:rspA-rspB
+Operon:rssAB	Operon:rssAB
+Operon:rstAB	Operon:rstAB
+Operon:rtcBA	Operon:rtcBA
+Operon:rutABCDEFG	Operon:rutABCDEFG
+Operon:ruvAB	Operon:ruvAB
+Operon:safA-ydeO	Operon:safA-ydeO
+Operon:sanA-yeiS	Operon:sanA-yeiS
+Operon:sapABCDF	Operon:sapABCDF
+Operon:sbcDC	Operon:sbcDC
+Operon:sbmA-yaiW	Operon:sbmA-yaiW
+Operon:sdaCB	Operon:sdaCB
+Operon:sdhCDAB-sucABCD-sdhX	Operon:sdhCDAB-sucABCD-sdhX
+Operon:sdhE-ygfX	Operon:sdhE-ygfX
+Operon:yajC-secDF	Operon:yajC-secDF
+Operon:secG-leuU	Operon:secG-leuU
+Operon:selAB	Operon:selAB
+Operon:ydjA-selD-topB	Operon:ydjA-selD-topB
+Operon:sgrST-setA	Operon:sgrST-setA
+Operon:sfmAC	Operon:sfmAC
+Operon:sfmHF	Operon:sfmHF
+Operon:sgcXBCQAER	Operon:sgcXBCQAER
+Operon:sgrR-sroA-thiBPQ	Operon:sgrR-sroA-thiBPQ
+Operon:solA-yceO	Operon:solA-yceO
+Operon:speAB	Operon:speAB
+Operon:yacC-speED	Operon:yacC-speED
+Operon:ynfB-speG	Operon:ynfB-speG
+Operon:ygfK-ssnA	Operon:ygfK-ssnA
+Operon:sspAB	Operon:sspAB
+Operon:ssuEADCB	Operon:ssuEADCB
+Operon:stfR-tfaR	Operon:stfR-tfaR
+Operon:sufABCDSE	Operon:sufABCDSE
+Operon:tag-yiaC	Operon:tag-yiaC
+Operon:talA-tktB	Operon:talA-tktB
+Operon:tamAB-ytfP	Operon:tamAB-ytfP
+Operon:tatABC	Operon:tatABC
+Operon:tauABCD	Operon:tauABCD
+Operon:tdcABCDEFG	Operon:tdcABCDEFG
+Operon:tehAB	Operon:tehAB
+Operon:tesA-ybbO	Operon:tesA-ybbO
+Operon:stfE-tfaE	Operon:stfE-tfaE
+Operon:thiCEFSGH	Operon:thiCEFSGH
+Operon:thiMD	Operon:thiMD
+Operon:thrLABC	Operon:thrLABC
+Operon:ypfJ-tmcA	Operon:ypfJ-tmcA
+Operon:tnaCAB	Operon:tnaCAB
+Operon:ybgC-tolQRA	Operon:ybgC-tolQRA
+Operon:tolC-ygiBC	Operon:tolC-ygiBC
+Operon:topAI-yjhQ	Operon:topAI-yjhQ
+Operon:torCAD	Operon:torCAD
+Operon:torYZ	Operon:torYZ
+Operon:tyrTV-tpr	Operon:tyrTV-tpr
+Operon:treBC	Operon:treBC
+Operon:trpLEDCBA	Operon:trpLEDCBA
+Operon:yqcC-truC-yqcA	Operon:yqcC-truC-yqcA
+Operon:tsaB-yeaY	Operon:tsaB-yeaY
+Operon:ttdABT	Operon:ttdABT
+Operon:thrU-tyrU-glyT-thrT-tufB	Operon:thrU-tyrU-glyT-thrT-tufB
+Operon:yheO-tusDCB	Operon:yheO-tusDCB
+Operon:ycjXF-tyrR	Operon:ycjXF-tyrR
+Operon:ubiCA	Operon:ubiCA
+Operon:ubiEJB	Operon:ubiEJB
+Operon:ugpBAECQ	Operon:ugpBAECQ
+Operon:uhpTU	Operon:uhpTU
+Operon:uidABC	Operon:uidABC
+Operon:ulaABCDEF	Operon:ulaABCDEF
+Operon:umuDC	Operon:umuDC
+Operon:upp-uraA	Operon:upp-uraA
+Operon:yiiS-uspD	Operon:yiiS-uspD
+Operon:uvrYC	Operon:uvrYC
+Operon:uxaCA	Operon:uxaCA
+Operon:uxuAB	Operon:uxuAB
+Operon:rirA-rfaQGPSBIJYZ-waaU	Operon:rirA-rfaQGPSBIJYZ-waaU
+Operon:wbbIJK	Operon:wbbIJK
+Operon:wza-wzb-wzc-wcaAB	Operon:wza-wzb-wzc-wcaAB
+Operon:wcaKLM	Operon:wcaKLM
+Operon:wrbA-yccJ	Operon:wrbA-yccJ
+Operon:xapAB	Operon:xapAB
+Operon:xdhABC	Operon:xdhABC
+Operon:ygfM-xdhD	Operon:ygfM-xdhD
+Operon:xylAB	Operon:xylAB
+Operon:xylFGHR	Operon:xylFGHR
+Operon:yabPQ	Operon:yabPQ
+Operon:yadMLKC	Operon:yadMLKC
+Operon:yadGH	Operon:yadGH
+Operon:yafDE	Operon:yafDE
+Operon:yafY-ykfBF-yafX-ykfGH-yafW-ykfI	Operon:yafY-ykfBF-yafX-ykfGH-yafW-ykfI
+Operon:ykfA-yafZ	Operon:ykfA-yafZ
+Operon:yagAB-insX	Operon:yagAB-insX
+Operon:yagEF	Operon:yagEF
+Operon:yagGH	Operon:yagGH
+Operon:yagML	Operon:yagML
+Operon:yahDEFG	Operon:yahDEFG
+Operon:yahIJ	Operon:yahIJ
+Operon:ybbAP	Operon:ybbAP
+Operon:ybcLM	Operon:ybcLM
+Operon:citR-ybdNM	Operon:citR-ybdNM
+Operon:ybfOC	Operon:ybfOC
+Operon:ybgQPO	Operon:ybgQPO
+Operon:ybiYW	Operon:ybiYW
+Operon:ybjJI	Operon:ybjJI
+Operon:yccFS	Operon:yccFS
+Operon:ymdE-ycdU	Operon:ymdE-ycdU
+Operon:ycdXY	Operon:ycdXY
+Operon:yceJI	Operon:yceJI
+Operon:ymfA-ycfZ	Operon:ymfA-ycfZ
+Operon:yciCB	Operon:yciCB
+Operon:yciGFE	Operon:yciGFE
+Operon:yciVOQ	Operon:yciVOQ
+Operon:yciZT	Operon:yciZT
+Operon:ymiA-yciX	Operon:ymiA-yciX
+Operon:ydaGF	Operon:ydaGF
+Operon:ydaSTUVW-rzpR	Operon:ydaSTUVW-rzpR
+Operon:ynaK-ydaY	Operon:ynaK-ydaY
+Operon:ydbH-ynbE-ydbL	Operon:ydbH-ynbE-ydbL
+Operon:rhsE-ydcD	Operon:rhsE-ydcD
+Operon:yddAB	Operon:yddAB
+Operon:yddLKJ	Operon:yddLKJ
+Operon:ydeNM	Operon:ydeNM
+Operon:ydeTSR	Operon:ydeTSR
+Operon:yntF-ydfK	Operon:yntF-ydfK
+Operon:ynfO-ydfO	Operon:ynfO-ydfO
+Operon:ydfUT	Operon:ydfUT
+Operon:ydhIJK	Operon:ydhIJK
+Operon:ydhYVWXUT	Operon:ydhYVWXUT
+Operon:ydiFO	Operon:ydiFO
+Operon:ydjLKJIHG	Operon:ydjLKJIHG
+Operon:ydjXYZ-ynjABCD	Operon:ydjXYZ-ynjABCD
+Operon:yeaGH	Operon:yeaGH
+Operon:yeaR-yoaG	Operon:yeaR-yoaG
+Operon:yeaVW	Operon:yeaVW
+Operon:yobA-yebZY	Operon:yobA-yebZY
+Operon:yecDE	Operon:yecDE
+Operon:yedEF	Operon:yedEF
+Operon:yedRJ	Operon:yedRJ
+Operon:yefM-yoeB	Operon:yefM-yoeB
+Operon:yegRZ	Operon:yegRZ
+Operon:yegTUV	Operon:yegTUV
+Operon:yehDCBA	Operon:yehDCBA
+Operon:yehHI	Operon:yehHI
+Operon:yehLMPQ	Operon:yehLMPQ
+Operon:yejABEF	Operon:yejABEF
+Operon:yejLM	Operon:yejLM
+Operon:yfaATSQP	Operon:yfaATSQP
+Operon:yfcUSRQPO	Operon:yfcUSRQPO
+Operon:yfdGHI	Operon:yfdGHI
+Operon:yfdONMLK	Operon:yfdONMLK
+Operon:yfdPQ	Operon:yfdPQ
+Operon:yfdRST	Operon:yfdRST
+Operon:yfeCD	Operon:yfeCD
+Operon:yfeKS	Operon:yfeKS
+Operon:yfeYX	Operon:yfeYX
+Operon:ypeA-yfeZ	Operon:ypeA-yfeZ
+Operon:yffMN	Operon:yffMN
+Operon:yffO-yffP	Operon:yffO-yffP
+Operon:yffQR	Operon:yffQR
+Operon:yfgHI	Operon:yfgHI
+Operon:yfjPQ	Operon:yfjPQ
+Operon:yfjR-ypjK-yfjS-yfjT	Operon:yfjR-ypjK-yfjS-yfjT
+Operon:yfjXY-ypjJ-yfjZ-ypjF	Operon:yfjXY-ypjJ-yfjZ-ypjF
+Operon:ygaZH	Operon:ygaZH
+Operon:ygaVP	Operon:ygaVP
+Operon:ygbJK	Operon:ygbJK
+Operon:ygbLM	Operon:ygbLM
+Operon:yqcE-ygcE	Operon:yqcE-ygcE
+Operon:ygcNOP	Operon:ygcNOP
+Operon:ygcRQ	Operon:ygcRQ
+Operon:ygfTS	Operon:ygfTS
+Operon:trmB-yggL	Operon:trmB-yggL
+Operon:yghED	Operon:yghED
+Operon:yghSR	Operon:yghSR
+Operon:ygjJK	Operon:ygjJK
+Operon:yhaBC	Operon:yhaBC
+Operon:yhaKL	Operon:yhaKL
+Operon:ubiT-yhbS	Operon:ubiT-yhbS
+Operon:yhcADE	Operon:yhcADE
+Operon:yhdN-zntR	Operon:yhdN-zntR
+Operon:yhdWXYZ	Operon:yhdWXYZ
+Operon:yheSTU	Operon:yheSTU
+Operon:yhfZY	Operon:yhfZY
+Operon:yhhZ-yrhA-insA6AB6B6	Operon:yhhZ-yrhA-insA6AB6B6
+Operon:yiaWV	Operon:yiaWV
+Operon:yibIH	Operon:yibIH
+Operon:yicJI	Operon:yicJI
+Operon:yidHGF	Operon:yidHGF
+Operon:yidKJ	Operon:yidKJ
+Operon:yieEF	Operon:yieEF
+Operon:yigGF	Operon:yigGF
+Operon:yihLM	Operon:yihLM
+Operon:yihPO	Operon:yihPO
+Operon:yihUTS	Operon:yihUTS
+Operon:yihV-csqR	Operon:yihV-csqR
+Operon:yjbEFGH	Operon:yjbEFGH
+Operon:yjbLM	Operon:yjbLM
+Operon:yjbQR	Operon:yjbQR
+Operon:yjdIJ	Operon:yjdIJ
+Operon:yjeNO	Operon:yjeNO
+Operon:yjfKLMC	Operon:yjfKLMC
+Operon:ytfQRT-yjfF	Operon:ytfQRT-yjfF
+Operon:yjhIHG	Operon:yjhIHG
+Operon:yjiXA	Operon:yjiXA
+Operon:yjiML	Operon:yjiML
+Operon:yjjUV	Operon:yjjUV
+Operon:ykgEFG	Operon:ykgEFG
+Operon:ykgMO	Operon:ykgMO
+Operon:ymfED	Operon:ymfED
+Operon:ymgGD	Operon:ymgGD
+Operon:ynaA-lomR	Operon:ynaA-lomR
+Operon:ynbABCD	Operon:ynbABCD
+Operon:yohJK	Operon:yohJK
+Operon:pyrSR-ypdC	Operon:pyrSR-ypdC
+Operon:yphCB	Operon:yphCB
+Operon:yphFED	Operon:yphFED
+Operon:yqaBA	Operon:yqaBA
+Operon:yqeIJ	Operon:yqeIJ
+Operon:yqgEF	Operon:yqgEF
+Operon:insC5CD5D5-yqiHIG	Operon:insC5CD5D5-yqiHIG
+Operon:yqiJK	Operon:yqiJK
+Operon:yqjCDEK	Operon:yqjCDEK
+Operon:yraIJK	Operon:yraIJK
+Operon:znuCB	Operon:znuCB
+Operon:zraSR	Operon:zraSR
+Kmodule:M00001	Kmodule:Glycolysis (Embden-Meyerhof pathway), glucose => pyruvate 
+Kmodule:M00002	Kmodule:Glycolysis, core module involving three-carbon compounds 
+Kmodule:M00003	Kmodule:Gluconeogenesis, oxaloacetate => fructose-6P 
+Kmodule:M00307	Kmodule:Pyruvate oxidation, pyruvate => acetyl-CoA 
+Kmodule:M00009	Kmodule:Citrate cycle (TCA cycle, Krebs cycle) 
+Kmodule:M00010	Kmodule:Citrate cycle, first carbon oxidation, oxaloacetate => 2-oxoglutarate 
+Kmodule:M00011	Kmodule:Citrate cycle, second carbon oxidation, 2-oxoglutarate => oxaloacetate 
+Kmodule:M00004	Kmodule:Pentose phosphate pathway (Pentose phosphate cycle) 
+Kmodule:M00006	Kmodule:Pentose phosphate pathway, oxidative phase, glucose 6P => ribulose 5P 
+Kmodule:M00007	Kmodule:Pentose phosphate pathway, non-oxidative phase, fructose 6P => ribose 5P 
+Kmodule:M00580	Kmodule:Pentose phosphate pathway, archaea, fructose 6P => ribose 5P 
+Kmodule:M00005	Kmodule:PRPP biosynthesis, ribose 5P => PRPP 
+Kmodule:M00008	Kmodule:Entner-Doudoroff pathway, glucose-6P => glyceraldehyde-3P + pyruvate 
+Kmodule:M00308	Kmodule:Semi-phosphorylative Entner-Doudoroff pathway, gluconate => glycerate-3P 
+Kmodule:M00633	Kmodule:Semi-phosphorylative Entner-Doudoroff pathway, gluconate/galactonate => glycerate-3P 
+Kmodule:M00309	Kmodule:Non-phosphorylative Entner-Doudoroff pathway, gluconate/galactonate => glycerate 
+Kmodule:M00014	Kmodule:Glucuronate pathway (uronate pathway) 
+Kmodule:M00630	Kmodule:D-Galacturonate degradation (fungi), D-galacturonate => glycerol 
+Kmodule:M00631	Kmodule:D-Galacturonate degradation (bacteria), D-galacturonate => pyruvate + D-glyceraldehyde 3P 
+Kmodule:M00061	Kmodule:D-Glucuronate degradation, D-glucuronate => pyruvate + D-glyceraldehyde 3P 
+Kmodule:M00081	Kmodule:Pectin degradation 
+Kmodule:M00632	Kmodule:Galactose degradation, Leloir pathway, galactose => alpha-D-glucose-1P 
+Kmodule:M00552	Kmodule:D-galactonate degradation, De Ley-Doudoroff pathway, D-galactonate => glycerate-3P 
+Kmodule:M00129	Kmodule:Ascorbate biosynthesis, animals, glucose-1P => ascorbate 
+Kmodule:M00114	Kmodule:Ascorbate biosynthesis, plants, glucose-6P => ascorbate 
+Kmodule:M00550	Kmodule:Ascorbate degradation, ascorbate => D-xylulose-5P 
+Kmodule:M00854	Kmodule:Glycogen biosynthesis, glucose-1P => glycogen/starch 
+Kmodule:M00855	Kmodule:Glycogen degradation, glycogen => glucose-6P 
+Kmodule:M00565	Kmodule:Trehalose biosynthesis, D-glucose 1P => trehalose 
+Kmodule:M00549	Kmodule:Nucleotide sugar biosynthesis, glucose => UDP-glucose 
+Kmodule:M00554	Kmodule:Nucleotide sugar biosynthesis, galactose => UDP-galactose 
+Kmodule:M00761	Kmodule:Undecaprenylphosphate alpha-L-Ara4N biosynthesis, UDP-GlcA => undecaprenyl phosphate alpha-L-Ara4N 
+Kmodule:M00012	Kmodule:Glyoxylate cycle 
+Kmodule:M00373	Kmodule:Ethylmalonyl pathway 
+Kmodule:M00740	Kmodule:Methylaspartate cycle 
+Kmodule:M00532	Kmodule:Photorespiration 
+Kmodule:M00013	Kmodule:Malonate semialdehyde pathway, propanoyl-CoA => acetyl-CoA 
+Kmodule:M00741	Kmodule:Propanoyl-CoA metabolism, propanoyl-CoA => succinyl-CoA 
+Kmodule:M00130	Kmodule:Inositol phosphate metabolism, PI=> PIP2 => Ins(1,4,5)P3 => Ins(1,3,4,5)P4 
+Kmodule:M00131	Kmodule:Inositol phosphate metabolism, Ins(1,3,4,5)P4 => Ins(1,3,4)P3 => myo-inositol 
+Kmodule:M00132	Kmodule:Inositol phosphate metabolism, Ins(1,3,4)P3 => phytate 
+Kmodule:M00165	Kmodule:Reductive pentose phosphate cycle (Calvin cycle) 
+Kmodule:M00166	Kmodule:Reductive pentose phosphate cycle, ribulose-5P => glyceraldehyde-3P 
+Kmodule:M00167	Kmodule:Reductive pentose phosphate cycle, glyceraldehyde-3P => ribulose-5P 
+Kmodule:M00168	Kmodule:CAM (Crassulacean acid metabolism), dark 
+Kmodule:M00169	Kmodule:CAM (Crassulacean acid metabolism), light 
+Kmodule:M00172	Kmodule:C4-dicarboxylic acid cycle, NADP - malic enzyme type 
+Kmodule:M00171	Kmodule:C4-dicarboxylic acid cycle, NAD - malic enzyme type 
+Kmodule:M00170	Kmodule:C4-dicarboxylic acid cycle, phosphoenolpyruvate carboxykinase type 
+Kmodule:M00173	Kmodule:Reductive citrate cycle (Arnon-Buchanan cycle) 
+Kmodule:M00376	Kmodule:3-Hydroxypropionate bi-cycle 
+Kmodule:M00375	Kmodule:Hydroxypropionate-hydroxybutylate cycle 
+Kmodule:M00374	Kmodule:Dicarboxylate-hydroxybutyrate cycle 
+Kmodule:M00377	Kmodule:Reductive acetyl-CoA pathway (Wood-Ljungdahl pathway) 
+Kmodule:M00579	Kmodule:Phosphate acetyltransferase-acetate kinase pathway, acetyl-CoA => acetate 
+Kmodule:M00620	Kmodule:Incomplete reductive citrate cycle, acetyl-CoA => oxoglutarate 
+Kmodule:M00567	Kmodule:Methanogenesis, CO2 => methane 
+Kmodule:M00357	Kmodule:Methanogenesis, acetate => methane 
+Kmodule:M00356	Kmodule:Methanogenesis, methanol => methane 
+Kmodule:M00563	Kmodule:Methanogenesis, methylamine/dimethylamine/trimethylamine => methane 
+Kmodule:M00358	Kmodule:Coenzyme M biosynthesis 
+Kmodule:M00608	Kmodule:2-Oxocarboxylic acid chain extension, 2-oxoglutarate => 2-oxoadipate => 2-oxopimelate => 2-oxosuberate 
+Kmodule:M00174	Kmodule:Methane oxidation, methanotroph, methane => formaldehyde 
+Kmodule:M00346	Kmodule:Formaldehyde assimilation, serine pathway 
+Kmodule:M00345	Kmodule:Formaldehyde assimilation, ribulose monophosphate pathway 
+Kmodule:M00344	Kmodule:Formaldehyde assimilation, xylulose monophosphate pathway 
+Kmodule:M00378	Kmodule:F420 biosynthesis 
+Kmodule:M00422	Kmodule:Acetyl-CoA pathway, CO2 => acetyl-CoA 
+Kmodule:M00175	Kmodule:Nitrogen fixation, nitrogen => ammonia 
+Kmodule:M00531	Kmodule:Assimilatory nitrate reduction, nitrate => ammonia 
+Kmodule:M00530	Kmodule:Dissimilatory nitrate reduction, nitrate => ammonia 
+Kmodule:M00529	Kmodule:Denitrification, nitrate => nitrogen 
+Kmodule:M00528	Kmodule:Nitrification, ammonia => nitrite 
+Kmodule:M00804	Kmodule:Complete nitrification, comammox, ammonia => nitrite => nitrate 
+Kmodule:M00176	Kmodule:Assimilatory sulfate reduction, sulfate => H2S 
+Kmodule:M00596	Kmodule:Dissimilatory sulfate reduction, sulfate => H2S 
+Kmodule:M00595	Kmodule:Thiosulfate oxidation by SOX complex, thiosulfate => sulfate 
+Kmodule:M00161	Kmodule:Photosystem II 
+Kmodule:M00163	Kmodule:Photosystem I 
+Kmodule:M00597	Kmodule:Anoxygenic photosystem II 
+Kmodule:M00598	Kmodule:Anoxygenic photosystem I 
+Kmodule:M00144	Kmodule:NADH:quinone oxidoreductase, prokaryotes 
+Kmodule:M00145	Kmodule:NAD(P)H:quinone oxidoreductase, chloroplasts and cyanobacteria 
+Kmodule:M00142	Kmodule:NADH:ubiquinone oxidoreductase, mitochondria 
+Kmodule:M00143	Kmodule:NADH dehydrogenase (ubiquinone) Fe-S protein/flavoprotein complex, mitochondria 
+Kmodule:M00146	Kmodule:NADH dehydrogenase (ubiquinone) 1 alpha subcomplex 
+Kmodule:M00147	Kmodule:NADH dehydrogenase (ubiquinone) 1 beta subcomplex 
+Kmodule:M00149	Kmodule:Succinate dehydrogenase, prokaryotes 
+Kmodule:M00150	Kmodule:Fumarate reductase, prokaryotes 
+Kmodule:M00148	Kmodule:Succinate dehydrogenase (ubiquinone) 
+Kmodule:M00162	Kmodule:Cytochrome b6f complex 
+Kmodule:M00151	Kmodule:Cytochrome bc1 complex respiratory unit 
+Kmodule:M00152	Kmodule:Cytochrome bc1 complex 
+Kmodule:M00154	Kmodule:Cytochrome c oxidase 
+Kmodule:M00155	Kmodule:Cytochrome c oxidase, prokaryotes 
+Kmodule:M00153	Kmodule:Cytochrome bd ubiquinol oxidase 
+Kmodule:M00417	Kmodule:Cytochrome o ubiquinol oxidase 
+Kmodule:M00416	Kmodule:Cytochrome aa3-600 menaquinol oxidase 
+Kmodule:M00156	Kmodule:Cytochrome c oxidase, cbb3-type 
+Kmodule:M00157	Kmodule:F-type ATPase, prokaryotes and chloroplasts 
+Kmodule:M00158	Kmodule:F-type ATPase, eukaryotes 
+Kmodule:M00159	Kmodule:V-type ATPase, prokaryotes 
+Kmodule:M00160	Kmodule:V-type ATPase, eukaryotes 
+Kmodule:M00082	Kmodule:Fatty acid biosynthesis, initiation 
+Kmodule:M00083	Kmodule:Fatty acid biosynthesis, elongation 
+Kmodule:M00873	Kmodule:Fatty acid biosynthesis in mitochondria, animals 
+Kmodule:M00874	Kmodule:Fatty acid biosynthesis in mitochondria, fungi 
+Kmodule:M00085	Kmodule:Fatty acid elongation in mitochondria 
+Kmodule:M00415	Kmodule:Fatty acid elongation in endoplasmic reticulum 
+Kmodule:M00086	Kmodule:beta-Oxidation, acyl-CoA synthesis 
+Kmodule:M00087	Kmodule:beta-Oxidation 
+Kmodule:M00861	Kmodule:beta-Oxidation, peroxisome, VLCFA 
+Kmodule:M00101	Kmodule:Cholesterol biosynthesis, squalene 2,3-epoxide => cholesterol 
+Kmodule:M00102	Kmodule:Ergocalciferol biosynthesis 
+Kmodule:M00103	Kmodule:Cholecalciferol biosynthesis 
+Kmodule:M00104	Kmodule:Bile acid biosynthesis, cholesterol => cholate/chenodeoxycholate 
+Kmodule:M00106	Kmodule:Conjugated bile acid biosynthesis, cholate => taurocholate/glycocholate 
+Kmodule:M00862	Kmodule:beta-Oxidation, peroxisome, tri/dihydroxycholestanoyl-CoA => choloyl/chenodeoxycholoyl-CoA 
+Kmodule:M00107	Kmodule:Steroid hormone biosynthesis, cholesterol => prognenolone => progesterone 
+Kmodule:M00108	Kmodule:C21-Steroid hormone biosynthesis, progesterone => corticosterone/aldosterone 
+Kmodule:M00109	Kmodule:C21-Steroid hormone biosynthesis, progesterone => cortisol/cortisone 
+Kmodule:M00110	Kmodule:C19/C18-Steroid hormone biosynthesis, pregnenolone => androstenedione => estrone 
+Kmodule:M00088	Kmodule:Ketone body biosynthesis, acetyl-CoA => acetoacetate/3-hydroxybutyrate/acetone 
+Kmodule:M00089	Kmodule:Triacylglycerol biosynthesis 
+Kmodule:M00098	Kmodule:Acylglycerol degradation 
+Kmodule:M00090	Kmodule:Phosphatidylcholine (PC) biosynthesis, choline => PC 
+Kmodule:M00091	Kmodule:Phosphatidylcholine (PC) biosynthesis, PE => PC 
+Kmodule:M00092	Kmodule:Phosphatidylethanolamine (PE) biosynthesis, ethanolamine => PE 
+Kmodule:M00093	Kmodule:Phosphatidylethanolamine (PE) biosynthesis, PA => PS => PE 
+Kmodule:M00094	Kmodule:Ceramide biosynthesis 
+Kmodule:M00066	Kmodule:Lactosylceramide biosynthesis 
+Kmodule:M00067	Kmodule:Sulfoglycolipids biosynthesis, ceramide/1-alkyl-2-acylglycerol => sulfatide/seminolipid 
+Kmodule:M00099	Kmodule:Sphingosine biosynthesis 
+Kmodule:M00100	Kmodule:Sphingosine degradation 
+Kmodule:M00113	Kmodule:Jasmonic acid biosynthesis 
+Kmodule:M00048	Kmodule:Inosine monophosphate biosynthesis, PRPP + glutamine => IMP 
+Kmodule:M00049	Kmodule:Adenine ribonucleotide biosynthesis, IMP => ADP,ATP 
+Kmodule:M00050	Kmodule:Guanine ribonucleotide biosynthesis IMP => GDP,GTP 
+Kmodule:M00546	Kmodule:Purine degradation, xanthine => urea 
+Kmodule:M00051	Kmodule:Uridine monophosphate biosynthesis, glutamine (+ PRPP) => UMP 
+Kmodule:M00052	Kmodule:Pyrimidine ribonucleotide biosynthesis, UMP => UDP/UTP,CDP/CTP 
+Kmodule:M00053	Kmodule:Pyrimidine deoxyribonuleotide biosynthesis, CDP/CTP => dCDP/dCTP,dTDP/dTTP 
+Kmodule:M00046	Kmodule:Pyrimidine degradation, uracil => beta-alanine, thymine => 3-aminoisobutanoate 
+Kmodule:M00020	Kmodule:Serine biosynthesis, glycerate-3P => serine 
+Kmodule:M00018	Kmodule:Threonine biosynthesis, aspartate => homoserine => threonine 
+Kmodule:M00555	Kmodule:Betaine biosynthesis, choline => betaine 
+Kmodule:M00033	Kmodule:Ectoine biosynthesis, aspartate => ectoine 
+Kmodule:M00021	Kmodule:Cysteine biosynthesis, serine => cysteine 
+Kmodule:M00338	Kmodule:Cysteine biosynthesis, homocysteine + serine => cysteine 
+Kmodule:M00609	Kmodule:Cysteine biosynthesis, methionine => cysteine 
+Kmodule:M00017	Kmodule:Methionine biosynthesis, apartate => homoserine => methionine 
+Kmodule:M00034	Kmodule:Methionine salvage pathway 
+Kmodule:M00035	Kmodule:Methionine degradation 
+Kmodule:M00368	Kmodule:Ethylene biosynthesis, methionine => ethylene 
+Kmodule:M00019	Kmodule:Valine/isoleucine biosynthesis, pyruvate => valine / 2-oxobutanoate => isoleucine 
+Kmodule:M00535	Kmodule:Isoleucine biosynthesis, pyruvate => 2-oxobutanoate 
+Kmodule:M00570	Kmodule:Isoleucine biosynthesis, threonine => 2-oxobutanoate => isoleucine 
+Kmodule:M00432	Kmodule:Leucine biosynthesis, 2-oxoisovalerate => 2-oxoisocaproate 
+Kmodule:M00036	Kmodule:Leucine degradation, leucine => acetoacetate + acetyl-CoA 
+Kmodule:M00016	Kmodule:Lysine biosynthesis, succinyl-DAP pathway, aspartate => lysine 
+Kmodule:M00525	Kmodule:Lysine biosynthesis, acetyl-DAP pathway, aspartate => lysine 
+Kmodule:M00526	Kmodule:Lysine biosynthesis, DAP dehydrogenase pathway, aspartate => lysine 
+Kmodule:M00527	Kmodule:Lysine biosynthesis, DAP aminotransferase pathway, aspartate => lysine 
+Kmodule:M00030	Kmodule:Lysine biosynthesis, AAA pathway, 2-oxoglutarate => 2-aminoadipate => lysine 
+Kmodule:M00433	Kmodule:Lysine biosynthesis, 2-oxoglutarate => 2-oxoadipate 
+Kmodule:M00031	Kmodule:Lysine biosynthesis, mediated by LysW, 2-aminoadipate => lysine 
+Kmodule:M00032	Kmodule:Lysine degradation, lysine => saccharopine => acetoacetyl-CoA 
+Kmodule:M00028	Kmodule:Ornithine biosynthesis, glutamate => ornithine 
+Kmodule:M00763	Kmodule:Ornithine biosynthesis, mediated by LysW, glutamate => ornithine 
+Kmodule:M00844	Kmodule:Arginine biosynthesis, ornithine => arginine 
+Kmodule:M00845	Kmodule:Arginine biosynthesis, glutamate => acetylcitrulline => arginine 
+Kmodule:M00029	Kmodule:Urea cycle 
+Kmodule:M00015	Kmodule:Proline biosynthesis, glutamate => proline 
+Kmodule:M00047	Kmodule:Creatine pathway 
+Kmodule:M00879	Kmodule:Arginine succinyltransferase pathway, arginine => glutamate 
+Kmodule:M00133	Kmodule:Polyamine biosynthesis, arginine => agmatine => putrescine => spermidine 
+Kmodule:M00134	Kmodule:Polyamine biosynthesis, arginine => ornithine => putrescine 
+Kmodule:M00135	Kmodule:GABA biosynthesis, eukaryotes, putrescine => GABA 
+Kmodule:M00136	Kmodule:GABA biosynthesis, prokaryotes, putrescine => GABA 
+Kmodule:M00026	Kmodule:Histidine biosynthesis, PRPP => histidine 
+Kmodule:M00045	Kmodule:Histidine degradation, histidine => N-formiminoglutamate => glutamate 
+Kmodule:M00022	Kmodule:Shikimate pathway, phosphoenolpyruvate + erythrose-4P => chorismate 
+Kmodule:M00023	Kmodule:Tryptophan biosynthesis, chorismate => tryptophan 
+Kmodule:M00024	Kmodule:Phenylalanine biosynthesis, chorismate => phenylalanine 
+Kmodule:M00025	Kmodule:Tyrosine biosynthesis, chorismate => tyrosine 
+Kmodule:M00040	Kmodule:Tyrosine biosynthesis, prephanate => pretyrosine => tyrosine 
+Kmodule:M00042	Kmodule:Catecholamine biosynthesis, tyrosine => dopamine => noradrenaline => adrenaline 
+Kmodule:M00043	Kmodule:Thyroid hormone biosynthesis, tyrosine => triiodothyronine/thyroxine 
+Kmodule:M00044	Kmodule:Tyrosine degradation, tyrosine => homogentisate 
+Kmodule:M00533	Kmodule:Homoprotocatechuate degradation, homoprotocatechuate => 2-oxohept-3-enedioate 
+Kmodule:M00545	Kmodule:Trans-cinnamate degradation, trans-cinnamate => acetyl-CoA 
+Kmodule:M00037	Kmodule:Melatonin biosynthesis, tryptophan => serotonin => melatonin 
+Kmodule:M00038	Kmodule:Tryptophan metabolism, tryptophan => kynurenine => 2-aminomuconate 
+Kmodule:M00027	Kmodule:GABA (gamma-Aminobutyrate) shunt 
+Kmodule:M00369	Kmodule:Cyanogenic glycoside biosynthesis, tyrosine => dhurrin 
+Kmodule:M00118	Kmodule:Glutathione biosynthesis, glutamate => glutathione 
+Kmodule:M00055	Kmodule:N-glycan precursor biosynthesis 
+Kmodule:M00072	Kmodule:N-glycosylation by oligosaccharyltransferase 
+Kmodule:M00073	Kmodule:N-glycan precursor trimming 
+Kmodule:M00074	Kmodule:N-glycan biosynthesis, high-mannose type 
+Kmodule:M00075	Kmodule:N-glycan biosynthesis, complex type 
+Kmodule:M00056	Kmodule:O-glycan biosynthesis, mucin type core 
+Kmodule:M00872	Kmodule:O-glycan biosynthesis, mannose type (core M3) 
+Kmodule:M00065	Kmodule:GPI-anchor biosynthesis, core oligosaccharide 
+Kmodule:M00070	Kmodule:Glycosphingolipid biosynthesis, lacto-series, LacCer => Lc4Cer 
+Kmodule:M00071	Kmodule:Glycosphingolipid biosynthesis, neolacto-series, LacCer => nLc4Cer 
+Kmodule:M00068	Kmodule:Glycosphingolipid biosynthesis, globo-series, LacCer => Gb4Cer 
+Kmodule:M00069	Kmodule:Glycosphingolipid biosynthesis, ganglio series, LacCer => GT3 
+Kmodule:M00057	Kmodule:Glycosaminoglycan biosynthesis, linkage tetrasaccharide 
+Kmodule:M00058	Kmodule:Glycosaminoglycan biosynthesis, chondroitin sulfate backbone 
+Kmodule:M00059	Kmodule:Glycosaminoglycan biosynthesis, heparan sulfate backbone 
+Kmodule:M00076	Kmodule:Dermatan sulfate degradation 
+Kmodule:M00077	Kmodule:Chondroitin sulfate degradation 
+Kmodule:M00078	Kmodule:Heparan sulfate degradation 
+Kmodule:M00079	Kmodule:Keratan sulfate degradation 
+Kmodule:M00060	Kmodule:KDO2-lipid A biosynthesis, Raetz pathway, LpxL-LpxM type 
+Kmodule:M00866	Kmodule:KDO2-lipid A biosynthesis, Raetz pathway, non-LpxL-LpxM type 
+Kmodule:M00867	Kmodule:KDO2-lipid A modification pathway 
+Kmodule:M00063	Kmodule:CMP-KDO biosynthesis 
+Kmodule:M00064	Kmodule:ADP-L-glycero-D-manno-heptose biosynthesis 
+Kmodule:M00127	Kmodule:Thiamine biosynthesis, AIR => thiamine-P/thiamine-2P 
+Kmodule:M00125	Kmodule:Riboflavin biosynthesis, GTP => riboflavin/FMN/FAD 
+Kmodule:M00124	Kmodule:Pyridoxal biosynthesis, erythrose-4P => pyridoxal-5P 
+Kmodule:M00115	Kmodule:NAD biosynthesis, aspartate => NAD 
+Kmodule:M00810	Kmodule:Nicotine degradation, pyridine pathway, nicotine => 2,6-dihydroxypyridine/succinate semialdehyde 
+Kmodule:M00811	Kmodule:Nicotine degradation, pyrrolidine pathway, nicotine => succinate semialdehyde 
+Kmodule:M00622	Kmodule:Nicotinate degradation, nicotinate => fumarate 
+Kmodule:M00119	Kmodule:Pantothenate biosynthesis, valine/L-aspartate => pantothenate 
+Kmodule:M00120	Kmodule:Coenzyme A biosynthesis, pantothenate => CoA 
+Kmodule:M00572	Kmodule:Pimeloyl-ACP biosynthesis, BioC-BioH pathway, malonyl-ACP => pimeloyl-ACP 
+Kmodule:M00123	Kmodule:Biotin biosynthesis, pimeloyl-ACP/CoA => biotin 
+Kmodule:M00573	Kmodule:Biotin biosynthesis, BioI pathway, long-chain-acyl-ACP => pimeloyl-ACP => biotin 
+Kmodule:M00577	Kmodule:Biotin biosynthesis, BioW pathway, pimelate => pimeloyl-CoA => biotin 
+Kmodule:M00126	Kmodule:Tetrahydrofolate biosynthesis, GTP => THF 
+Kmodule:M00840	Kmodule:Tetrahydrofolate biosynthesis, mediated by ribA and trpF, GTP => THF 
+Kmodule:M00841	Kmodule:Tetrahydrofolate biosynthesis, mediated by PTPS, GTP => THF 
+Kmodule:M00842	Kmodule:Tetrahydrobiopterin biosynthesis, GTP => BH4 
+Kmodule:M00843	Kmodule:L-threo-Tetrahydrobiopterin biosynthesis, GTP => L-threo-BH4 
+Kmodule:M00880	Kmodule:Molybdenum cofactor biosynthesis, GTP => molybdenum cofactor 
+Kmodule:M00140	Kmodule:C1-unit interconversion, prokaryotes 
+Kmodule:M00141	Kmodule:C1-unit interconversion, eukaryotes 
+Kmodule:M00868	Kmodule:Heme biosynthesis, animals and fungi, glycine => heme 
+Kmodule:M00121	Kmodule:Heme biosynthesis, plants and bacteria, glutamate => heme 
+Kmodule:M00846	Kmodule:Siroheme biosynthesis, glutamate => siroheme 
+Kmodule:M00847	Kmodule:Heme biosynthesis, archaea, siroheme => heme 
+Kmodule:M00122	Kmodule:Cobalamin biosynthesis, cobinamide => cobalamin 
+Kmodule:M00836	Kmodule:Coenzyme F430 biosynthesis, sirohydrochlorin => coenzyme F430 
+Kmodule:M00117	Kmodule:Ubiquinone biosynthesis, prokaryotes, chorismate => ubiquinone 
+Kmodule:M00128	Kmodule:Ubiquinone biosynthesis, eukaryotes, 4-hydroxybenzoate => ubiquinone 
+Kmodule:M00116	Kmodule:Menaquinone biosynthesis, chorismate => menaquinol 
+Kmodule:M00112	Kmodule:Tocopherol/tocotorienol biosynthesis 
+Kmodule:M00095	Kmodule:C5 isoprenoid biosynthesis, mevalonate pathway 
+Kmodule:M00849	Kmodule:C5 isoprenoid biosynthesis, mevalonate pathway, archaea 
+Kmodule:M00096	Kmodule:C5 isoprenoid biosynthesis, non-mevalonate pathway 
+Kmodule:M00364	Kmodule:C10-C20 isoprenoid biosynthesis, bacteria 
+Kmodule:M00365	Kmodule:C10-C20 isoprenoid biosynthesis, archaea 
+Kmodule:M00366	Kmodule:C10-C20 isoprenoid biosynthesis, plants 
+Kmodule:M00367	Kmodule:C10-C20 isoprenoid biosynthesis, non-plant eukaryotes 
+Kmodule:M00097	Kmodule:beta-Carotene biosynthesis, GGAP => beta-carotene 
+Kmodule:M00372	Kmodule:Abscisic acid biosynthesis, beta-carotene => abscisic acid 
+Kmodule:M00371	Kmodule:Castasterone biosynthesis, campesterol => castasterone 
+Kmodule:M00773	Kmodule:Tylosin biosynthesis, methylmalonyl-CoA + malonyl-CoA => tylactone => tylosin 
+Kmodule:M00774	Kmodule:Erythromycin biosynthesis, propanoyl-CoA + methylmalonyl-CoA => deoxyerythronolide B => erythromycin A/B 
+Kmodule:M00775	Kmodule:Oleandomycin biosynthesis, malonyl-CoA + methylmalonyl-CoA => 8,8a-deoxyoleandolide => oleandomycin 
+Kmodule:M00776	Kmodule:Pikromycin/methymycin biosynthesis, methylmalonyl-CoA + malonyl-CoA => narbonolide/10-deoxymethynolide => pikromycin/methymycin 
+Kmodule:M00777	Kmodule:Avermectin biosynthesis, 2-methylbutanoyl-CoA/isobutyryl-CoA => 6,8a-Seco-6,8a-deoxy-5-oxoavermectin 1a/1b aglycone => avermectin A1a/B1a/A1b/B1b 
+Kmodule:M00824	Kmodule:9-membered enediyne core biosynthesis, malonyl-CoA => 3-hydroxyhexadeca-4,6,8,10,12,14-hexaenoyl-ACP => 9-membered enediyne core 
+Kmodule:M00825	Kmodule:10-membered enediyne core biosynthesis, malonyl-CoA => 3-hydroxyhexadeca-4,6,8,10,12,14-hexaenoyl-ACP => 10-membered enediyne core 
+Kmodule:M00826	Kmodule:C-1027 benzoxazolinate moiety biosynthesis, chorismate => benzoxazolinyl-CoA 
+Kmodule:M00827	Kmodule:C-1027 beta-amino acid moiety biosynthesis, tyrosine => 3-chloro-4,5-dihydroxy-beta-phenylalanyl-PCP 
+Kmodule:M00828	Kmodule:Maduropeptin beta-hydroxy acid moiety biosynthesis, tyrosine => 3-(4-hydroxyphenyl)-3-oxopropanoyl-PCP 
+Kmodule:M00829	Kmodule:3,6-Dimethylsalicylyl-CoA biosynthesis, malonyl-CoA => 6-methylsalicylate => 3,6-dimethylsalicylyl-CoA 
+Kmodule:M00830	Kmodule:Neocarzinostatin naphthoate moiety biosynthesis, malonyl-CoA => 2-hydroxy-5-methyl-1-naphthoate => 2-hydroxy-7-methoxy-5-methyl-1-naphthoyl-CoA 
+Kmodule:M00831	Kmodule:Kedarcidin 2-hydroxynaphthoate moiety biosynthesis, malonyl-CoA => 3,6,8-trihydroxy-2-naphthoate => 3-hydroxy-7,8-dimethoxy-6-isopropoxy-2-naphthoyl-CoA 
+Kmodule:M00832	Kmodule:Kedarcidin 2-aza-3-chloro-beta-tyrosine moiety biosynthesis, azatyrosine => 2-aza-3-chloro-beta-tyrosyl-PCP 
+Kmodule:M00834	Kmodule:Calicheamicin orsellinate moiety biosynthesis, malonyl-CoA => orsellinate-ACP => 5-iodo-2,3-dimethoxyorsellinate-ACP 
+Kmodule:M00833	Kmodule:Calicheamicin biosynthesis, calicheamicinone => calicheamicin 
+Kmodule:M00778	Kmodule:Type II polyketide backbone biosynthesis, acyl-CoA + malonyl-CoA => polyketide 
+Kmodule:M00779	Kmodule:Dihydrokalafungin biosynthesis, octaketide => dihydrokalafungin 
+Kmodule:M00780	Kmodule:Tetracycline/oxytetracycline biosynthesis, pretetramide => tetracycline/oxytetracycline 
+Kmodule:M00823	Kmodule:Chlortetracycline biosynthesis, pretetramide => chlortetracycline 
+Kmodule:M00781	Kmodule:Nogalavinone/aklavinone biosynthesis, deoxynogalonate/deoxyaklanonate => nogalavinone/aklavinone 
+Kmodule:M00782	Kmodule:Mithramycin biosynthesis, 4-demethylpremithramycinone => mithramycin 
+Kmodule:M00783	Kmodule:Tetracenomycin C/8-demethyltetracenomycin C biosynthesis, tetracenomycin F2 => tetracenomycin C/8-demethyltetracenomycin C 
+Kmodule:M00784	Kmodule:Elloramycin biosynthesis, 8-demethyltetracenomycin C => elloramycin A 
+Kmodule:M00793	Kmodule:dTDP-L-rhamnose biosynthesis 
+Kmodule:M00794	Kmodule:dTDP-6-deoxy-D-allose biosynthesis 
+Kmodule:M00795	Kmodule:dTDP-beta-L-noviose biosynthesis 
+Kmodule:M00796	Kmodule:dTDP-D-mycaminose biosynthesis 
+Kmodule:M00797	Kmodule:dTDP-D-desosamine biosynthesis 
+Kmodule:M00798	Kmodule:dTDP-L-mycarose biosynthesis 
+Kmodule:M00799	Kmodule:dTDP-L-oleandrose biosynthesis 
+Kmodule:M00800	Kmodule:dTDP-L-megosamine biosynthesis 
+Kmodule:M00801	Kmodule:dTDP-L-olivose biosynthesis 
+Kmodule:M00802	Kmodule:dTDP-D-forosamine biosynthesis 
+Kmodule:M00803	Kmodule:dTDP-D-angolosamine biosynthesis 
+Kmodule:M00039	Kmodule:Monolignol biosynthesis, phenylalanine/tyrosine => monolignol 
+Kmodule:M00137	Kmodule:Flavanone biosynthesis, phenylalanine => naringenin 
+Kmodule:M00138	Kmodule:Flavonoid biosynthesis, naringenin => pelargonidin 
+Kmodule:M00370	Kmodule:Glucosinolate biosynthesis, tryptophan => glucobrassicin 
+Kmodule:M00900	Kmodule:Cronin biosynthesis, zeaxanthin => crocin 
+Kmodule:M00894	Kmodule:Cannabidiol biosynthesis, malonyl-CoA => cannabidiol/dronabinol 
+Kmodule:M00902	Kmodule:Podophyllotoxin biosynthesis, coniferyl alcohol => podophyllotoxin 
+Kmodule:M00672	Kmodule:Penicillin biosynthesis, aminoadipate + cycteine + valine => penicillin 
+Kmodule:M00673	Kmodule:Cephamycin C biosynthesis, aminoadipate + cycteine + valine => cephamycin C 
+Kmodule:M00675	Kmodule:Carbapenem-3-carboxylate biosynthesis, pyrroline-5-carboxylate + malonyl-CoA => carbapenem-3-carboxylate 
+Kmodule:M00736	Kmodule:Nocardicin A biosynthesis, L-pHPG + arginine + serine => nocardicin A 
+Kmodule:M00674	Kmodule:Clavaminate biosynthesis, arginine + glyceraldehyde-3P => clavaminate 
+Kmodule:M00877	Kmodule:Kanosamine biosynthesis glucose 6-phosphate => kanosamine 
+Kmodule:M00889	Kmodule:Puromycin biosynthesis, ATP => puromycin 
+Kmodule:M00815	Kmodule:Validamycin A biosynthesis, sedoheptulopyranose-7P => validamycin A 
+Kmodule:M00904	Kmodule:Dapdiamides biosynthesis, L-2,3-diaminopropanoate => dapdiamide A/B/C 
+Kmodule:M00785	Kmodule:Cycloserine biosynthesis, arginine/serine => cycloserine 
+Kmodule:M00787	Kmodule:Bacilysin biosynthesis, prephenate => bacilysin 
+Kmodule:M00848	Kmodule:Aurachin biosynthesis, anthranilate => aurachin A 
+Kmodule:M00788	Kmodule:Terpentecin biosynthesis, GGAP => terpentecin 
+Kmodule:M00819	Kmodule:Pentalenolactone biosynthesis, farnesyl-PP => pentalenolactone 
+Kmodule:M00903	Kmodule:Fosfomycin biosynthesis, phosphoenolpyruvate => fosfomycin 
+Kmodule:M00890	Kmodule:Roseoflavin biosynthesis, FMN => roseoflavin 
+Kmodule:M00661	Kmodule:Paspaline biosynthesis, geranylgeranyl-PP + indoleglycerol phosphate => paspaline 
+Kmodule:M00786	Kmodule:Fumitremorgin alkaloid biosynthesis, tryptophan + proline => fumitremorgin C/A 
+Kmodule:M00893	Kmodule:Lovastatin biosynthesis, malonyl-CoA => lovastatin acid 
+Kmodule:M00891	Kmodule:Ditryptophenaline biosynthesis, tryptophan + phenylalanine => ditryptophenaline 
+Kmodule:M00901	Kmodule:Fumiquinazoline biosynthesis, tryptophan + alanine + anthranilate => fumiquinazoline 
+Kmodule:M00814	Kmodule:Acarbose biosynthesis, sedoheptulopyranose-7P => acarbose 
+Kmodule:M00789	Kmodule:Rebeccamycin biosynthesis, tryptophan => rebeccamycin 
+Kmodule:M00790	Kmodule:Pyrrolnitrin biosynthesis, tryptophan => pyrrolnitrin 
+Kmodule:M00805	Kmodule:Staurosporine biosynthesis, tryptophan => staurosporine 
+Kmodule:M00808	Kmodule:Violacein biosynthesis, tryptophan => violacein 
+Kmodule:M00835	Kmodule:Pyocyanine biosynthesis, chorismate => pyocyanine 
+Kmodule:M00837	Kmodule:Prodigiosin biosynthesis, L-proline => prodigiosin 
+Kmodule:M00838	Kmodule:Undecylprodigiosin biosynthesis, L-proline => undecylprodigiosin 
+Kmodule:M00905	Kmodule:Grixazone biosynthesis, aspartate 4-semialdehyde => grixazone B 
+Kmodule:M00876	Kmodule:Staphyloferrin A biosynthesis, L-ornithine => staphyloferrin A 
+Kmodule:M00875	Kmodule:Staphyloferrin B biosynthesis, L-serine => staphyloferrin B 
+Kmodule:M00906	Kmodule:Ethynylserine biosynthesis, lysine => ethynylserine 
+Kmodule:M00538	Kmodule:Toluene degradation, toluene => benzoate 
+Kmodule:M00537	Kmodule:Xylene degradation, xylene => methylbenzoate 
+Kmodule:M00419	Kmodule:Cymene degradation, p-cymene => p-cumate 
+Kmodule:M00547	Kmodule:Benzene/toluene degradation, benzene => catechol / toluene => 3-methylcatechol 
+Kmodule:M00548	Kmodule:Benzene degradation, benzene => catechol 
+Kmodule:M00551	Kmodule:Benzoate degradation, benzoate => catechol / methylbenzoate => methylcatechol 
+Kmodule:M00637	Kmodule:Anthranilate degradation, anthranilate => catechol 
+Kmodule:M00568	Kmodule:Catechol ortho-cleavage, catechol => 3-oxoadipate 
+Kmodule:M00569	Kmodule:Catechol meta-cleavage, catechol => acetyl-CoA / 4-methylcatechol => propanoyl-CoA 
+Kmodule:M00539	Kmodule:Cumate degradation, p-cumate => 2-oxopent-4-enoate + 2-methylpropanoate 
+Kmodule:M00543	Kmodule:Biphenyl degradation, biphenyl => 2-oxopent-4-enoate + benzoate 
+Kmodule:M00544	Kmodule:Carbazole degradation, carbazole => 2-oxopent-4-enoate + anthranilate 
+Kmodule:M00418	Kmodule:Toluene degradation, anaerobic, toluene => benzoyl-CoA 
+Kmodule:M00541	Kmodule:Benzoyl-CoA degradation, benzoyl-CoA => 3-hydroxypimeloyl-CoA 
+Kmodule:M00540	Kmodule:Benzoate degradation, cyclohexanecarboxylic acid =>pimeloyl-CoA 
+Kmodule:M00534	Kmodule:Naphthalene degradation, naphthalene => salicylate 
+Kmodule:M00638	Kmodule:Salicylate degradation, salicylate => gentisate 
+Kmodule:M00624	Kmodule:Terephthalate degradation, terephthalate => 3,4-dihydroxybenzoate 
+Kmodule:M00623	Kmodule:Phthalate degradation, phthalate => protocatechuate 
+Kmodule:M00636	Kmodule:Phthalate degradation, phthalate => protocatechuate 
+Kmodule:M00878	Kmodule:Phenylacetate degradation, phenylaxetate => acetyl-CoA/succinyl-CoA 
+Kmodule:M00260	Kmodule:DNA polymerase III complex, bacteria 
+Kmodule:M00264	Kmodule:DNA polymerase II complex, archaea 
+Kmodule:M00261	Kmodule:DNA polymerase alpha / primase complex 
+Kmodule:M00262	Kmodule:DNA polymerase delta complex 
+Kmodule:M00263	Kmodule:DNA polymerase epsilon complex 
+Kmodule:M00293	Kmodule:DNA polymerase zeta  complex 
+Kmodule:M00294	Kmodule:DNA polymerase gamma complex 
+Kmodule:M00284	Kmodule:Origin recognition complex 
+Kmodule:M00285	Kmodule:MCM complex 
+Kmodule:M00286	Kmodule:GINS complex 
+Kmodule:M00288	Kmodule:RPA complex 
+Kmodule:M00289	Kmodule:RF-C complex 
+Kmodule:M00424	Kmodule:Shelterin complex 
+Kmodule:M00296	Kmodule:BER complex 
+Kmodule:M00290	Kmodule:Holo-TFIIH complex 
+Kmodule:M00291	Kmodule:MRN complex 
+Kmodule:M00292	Kmodule:MRX complex 
+Kmodule:M00297	Kmodule:DNA-PK complex 
+Kmodule:M00295	Kmodule:BRCA1-associated genome surveillance complex (BASC) 
+Kmodule:M00413	Kmodule:FA core complex 
+Kmodule:M00414	Kmodule:Bloom's syndrome complex 
+Kmodule:M00183	Kmodule:RNA polymerase, bacteria 
+Kmodule:M00184	Kmodule:RNA polymerase, archaea 
+Kmodule:M00180	Kmodule:RNA polymerase II, eukaryotes 
+Kmodule:M00181	Kmodule:RNA polymerase III, eukaryotes 
+Kmodule:M00182	Kmodule:RNA polymerase I, eukaryotes 
+Kmodule:M00351	Kmodule:Spliceosome, U1-snRNP 
+Kmodule:M00352	Kmodule:Spliceosome, U2-snRNP 
+Kmodule:M00354	Kmodule:Spliceosome, U4/U6.U5 tri-snRNP 
+Kmodule:M00355	Kmodule:Spliceosome, 35S U5-snRNP 
+Kmodule:M00353	Kmodule:Spliceosome, Prp19/CDC5L complex 
+Kmodule:M00396	Kmodule:Lsm 2-8 complex 
+Kmodule:M00397	Kmodule:Lsm 1-7 complex 
+Kmodule:M00398	Kmodule:Sm core complex 
+Kmodule:M00399	Kmodule:Cap binding complex 
+Kmodule:M00425	Kmodule:H/ACA ribonucleoprotein complex 
+Kmodule:M00426	Kmodule:Survival motor neuron (SMN) complex 
+Kmodule:M00427	Kmodule:Nuclear pore complex 
+Kmodule:M00428	Kmodule:eIF4F complex 
+Kmodule:M00430	Kmodule:Exon junction complex (EJC) 
+Kmodule:M00405	Kmodule:THC complex 
+Kmodule:M00406	Kmodule:TREX complex 
+Kmodule:M00390	Kmodule:Exosome, archaea 
+Kmodule:M00391	Kmodule:Exosome, eukaryotes 
+Kmodule:M00392	Kmodule:Ski complex 
+Kmodule:M00393	Kmodule:TRAMP complex 
+Kmodule:M00394	Kmodule:RNA degradosome 
+Kmodule:M00395	Kmodule:Decapping complex 
+Kmodule:M00178	Kmodule:Ribosome, bacteria 
+Kmodule:M00179	Kmodule:Ribosome, archaea 
+Kmodule:M00177	Kmodule:Ribosome, eukaryotes 
+Kmodule:M00340	Kmodule:Proteasome, 20S core particle 
+Kmodule:M00341	Kmodule:Proteasome, 19S regulatory particle (PA700) 
+Kmodule:M00337	Kmodule:Immunoproteasome 
+Kmodule:M00342	Kmodule:Bacterial proteasome 
+Kmodule:M00343	Kmodule:Archaeal proteasome 
+Kmodule:M00379	Kmodule:SCF-MET30 complex 
+Kmodule:M00380	Kmodule:SCF-BTRC complex 
+Kmodule:M00381	Kmodule:SCF-SKP2 complex 
+Kmodule:M00382	Kmodule:SCF-FBS complex 
+Kmodule:M00407	Kmodule:SCF-CDC4 complex 
+Kmodule:M00411	Kmodule:SCF-GRR1 complex 
+Kmodule:M00383	Kmodule:ECV complex 
+Kmodule:M00384	Kmodule:Cul3-SPOP complex 
+Kmodule:M00385	Kmodule:Cul4-DDB1-DDB2 complex 
+Kmodule:M00386	Kmodule:Cul4-DDB1-CSA complex 
+Kmodule:M00387	Kmodule:SCF-FBW7 complex 
+Kmodule:M00388	Kmodule:ECS complex 
+Kmodule:M00389	Kmodule:APC/C complex 
+Kmodule:M00400	Kmodule:p97-Ufd1-Npl4 complex 
+Kmodule:M00401	Kmodule:Sec61 complex 
+Kmodule:M00402	Kmodule:Translocon-associated protein (TRAP) complex 
+Kmodule:M00403	Kmodule:HRD1/SEL1 ERAD complex 
+Kmodule:M00404	Kmodule:COPII complex 
+Kmodule:M00408	Kmodule:ESCRT-0 complex 
+Kmodule:M00409	Kmodule:ESCRT-I complex 
+Kmodule:M00410	Kmodule:ESCRT-II complex 
+Kmodule:M00412	Kmodule:ESCRT-III complex 
+Kmodule:M00185	Kmodule:Sulfate transport system 
+Kmodule:M00189	Kmodule:Molybdate transport system 
+Kmodule:M00423	Kmodule:Molybdate/tungstate transport system 
+Kmodule:M00186	Kmodule:Tungstate transport system 
+Kmodule:M00438	Kmodule:Nitrate/nitrite transport system 
+Kmodule:M00321	Kmodule:Bicarbonate transport system 
+Kmodule:M00188	Kmodule:NitT/TauT family transport system 
+Kmodule:M00435	Kmodule:Taurine transport system 
+Kmodule:M00436	Kmodule:Sulfonate transport system 
+Kmodule:M00437	Kmodule:Phthalate transport system 
+Kmodule:M00190	Kmodule:Iron(III) transport system 
+Kmodule:M00191	Kmodule:Thiamine transport system 
+Kmodule:M00299	Kmodule:Spermidine/putrescine transport system 
+Kmodule:M00300	Kmodule:Putrescine transport system 
+Kmodule:M00193	Kmodule:Putative spermidine/putrescine transport system 
+Kmodule:M00301	Kmodule:Mannopine transport system 
+Kmodule:M00302	Kmodule:2-Aminoethylphosphonate transport system 
+Kmodule:M00208	Kmodule:Glycine betaine/proline transport system 
+Kmodule:M00209	Kmodule:Osmoprotectant transport system 
+Kmodule:M00442	Kmodule:Putative hydroxymethylpyrimidine transport system 
+Kmodule:M00192	Kmodule:Putative thiamine transport system 
+Kmodule:M00194	Kmodule:Maltose/maltodextrin transport system 
+Kmodule:M00196	Kmodule:Multiple sugar transport system 
+Kmodule:M00201	Kmodule:alpha-Glucoside transport system 
+Kmodule:M00203	Kmodule:Glucose/arabinose transport system 
+Kmodule:M00605	Kmodule:Glucose/mannose transport system 
+Kmodule:M00204	Kmodule:Trehalose/maltose transport system 
+Kmodule:M00604	Kmodule:Trehalose transport system 
+Kmodule:M00205	Kmodule:N-Acetylglucosamine transport system 
+Kmodule:M00206	Kmodule:Cellobiose transport system 
+Kmodule:M00606	Kmodule:N,N'-Diacetylchitobiose transport system 
+Kmodule:M00601	Kmodule:Putative chitobiose transport system 
+Kmodule:M00213	Kmodule:L-Arabinose transport system 
+Kmodule:M00199	Kmodule:L-Arabinose/lactose transport system 
+Kmodule:M00202	Kmodule:Oligogalacturonide transport system 
+Kmodule:M00600	Kmodule:alpha-1,4-Digalacturonate transport system 
+Kmodule:M00603	Kmodule:Putative aldouronate transport system 
+Kmodule:M00214	Kmodule:Methyl-galactoside transport system 
+Kmodule:M00215	Kmodule:D-Xylose transport system 
+Kmodule:M00619	Kmodule:Xylobiose transport system 
+Kmodule:M00216	Kmodule:Multiple sugar transport system 
+Kmodule:M00217	Kmodule:D-Allose transport system 
+Kmodule:M00218	Kmodule:Fructose transport system 
+Kmodule:M00219	Kmodule:AI-2 transport system 
+Kmodule:M00220	Kmodule:Rhamnose transport system 
+Kmodule:M00212	Kmodule:Ribose transport system 
+Kmodule:M00590	Kmodule:Erythritol transport system 
+Kmodule:M00591	Kmodule:Putative xylitol transport system 
+Kmodule:M00592	Kmodule:Inositol transport system 
+Kmodule:M00593	Kmodule:Inositol transport system 
+Kmodule:M00599	Kmodule:Inositol-phosphate transport system 
+Kmodule:M00197	Kmodule:Putative fructooligosaccharide transport system 
+Kmodule:M00607	Kmodule:Glycerol transport system 
+Kmodule:M00198	Kmodule:Putative sn-glycerol-phosphate transport system 
+Kmodule:M00200	Kmodule:Putative sorbitol/mannitol transport system 
+Kmodule:M00602	Kmodule:Arabinosaccharide transport system 
+Kmodule:M00669	Kmodule:gamma-Hexachlorocyclohexane transport system 
+Kmodule:M00210	Kmodule:Phospholipid transport system 
+Kmodule:M00670	Kmodule:Mce transport system 
+Kmodule:M00491	Kmodule:arabinogalactan oligomer/maltooligosaccharide transport system 
+Kmodule:M00207	Kmodule:Putative multiple sugar transport system 
+Kmodule:M00221	Kmodule:Putative simple sugar transport system 
+Kmodule:M00211	Kmodule:Putative ABC transport system 
+Kmodule:M00222	Kmodule:Phosphate transport system 
+Kmodule:M00223	Kmodule:Phosphonate transport system 
+Kmodule:M00225	Kmodule:Lysine/arginine/ornithine transport system 
+Kmodule:M00226	Kmodule:Histidine transport system 
+Kmodule:M00227	Kmodule:Glutamine transport system 
+Kmodule:M00229	Kmodule:Arginine transport system 
+Kmodule:M00230	Kmodule:Glutamate/aspartate transport system 
+Kmodule:M00231	Kmodule:Octopine/nopaline transport system 
+Kmodule:M00232	Kmodule:General L-amino acid transport system 
+Kmodule:M00233	Kmodule:Glutamate transport system 
+Kmodule:M00234	Kmodule:Cystine transport system 
+Kmodule:M00585	Kmodule:L-Cystine transport system 
+Kmodule:M00235	Kmodule:Arginine/ornithine transport system 
+Kmodule:M00587	Kmodule:Arginine/lysine/histidine/glutamine transport system 
+Kmodule:M00864	Kmodule:Arginine/lysine/histidine transport system 
+Kmodule:M00589	Kmodule:Putative lysine transport system 
+Kmodule:M00865	Kmodule:Hydroxyproline transporter system 
+Kmodule:M00863	Kmodule:Putative lysine/arginine/ornithine/histidine/octopine transport system 
+Kmodule:M00237	Kmodule:Branched-chain amino acid transport system 
+Kmodule:M00322	Kmodule:Neutral amino acid transport system 
+Kmodule:M00323	Kmodule:Urea transport system 
+Kmodule:M00238	Kmodule:D-Methionine transport system 
+Kmodule:M00228	Kmodule:Aspartate/glutamate/glutamine transport system 
+Kmodule:M00586	Kmodule:Putative S-methylcysteine transport system 
+Kmodule:M00236	Kmodule:Putative polar amino acid transport system 
+Kmodule:M00439	Kmodule:Oligopeptide transport system 
+Kmodule:M00324	Kmodule:Dipeptide transport system 
+Kmodule:M00566	Kmodule:Dipeptide transport system, Firmicutes 
+Kmodule:M00739	Kmodule:Cationic peptide transport system 
+Kmodule:M00440	Kmodule:Nickel transport system 
+Kmodule:M00348	Kmodule:Glutathione transport system 
+Kmodule:M00239	Kmodule:Peptides/nickel transport system 
+Kmodule:M00349	Kmodule:Microcin C transport system 
+Kmodule:M00240	Kmodule:Iron complex transport system 
+Kmodule:M00241	Kmodule:Vitamin B12 transport system 
+Kmodule:M00316	Kmodule:Manganese transport system 
+Kmodule:M00242	Kmodule:Zinc transport system 
+Kmodule:M00318	Kmodule:Iron/zinc/manganese/copper transport system 
+Kmodule:M00317	Kmodule:Manganese/iron transport system 
+Kmodule:M00791	Kmodule:Manganese/zinc transport system 
+Kmodule:M00792	Kmodule:Manganese/zinc transport system 
+Kmodule:M00319	Kmodule:Manganese/zinc/iron transport system 
+Kmodule:M00243	Kmodule:Manganese/iron transport system 
+Kmodule:M00245	Kmodule:Cobalt/nickel transport system 
+Kmodule:M00246	Kmodule:Nickel transport system 
+Kmodule:M00581	Kmodule:Biotin transport system 
+Kmodule:M00582	Kmodule:Energy-coupling factor transport system 
+Kmodule:M00244	Kmodule:Putative zinc/manganese transport system 
+Kmodule:M00247	Kmodule:Putative ABC transport system 
+Kmodule:M00298	Kmodule:Multidrug/hemolysin transport system 
+Kmodule:M00249	Kmodule:Capsular polysaccharide transport system 
+Kmodule:M00858	Kmodule:Vi polysaccharide transport system 
+Kmodule:M00250	Kmodule:Lipopolysaccharide transport system 
+Kmodule:M00320	Kmodule:Lipopolysaccharide export system 
+Kmodule:M00251	Kmodule:Teichoic acid transport system 
+Kmodule:M00252	Kmodule:Lipooligosaccharide transport system 
+Kmodule:M00253	Kmodule:Sodium transport system 
+Kmodule:M00813	Kmodule:Lantibiotic transport system 
+Kmodule:M00817	Kmodule:Lantibiotic transport system 
+Kmodule:M00762	Kmodule:Copper-processing system 
+Kmodule:M00583	Kmodule:Putative peptide transport system 
+Kmodule:M00257	Kmodule:Hemin transport system 
+Kmodule:M00634	Kmodule:Oleandomycin transport system 
+Kmodule:M00747	Kmodule:Bacitracin transport system 
+Kmodule:M00314	Kmodule:Bacitracin transport system 
+Kmodule:M00731	Kmodule:Bacitracin transport system 
+Kmodule:M00732	Kmodule:Cationic antimicrobial peptide transport system 
+Kmodule:M00224	Kmodule:Fluoroquinolone transport system 
+Kmodule:M00255	Kmodule:Lipoprotein-releasing system 
+Kmodule:M00584	Kmodule:Acetoin utilization transport system 
+Kmodule:M00259	Kmodule:Heme transport system 
+Kmodule:M00256	Kmodule:Cell division transport system 
+Kmodule:M00315	Kmodule:Uncharacterized ABC transport system 
+Kmodule:M00258	Kmodule:Putative ABC transport system 
+Kmodule:M00254	Kmodule:ABC-2 type transport system 
+Kmodule:M00635	Kmodule:Tetracycline resistance, TetAB(46) transporter 
+Kmodule:M00720	Kmodule:Multidrug resistance, efflux pump VexEF-TolC
+Kmodule:M00821	Kmodule:Multidrug resistance, efflux pump TriABC-TolC
+Kmodule:M00822	Kmodule:Multidrug resistance, efflux pump MexMN-OprM
+Kmodule:M00706	Kmodule:Multidrug resistance, EfrAB transporter
+Kmodule:M00707	Kmodule:Multidrug resistance, SmdAB/MdlAB transporter
+Kmodule:M00708	Kmodule:Multidrug resistance, PatAB transporter
+Kmodule:M00710	Kmodule:Multidrug resistance, efflux pump EbrAB
+Kmodule:M00711	Kmodule:Multidrug resistance, efflux pump MdtIJ
+Kmodule:M00712	Kmodule:Multidrug resistance, efflux pump YkkCD
+Kmodule:M00265	Kmodule:PTS system, glucose-specific II component 
+Kmodule:M00809	Kmodule:PTS system, glucose-specific II component 
+Kmodule:M00267	Kmodule:PTS system, N-acetylglucosamine-specific II component 
+Kmodule:M00266	Kmodule:PTS system, maltose and glucose-specific II component 
+Kmodule:M00806	Kmodule:PTS system, maltose-specific II component 
+Kmodule:M00282	Kmodule:PTS system, D-glucosamine-specific II component 
+Kmodule:M00269	Kmodule:PTS system, sucrose-specific II component 
+Kmodule:M00271	Kmodule:PTS system, beta-glucosides-specific II component 
+Kmodule:M00272	Kmodule:PTS system, arbutin-, cellobiose-, and salicin-specific II component 
+Kmodule:M00270	Kmodule:PTS system, trehalose-specific II component 
+Kmodule:M00303	Kmodule:PTS system, N-acetylmuramic acid-specific II component 
+Kmodule:M00268	Kmodule:PTS system, arbutin-like II component 
+Kmodule:M00273	Kmodule:PTS system, fructose-specific II component 
+Kmodule:M00306	Kmodule:PTS system, fructose-specific II-like component 
+Kmodule:M00274	Kmodule:PTS system, mannitol-specific II component 
+Kmodule:M00305	Kmodule:PTS system, 2-O-A-mannosyl-D-glycerate-specific II component 
+Kmodule:M00281	Kmodule:PTS system, lactose-specific II component 
+Kmodule:M00275	Kmodule:PTS system, cellobiose-specific II component 
+Kmodule:M00280	Kmodule:PTS system, glucitol/sorbitol-specific II component 
+Kmodule:M00279	Kmodule:PTS system, galactitol-specific II component 
+Kmodule:M00807	Kmodule:PTS system, galactose-specific II component 
+Kmodule:M00276	Kmodule:PTS system, mannose-specific II component 
+Kmodule:M00764	Kmodule:PTS system, fructoselysine and glucoselysine-specific II component 
+Kmodule:M00304	Kmodule:PTS system, fructose-specific II component 
+Kmodule:M00278	Kmodule:PTS system, sorbose-specific II component 
+Kmodule:M00277	Kmodule:PTS system, N-acetylgalactosamine-specific II component 
+Kmodule:M00287	Kmodule:PTS system, galactosamine-specific II component 
+Kmodule:M00610	Kmodule:PTS system, D-glucosaminate-specific II component 
+Kmodule:M00283	Kmodule:PTS system, ascorbate-specific II component 
+Kmodule:M00325	Kmodule:alpha-Hemolysin/cyclolysin transport system 
+Kmodule:M00326	Kmodule:RTX toxin transport system 
+Kmodule:M00327	Kmodule:S-Layer protein transport system 
+Kmodule:M00328	Kmodule:Hemophore/metalloprotease transport system 
+Kmodule:M00329	Kmodule:Multiple protein transport system 
+Kmodule:M00330	Kmodule:Adhesin protein transport system 
+Kmodule:M00571	Kmodule:AlgE-type Mannuronan C-5-Epimerase transport system 
+Kmodule:M00339	Kmodule:RaxAB-RaxC type I secretion system 
+Kmodule:M00331	Kmodule:Type II general secretion system 
+Kmodule:M00332	Kmodule:Type III secretion system 
+Kmodule:M00333	Kmodule:Type IV secretion system 
+Kmodule:M00334	Kmodule:Type VI secretion system 
+Kmodule:M00335	Kmodule:Sec (secretion) system 
+Kmodule:M00336	Kmodule:Twin-arginine translocation (Tat) system 
+Kmodule:M00429	Kmodule:Competence-related DNA transformation transporter 
+Kmodule:M00360	Kmodule:Aminoacyl-tRNA biosynthesis, prokaryotes 
+Kmodule:M00359	Kmodule:Aminoacyl-tRNA biosynthesis, eukaryotes 
+Kmodule:M00362	Kmodule:Nucleotide sugar biosynthesis, prokaryotes 
+Kmodule:M00361	Kmodule:Nucleotide sugar biosynthesis, eukaryotes 
+Kmodule:M00434	Kmodule:PhoR-PhoB (phosphate starvation response) two-component regulatory system 
+Kmodule:M00443	Kmodule:SenX3-RegX3 (phosphate starvation response) two-component regulatory system 
+Kmodule:M00444	Kmodule:PhoQ-PhoP (magnesium transport) two-component regulatory system 
+Kmodule:M00445	Kmodule:EnvZ-OmpR (osmotic stress response) two-component regulatory system 
+Kmodule:M00446	Kmodule:RstB-RstA two-component regulatory system 
+Kmodule:M00447	Kmodule:CpxA-CpxR (envelope stress response) two-component regulatory system 
+Kmodule:M00448	Kmodule:CssS-CssR (secretion stress response) two-component regulatory system 
+Kmodule:M00449	Kmodule:CreC-CreB (phosphate regulation) two-component regulatory system 
+Kmodule:M00450	Kmodule:BaeS-BaeR (envelope stress response) two-component regulatory system 
+Kmodule:M00451	Kmodule:BasS-BasR (antimicrobial peptide resistance) two-component regulatory system 
+Kmodule:M00452	Kmodule:CusS-CusR (copper tolerance) two-component regulatory system 
+Kmodule:M00453	Kmodule:QseC-QseB (quorum sensing) two-component regulatory system 
+Kmodule:M00454	Kmodule:KdpD-KdpE (potassium transport) two-component regulatory system 
+Kmodule:M00455	Kmodule:TorS-TorR (TMAO respiration) two-component regulatory system 
+Kmodule:M00456	Kmodule:ArcB-ArcA (anoxic redox control) two-component regulatory system 
+Kmodule:M00457	Kmodule:TctE-TctD (tricarboxylic acid transport) two-component regulatory system 
+Kmodule:M00458	Kmodule:ResE-ResD (aerobic and anaerobic respiration) two-component regulatory system 
+Kmodule:M00459	Kmodule:VicK-VicR (cell wall metabolism) two-component regulatory system 
+Kmodule:M00460	Kmodule:MprB-MprA (maintenance of persistent infection) two-component regulatory system 
+Kmodule:M00461	Kmodule:MtrB-MtrA (osmotic stress response) two-component regulatory system 
+Kmodule:M00462	Kmodule:PrrB-PrrA (intracellular multiplication) two-component regulatory system 
+Kmodule:M00463	Kmodule:TrcS-TrcR two-component regulatory system 
+Kmodule:M00464	Kmodule:NrsS-NrsR (nickel tolerance) two-component regulatory system 
+Kmodule:M00465	Kmodule:ManS-ManR (manganese homeostasis) two-component regulatory system 
+Kmodule:M00466	Kmodule:NblS-NblR (photosynthesis) two-component regulatory system 
+Kmodule:M00467	Kmodule:SasA-RpaAB (circadian timing mediating) two-component regulatory system 
+Kmodule:M00468	Kmodule:SaeS-SaeR (staphylococcal virulence regulation) two-component regulatory system 
+Kmodule:M00469	Kmodule:BceS-BceR (bacitracin transport) two-component regulatory system 
+Kmodule:M00470	Kmodule:YxdK-YxdJ (antimicrobial peptide response) two-component regulatory system 
+Kmodule:M00471	Kmodule:NarX-NarL (nitrate respiration) two-component regulatory system 
+Kmodule:M00472	Kmodule:NarQ-NarP (nitrate respiration) two-component regulatory system 
+Kmodule:M00473	Kmodule:UhpB-UhpA (hexose phosphates uptake) two-component regulatory system 
+Kmodule:M00474	Kmodule:RcsC-RcsD-RcsB (capsule synthesis) two-component regulatory system 
+Kmodule:M00475	Kmodule:BarA-UvrY (central carbon metabolism) two-component regulatory system 
+Kmodule:M00476	Kmodule:ComP-ComA (competence) two-component regulatory system 
+Kmodule:M00477	Kmodule:EvgS-EvgA (acid and drug tolerance) two-component regulatory system 
+Kmodule:M00478	Kmodule:DegS-DegU (multicellular behavior control) two-component regulatory system 
+Kmodule:M00479	Kmodule:DesK-DesR (membrane lipid fluidity regulation) two-component regulatory system 
+Kmodule:M00480	Kmodule:VraS-VraR (cell-wall peptidoglycan synthesis) two-component regulatory system 
+Kmodule:M00481	Kmodule:LiaS-LiaR (cell wall stress response) two-component regulatory system 
+Kmodule:M00482	Kmodule:DevS-DevR (redox response) two-component regulatory system 
+Kmodule:M00483	Kmodule:NreB-NreC (dissimilatory nitrate/nitrite reduction) two-component regulatory system 
+Kmodule:M00484	Kmodule:YdfH-YdfI two-component regulatory system 
+Kmodule:M00485	Kmodule:KinABCDE-Spo0FA (sporulation control) two-component regulatory system 
+Kmodule:M00486	Kmodule:CitA-CitB (citrate fermentation) two-component regulatory system 
+Kmodule:M00487	Kmodule:CitS-CitT (magnesium-citrate transport) two-component regulatory system 
+Kmodule:M00488	Kmodule:DcuS-DcuR (C4-dicarboxylate metabolism) two-component regulatory system 
+Kmodule:M00489	Kmodule:DctS-DctR (C4-dicarboxylate transport) two-component regulatory system 
+Kmodule:M00490	Kmodule:MalK-MalR (malate transport) two-component regulatory system 
+Kmodule:M00492	Kmodule:LytS-LytR two-component regulatory system 
+Kmodule:M00493	Kmodule:AlgZ-AlgR (alginate production) two-component regulatory system 
+Kmodule:M00494	Kmodule:NatK-NatR (sodium extrusion) two-component regulatory system 
+Kmodule:M00495	Kmodule:AgrC-AgrA (exoprotein synthesis) two-component regulatory system 
+Kmodule:M00812	Kmodule:AgrC2-AgrA2 (virulence regulation) two-component regulatory system 
+Kmodule:M00496	Kmodule:ComD-ComE (competence) two-component regulatory system 
+Kmodule:M00497	Kmodule:GlnL-GlnG (nitrogen regulation) two-component regulatory system 
+Kmodule:M00498	Kmodule:NtrY-NtrX (nitrogen regulation) two-component regulatory system 
+Kmodule:M00499	Kmodule:HydH-HydG (metal tolerance) two-component regulatory system 
+Kmodule:M00500	Kmodule:AtoS-AtoC (cPHB biosynthesis) two-component regulatory system 
+Kmodule:M00501	Kmodule:PilS-PilR (type 4 fimbriae synthesis) two-component regulatory system 
+Kmodule:M00502	Kmodule:GlrK-GlrR (amino sugar metabolism) two-component regulatory system 
+Kmodule:M00503	Kmodule:PgtB-PgtA (phosphoglycerate transport) two-component regulatory system 
+Kmodule:M00504	Kmodule:DctB-DctD (C4-dicarboxylate transport) two-component regulatory system 
+Kmodule:M00505	Kmodule:KinB-AlgB (alginate production) two-component regulatory system 
+Kmodule:M00772	Kmodule:HupT-HupR (hydrogenase synthesis regulation) two-component regulatory system 
+Kmodule:M00506	Kmodule:CheA-CheYBV (chemotaxis) two-component regulatory system 
+Kmodule:M00507	Kmodule:ChpA-ChpB/PilGH (chemosensory) two-component regulatory system 
+Kmodule:M00508	Kmodule:PixL-PixGH (positive phototaxis) two-component regulatory system 
+Kmodule:M00509	Kmodule:WspE-WspRF (chemosensory) two-component regulatory system 
+Kmodule:M00510	Kmodule:Cph1-Rcp1 (light response) two-component regulatory system 
+Kmodule:M00511	Kmodule:PleC-PleD (cell fate control) two-component regulatory system 
+Kmodule:M00662	Kmodule:Hk1-Rrp1 (glycerol uptake and utilization) two-component regulatory system 
+Kmodule:M00512	Kmodule:CckA-CtrA/CpdR (cell cycle control) two-component regulatory system 
+Kmodule:M00513	Kmodule:LuxQN/CqsS-LuxU-LuxO (quorum sensing) two-component regulatory system 
+Kmodule:M00514	Kmodule:TtrS-TtrR (tetrathionate respiration) two-component regulatory system 
+Kmodule:M00515	Kmodule:FlrB-FlrC (polar flagellar synthesis) two-component regulatory system 
+Kmodule:M00516	Kmodule:SLN1-YPD1-SSK1/SKN7 (osmosensing) two-component regulatory system 
+Kmodule:M00517	Kmodule:RpfC-RpfG (cell-to-cell signaling) two-component regulatory system 
+Kmodule:M00518	Kmodule:GlnK-GlnL (glutamine utilization) two-component regulatory system 
+Kmodule:M00519	Kmodule:YesM-YesN two-component regulatory system 
+Kmodule:M00520	Kmodule:ChvG-ChvI (acidity sensing) two-component regulatory system 
+Kmodule:M00521	Kmodule:CiaH-CiaR two-component regulatory system 
+Kmodule:M00522	Kmodule:SalK-SalR two-component regulatory system 
+Kmodule:M00523	Kmodule:RegB-RegA (redox response) two-component regulatory system 
+Kmodule:M00524	Kmodule:FixL-FixJ (nitrogen fixation) two-component regulatory system 
+Kmodule:M00663	Kmodule:SsrA-SsrB two-component regulatory system 
+Kmodule:M00653	Kmodule:AauS-AauR (acidic amino acids utilization) two-component regulatory system 
+Kmodule:M00654	Kmodule:ParS-ParR (polymyxin-adaptive resistance) two-component regulatory system 
+Kmodule:M00655	Kmodule:AdeS-AdeR two-component regulatory system 
+Kmodule:M00656	Kmodule:VanS-VanR (VanB type vancomycin resistance) two-component regulatory system 
+Kmodule:M00657	Kmodule:VanS-VanR (VanE type vancomycin resistance) two-component regulatory system 
+Kmodule:M00658	Kmodule:VanS-VanR (actinomycete type vancomycin resistance) two-component regulatory system 
+Kmodule:M00716	Kmodule:ArlS-ArlR (virulence regulation) two-component regulatory system 
+Kmodule:M00719	Kmodule:Ihk-Irr (virulence regulation) two-component regulatory system 
+Kmodule:M00733	Kmodule:GraS-GraR (cationic antimicrobial peptide transport) two-component regulatory system 
+Kmodule:M00734	Kmodule:BraS-BraR (bacitracin transport) two-component regulatory system 
+Kmodule:M00770	Kmodule:PfeS-PfeR (enterobactin-dependent iron acquisition) two-component regulatory system 
+Kmodule:M00771	Kmodule:FitF-FitH (insecticidal toxin regulation) two-component regulatory system 
+Kmodule:M00816	Kmodule:NisK-NisR (lantibiotic biosynthesis) two-component regulatory system 
+Kmodule:M00818	Kmodule:FusK-FusR (virulence regulation) two-component regulatory system 
+Kmodule:M00820	Kmodule:SagS-HptB-HsbR (swarming activity and biofilm formation) two-component regulatory system 
+Kmodule:M00839	Kmodule:PdtaS-PdtaR two-component regulatory system 
+Kmodule:M00668	Kmodule:Tetracycline resistance, TetA transporter
+Kmodule:M00667	Kmodule:Tetracycline resistance, efflux pump
+Kmodule:M00709	Kmodule:Macrolide resistance, MacAB-TolC transporter
+Kmodule:M00715	Kmodule:Lincosamide resistance, efflux pump LmrB
+Kmodule:M00713	Kmodule:Fluoroquinolone resistance, efflux pump LfrA
+Kmodule:M00737	Kmodule:Bacitracin resistance, VraDE transporter 
+Kmodule:M00738	Kmodule:Bacitracin resistance, BceAB transporter 
+Kmodule:M00645	Kmodule:Multidrug resistance, efflux pump SmeABC 
+Kmodule:M00646	Kmodule:Multidrug resistance, efflux pump AcrAD-TolC 
+Kmodule:M00647	Kmodule:Multidrug resistance, efflux pump AcrAB-TolC/SmeDEF
+Kmodule:M00648	Kmodule:Multidrug resistance, efflux pump MdtABC 
+Kmodule:M00699	Kmodule:Multidrug resistance, efflux pump AmeABC
+Kmodule:M00701	Kmodule:Multidrug resistance, efflux pump EmrAB
+Kmodule:M00765	Kmodule:Multidrug resistance, efflux pump Bmr
+Kmodule:M00767	Kmodule:Multidrug resistance, efflux pump OqxAB
+Kmodule:M00644	Kmodule:Multidrug resistance, efflux pump MexHI-OprD
+Kmodule:M00717	Kmodule:Multidrug resistance, efflux pump NorA
+Kmodule:M00768	Kmodule:Multidrug resistance, efflux pump GesABC
+Kmodule:M00628	Kmodule:beta-Lactam resistance, AmpC system 
+Kmodule:M00742	Kmodule:Aminoglycoside resistance, protease FtsH
+Kmodule:M00743	Kmodule:Aminoglycoside resistance, protease HtpX
+Kmodule:M00760	Kmodule:Erythromycin resistance, macrolide 2'-phosphotransferase I MphA
+Kmodule:M00766	Kmodule:Streptomycin resistance, deactivating enzyme StrAB
+Kmodule:M00729	Kmodule:Fluoroquinolone resistance, gyrase-protecting protein Qnr
+Kmodule:M00721	Kmodule:Cationic antimicrobial peptide (CAMP) resistance, arnBCADTEF operon 
+Kmodule:M00722	Kmodule:Cationic antimicrobial peptide (CAMP) resistance, phosphoethanolamine transferase PmrC 
+Kmodule:M00723	Kmodule:Cationic antimicrobial peptide (CAMP) resistance, phosphoethanolamine transferase EptB 
+Kmodule:M00724	Kmodule:Cationic antimicrobial peptide (CAMP) resistance, palmitoyl transferase PagP 
+Kmodule:M00727	Kmodule:Cationic antimicrobial peptide (CAMP) resistance, N-acetylmuramoyl-L-alanine amidase AmiA and AmiC 
+Kmodule:M00728	Kmodule:Cationic antimicrobial peptide (CAMP) resistance, envelope protein folding and degrading  factors DegP and DsbA 
+Kmodule:M00754	Kmodule:Nisin resistance, phage shock protein homolog LiaH
+Kmodule:M00687	Kmodule:MAPK (ERK1/2) signaling 
+Kmodule:M00688	Kmodule:MAPK (JNK) signaling 
+Kmodule:M00689	Kmodule:MAPK (p38) signaling 
+Kmodule:M00690	Kmodule:MAPK (ERK5) signaling 
+Kmodule:M00677	Kmodule:Wnt signaling 
+Kmodule:M00682	Kmodule:Notch signaling 
+Kmodule:M00678	Kmodule:Hedgehog signaling 
+Kmodule:M00679	Kmodule:BMP signaling 
+Kmodule:M00680	Kmodule:TGF-beta signaling 
+Kmodule:M00681	Kmodule:Activin signaling 
+Kmodule:M00683	Kmodule:Hippo signaling 
+Kmodule:M00684	Kmodule:JAK-STAT signaling 
+Kmodule:M00695	Kmodule:cAMP signaling 
+Kmodule:M00694	Kmodule:cGMP signaling 
+Kmodule:M00676	Kmodule:PI3K-Akt signaling 
+Kmodule:M00691	Kmodule:DNA damage-induced cell cycle checkpoints 
+Kmodule:M00692	Kmodule:Cell cycle - G1/S transition 
+Kmodule:M00693	Kmodule:Cell cycle - G2/M transition 
+Kmodule:M00685	Kmodule:Apoptotic machinery 
+Kmodule:M00686	Kmodule:Toll-like receptor signaling 
+Kmodule:M00852	Kmodule:Vibrio cholerae pathogenicity signature, toxin coregulated pilus 
+Kmodule:M00850	Kmodule:Vibrio cholerae pathogenicity signature, cholera toxins 
+Kmodule:M00542	Kmodule:EHEC/EPEC pathogenicity signature, T3SS and effectors 
+Kmodule:M00363	Kmodule:EHEC pathogenicity signature, Shiga toxin 
+Kmodule:M00853	Kmodule:ETEC pathogenicity signature, colonization factors
+Kmodule:M00576	Kmodule:ETEC pathogenicity signature, heat-labile and heat-stable enterotoxins
+Kmodule:M00856	Kmodule:Salmonella enterica pathogenicity signature, typhoid toxin
+Kmodule:M00857	Kmodule:Salmonella enterica pathogenicity signature, Vi antigen
+Kmodule:M00575	Kmodule:Pertussis pathogenicity signature, T1SS 
+Kmodule:M00574	Kmodule:Pertussis pathogenicity signature, pertussis toxin 
+Kmodule:M00564	Kmodule:Helicobacter pylori pathogenicity signature, cagA pathogenicity island 
+Kmodule:M00859	Kmodule:Bacillus anthracis pathogenicity signature, anthrax toxin
+Kmodule:M00860	Kmodule:Bacillus anthracis pathogenicity signature, polyglutamic acid capsule biosynthesis
+Kmodule:M00851	Kmodule:Carbapenem resistance 
+Kmodule:M00625	Kmodule:Methicillin resistance 
+Kmodule:M00627	Kmodule:beta-Lactam resistance, Bla system 
+Kmodule:M00745	Kmodule:Imipenem resistance, repression of porin OprD
+Kmodule:M00651	Kmodule:Vancomycin resistance, D-Ala-D-Lac type 
+Kmodule:M00652	Kmodule:Vancomycin resistance, D-Ala-D-Ser type 
+Kmodule:M00704	Kmodule:Tetracycline resistance, efflux pump Tet38
+Kmodule:M00725	Kmodule:Cationic antimicrobial peptide (CAMP) resistance, dltABCD operon 
+Kmodule:M00726	Kmodule:Cationic antimicrobial peptide (CAMP) resistance, lysyl-phosphatidylglycerol (L-PG) synthase MprF 
+Kmodule:M00730	Kmodule:Cationic antimicrobial peptide (CAMP) resistance, VraFG transporter 
+Kmodule:M00744	Kmodule:Cationic antimicrobial peptide (CAMP) resistance, protease PgtE
+Kmodule:M00718	Kmodule:Multidrug resistance, efflux pump MexAB-OprM
+Kmodule:M00639	Kmodule:Multidrug resistance, efflux pump MexCD-OprJ
+Kmodule:M00641	Kmodule:Multidrug resistance, efflux pump MexEF-OprN
+Kmodule:M00642	Kmodule:Multidrug resistance, efflux pump MexJK-OprM
+Kmodule:M00643	Kmodule:Multidrug resistance, efflux pump MexXY-OprM
+Kmodule:M00769	Kmodule:Multidrug resistance, efflux pump MexPQ-OpmE
+Kmodule:M00649	Kmodule:Multidrug resistance, efflux pump AdeABC 
+Kmodule:M00696	Kmodule:Multidrug resistance, efflux pump AcrEF-TolC
+Kmodule:M00697	Kmodule:Multidrug resistance, efflux pump MdtEF-TolC
+Kmodule:M00698	Kmodule:Multidrug resistance, efflux pump BpeEF-OprC
+Kmodule:M00700	Kmodule:Multidrug resistance, efflux pump AbcA
+Kmodule:M00702	Kmodule:Multidrug resistance, efflux pump NorB
+Kmodule:M00714	Kmodule:Multidrug resistance, efflux pump QacA
+Kmodule:M00705	Kmodule:Multidrug resistance, efflux pump MepA
+Kmodule:M00746	Kmodule:Multidrug resistance, repression of porin OmpF
+Kmodule:M00660	Kmodule:Xanthomonas spp. pathogenicity signature, T3SS and effectors
+Kmodule:M00664	Kmodule:Nodulation
+Kmodule:M00611	Kmodule:Oxygenic photosynthesis in plants and cyanobacteria
+Kmodule:M00612	Kmodule:Anoxygenic photosynthesis in purple bacteria
+Kmodule:M00613	Kmodule:Anoxygenic photosynthesis in green nonsulfur bacteria
+Kmodule:M00614	Kmodule:Anoxygenic photosynthesis in green sulfur bacteria
+Kmodule:M00617	Kmodule:Methanogen
+Kmodule:M00618	Kmodule:Acetogen
+Kmodule:M00615	Kmodule:Nitrate assimilation
+Kmodule:M00616	Kmodule:Sulfate-sulfur assimilation

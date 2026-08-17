@@ -1,0 +1,16 @@
+shared name	Module1	Module2	Edge_type	Evolutionary_Pattern	Dominant_Clade	Specificity_Strength	Pct_Edge_Clade_1	Pct_Edge_Clade_2	Pct_Edge_Clade_3	Itemset_num	Group1	Group2	common_Itemset_genes
+S1_M11 (Between_group) S1_M6	S1_M11	S1_M6	Between_group	Transitional	Clade_1	0.639	6.39	2.51	1.1	16	S3_M10	S3_M2	13
+S1_M179 (Between_group) S1_M192	S1_M179	S1_M192	Between_group	Conserved	Clade_1	0.388	3.88	2.94	3.18	1	S3_M29	S3_M14	2
+S1_M179 (Within_group) S1_M35	S1_M179	S1_M35	Within_group	Transitional	Clade_1	0.491	4.91	3.18	1.91	6	S3_M29	S3_M29	8
+S1_M18 (Between_group) S1_M42	S1_M18	S1_M42	Between_group	Conserved	Clade_2	0.418	2.69	4.18	3.13	977	S3_M17	S3_M34	55
+S1_M18 (Between_group) S1_M5	S1_M18	S1_M5	Between_group	Conserved	Clade_2	0.392	3.44	3.92	2.64	1	S3_M17	S3_M5	2
+S1_M192 (Between_group) S1_M2	S1_M192	S1_M2	Between_group	Clade_Specific	Clade_1	0.754	7.54	1.47	0.99	1	S3_M14	S3_M2	2
+S1_M192 (Between_group) S1_M6	S1_M192	S1_M6	Between_group	Transitional	Clade_1	0.595	5.95	2.79	1.26	4	S3_M14	S3_M2	7
+S1_M2 (Within_group) S1_M6	S1_M2	S1_M6	Within_group	Transitional	Clade_1	0.476	4.76	3.4	1.85	54	S3_M2	S3_M2	32
+S1_M216 (Within_group) S1_M307	S1_M216	S1_M307	Within_group	Conserved	Clade_2	0.41	3.4	4.1	2.51	142	S3_M31	S3_M31	15
+S1_M221 (Within_group) S1_M32	S1_M221	S1_M32	Within_group	Transitional	Clade_1	0.581	5.81	2.4	1.79	4	S3_M27	S3_M27	6
+S1_M307 (Between_group) S1_M44	S1_M307	S1_M44	Between_group	Clade_Specific	Clade_1	0.73	7.3	1.42	1.28	1	S3_M31	S3_M36	2
+S1_M32 (Between_group) S1_M44	S1_M32	S1_M44	Between_group	Conserved	Clade_1	0.427	4.27	3.11	2.62	2	S3_M27	S3_M36	4
+S1_M5 (Between_group) S1_M76	S1_M5	S1_M76	Between_group	Conserved	Clade_3	0.37	2.95	3.35	3.7	7	S3_M5	S3_M58	8
+S1_M59 (Within_group) S1_M60	S1_M59	S1_M60	Within_group	Conserved	Clade_1	0.419	4.19	3.14	2.68	455	S3_M47	S3_M47	39
+S1_M6 (Between_group) S1_M74	S1_M6	S1_M74	Between_group	Transitional	Clade_1	0.489	4.89	2.6	2.51	1	S3_M2	S3_M14	2
