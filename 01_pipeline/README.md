@@ -45,7 +45,7 @@ bash New_Run_paired_TPM_size.sh
 ### Step 4: TPM Integration & Quality Control
 Aggregates the individual `TPM.txt` outputs into a unified expression matrix. This script applies critical quality controls: filtering out low-expressed genes, capping overly large datasets to 30 samples to prevent size bias, and discarding datasets with fewer than 15 valid samples.
 
-💡 Precaution (Dataset Size Balancing): To prevent statistical bias from oversized datasets during network inference, this script enforces a strict sample balancing mechanism: it caps large datasets to a maximum of 30 samples and completely discards datasets with fewer than 15 valid samples.
+> 💡 Precaution (Dataset Size Balancing): To prevent statistical bias from oversized datasets during network inference, this script enforces a strict sample balancing mechanism: it caps large datasets to a maximum of 30 samples and completely discards datasets with fewer than 15 valid samples.
 
 ```bash
 Rscript Combine_TPM.R
@@ -58,7 +58,7 @@ Rscript Combine_TPM.R
 ### Step 5: Network Inference & Hyperedge Mining
 *This is the most computationally intensive step.* It calculates FDR-corrected Pearson correlations, partitions the networks using Affinity Propagation (AP) clustering, and employs frequent itemset mining (Eclat/Apriori) to discover multi-gene hyperedges. It utilizes `data.table` and multi-core `mclapply` for extreme memory optimization.
 
-Precaution: The script utilizes data.table for in-memory operations and mclapply for parallel string concatenation. Monitor your memory usage closely during the closed itemsets and maximal itemsets mining phases.
+> 💡 Precaution: The script utilizes data.table for in-memory operations and mclapply for parallel string concatenation. Monitor your memory usage closely during the closed itemsets and maximal itemsets mining phases.
 
 ```bash
 Rscript "From integrating the TPM files to Apriori (histogram-based statistical network features).R"
@@ -71,7 +71,7 @@ Rscript "From integrating the TPM files to Apriori (histogram-based statistical 
 ### Step 6: Internal Topological Benchmarking
 Calculates network topological properties (Modularity, Clustering Coefficient, Density) across varying Universality ($U$) cutoffs. Identifies the empirical stabilization point ($U=15$) where the core network architecture forms.
 
-💡 Precaution: This script dynamically detects available CPU cores and allocates availableCores() - 3 to the furrr backend. If running on a constrained environment or a personal laptop, manually adjust num_cores inside the script to avoid system freezing.
+> 💡 Precaution: This script dynamically detects available CPU cores and allocates availableCores() - 3 to the furrr backend. If running on a constrained environment or a personal laptop, manually adjust num_cores inside the script to avoid system freezing.
 
 ```bash
 Rscript "Internal index compares differences in network types (such as modularity, etc.).R"
