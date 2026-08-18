@@ -20,14 +20,17 @@ bash Ecoli_pangenome_new.sh
 ```
 
 ### Step 2: GEO Metadata Retrieval
-Batch-downloads and parses experimental metadata (strain, genotype, growth conditions) for all 106 GSE datasets using the `GEOquery` package, building a robust metadata registry.
+Batch-downloads and parses experimental metadata (strain, genotype, growth conditions) for all 106 GSE datasets using the GEOquery package, building a robust metadata registry.
 
 ```bash
 Rscript "Backup and download the description information of the GEO data.R"
 ```
 
-### Step 3: Automated Transcript Quantification
-Executes the core quantification process (prefetching SRA, converting to FASTQ, and Salmon quantification). The wrapper scripts iterate through all dataset directories, automatically detecting single-end vs. paired-end formats, and feature a fail-safe mechanism (checking if `TPM.txt` < 1MB) to re-run incomplete samples.
+### Step 3: Automated Transcript Quantification (Single-end & Paired-end)
+Executes the core quantification process (prefetching SRA, converting to FASTQ, and Salmon quantification).
+💡 Crucial Operational Guide: > 1. For each target GSE directory (e.g., GSE12345/), you must ensure a corresponding SRR_Acc_List.txt file (containing all target SRR accession IDs) is pre-placed inside.
+2. You must distribute the respective core script (single_Ecoli.sh or paired_Ecoli.sh) into each GSE subfolder before running the batch wrappers.
+3. The wrapper scripts feature a fail-safe size-check mechanism (re-running if TPM.txt is missing or < 1MB). To conserve disk space, intermediate .sra and .fastq files are automatically deleted after successful quantification.
 
 ```bash
 # Run for single-end datasets
