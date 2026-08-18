@@ -19,8 +19,6 @@ By integrating 106 diverse transcriptomic datasets, we reconstruct condition-inv
   - [Track A: Full Pipeline (From Raw Data)](#track-a-full-pipeline-from-raw-data)
   - [Track B: Fast Reproduction (From Processed Matrices)](#track-b-fast-reproduction-from-processed-matrices)
 - [Detailed Script Index](#-detailed-script-index)
-  - [Part 1: Pan-Network Construction & Analysis](#part-1-pan-network-construction--analysis)
-  - [Part 2: Manuscript Figures & Tables](#part-2-manuscript-figures--tables)
 - [Data Availability](#-data-availability)
 - [Citation](#-citation)
 - [License](#-license)
@@ -33,13 +31,25 @@ Traditional pairwise co-expression networks often struggle with noise and fail t
 
 This project provides:
 1. **Hypergraph Construction Pipeline**: Uses Frequent Itemset Mining (FIM / Apriori) to discover recurring multi-gene co-expression hyperedges across 106 GEO transcriptomic datasets.
-2. **Core vs. Adaptive Network Partitioning**: Identifies stable transcriptional backbones (high universality $U$) versus conditionally plastic responses.
+2. **Bipartite Organizational Principle of the Core Network**: By profiling the condition-specific activation states (modularity) of core communities across 106 transcriptomic datasets, the framework uncovers a bipartite physiological architecture. It systematically distinguishes between an **invariant backbone** (highly independent and universally activated units, including Region 1 which captures the vast majority of the first 11 modules except for modules 6, 74, and 114) and **adaptive plasticity** (stress-responsive communities, such as Region 2 and 3 modules, that undergo dynamic topological rewiring and coordinate co-activation under environmental transitions or sublethal stresses).
 3. **Downstream Characterization**: Functional enrichment, topological modularity analysis, and cross-mapping with RegulonDB and KEGG pathways.
 
 ---
 
+## 📁 Repository Structure
 
+The project is organized into five main directories to ensure full reproducibility and modularity. 
 
+**🌟 Core Workflow:**
+* **[`01_pipeline/`](./01_pipeline)**: This is the main analytical engine of the project. It contains the primary R and Bash scripts for GEO metadata acquisition, TPM integration, hypergraph construction, power-law decoupling, and modularity evaluation across the 106 datasets. Readers looking to understand or rerun the core methodology should start here.
+
+**Downstream Analysis & Assets:**
+* **[`02_figures/`](./02_figures)**: Contains the visualization scripts utilized to generate the manuscript's main figures and supplementary charts (e.g., density distributions, auto-clustered heatmaps, and Sankey diagrams).
+* **[`03_data/`](./03_data)**: Houses pre-processed intermediate data, expression matrices, and object files (`.RDS`) to facilitate fast track reproduction without needing to re-download raw GEO files.
+* **[`04_Cyto/`](./04_Cyto)**: Stores the generated node and edge tables explicitly formatted for network topology visualization in Gephi and Cytoscape.
+* **[`05_Annotation/`](./05_Annotation)**: Contains functional annotation references, including mapped structures from RegulonDB (operons/regulons) and pan-genome metadata from MBGD.
+
+---
 
 ## 📦 Prerequisites & Dependencies
 
@@ -48,9 +58,10 @@ The scripts are developed primarily in **R** and **Bash**. Ensure you have R (>=
 ```r
 # Data mining & Network analysis
 install.packages(c("arules", "igraph", "dplyr", "tidyr", "data.table"))
+install.packages(c("future", "furrr")) # Required for parallel network scanning
 
 # Visualization
-install.packages(c("ggplot2", "pheatmap", "ggalluvial", "RColorBrewer"))
+install.packages(c("ggplot2", "patchwork", "ggraph", "tidygraph", "RColorBrewer"))
 
 # Bioconductor packages
 if (!requireNamespace("BiocManager", quietly = TRUE))
