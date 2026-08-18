@@ -28,10 +28,10 @@ Rscript "Backup and download the description information of the GEO data.R"
 
 ### Step 3: Automated Transcript Quantification (Single-end & Paired-end)
 Executes the core quantification process (prefetching SRA, converting to FASTQ, and Salmon quantification).
-💡 Crucial Operational Guide: > 
-1. For each target GSE directory (e.g., GSE12345/), you must ensure a corresponding SRR_Acc_List.txt file (containing all target SRR accession IDs) is pre-placed inside.
-2. You must distribute the respective core script (single_Ecoli.sh or paired_Ecoli.sh) into each GSE subfolder before running the batch wrappers.
-3. The wrapper scripts feature a fail-safe size-check mechanism (re-running if TPM.txt is missing or < 1MB). To conserve disk space, intermediate .sra and .fastq files are automatically deleted after successful quantification.
+> 💡 Crucial Operational Guide:
+> 1. For each target GSE directory (e.g., GSE12345/), you must ensure a corresponding SRR_Acc_List.txt file (containing all target SRR accession IDs) is pre-placed inside.
+> 2. You must distribute the respective core script (single_Ecoli.sh or paired_Ecoli.sh) into each GSE subfolder before running the batch wrappers.
+> 3. The wrapper scripts feature a fail-safe size-check mechanism (re-running if TPM.txt is missing or < 1MB). To conserve disk space, intermediate .sra and .fastq files are automatically deleted after successful quantification.
 
 ```bash
 # 1. Ensure core scripts (single_Ecoli.sh / paired_Ecoli.sh) and SRR_Acc_List.txt are placed inside each GSE subfolder, then run:
