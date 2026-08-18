@@ -18,7 +18,6 @@ By integrating 106 diverse transcriptomic datasets, we reconstruct condition-inv
 - [Quick Start / Workflow](#-quick-start--workflow)
   - [Track A: Full Pipeline (From Raw Data)](#track-a-full-pipeline-from-raw-data)
   - [Track B: Fast Reproduction (From Processed Matrices)](#track-b-fast-reproduction-from-processed-matrices)
-- [Detailed Script Index](#-detailed-script-index)
 - [Data Availability](#-data-availability)
 - [Citation](#-citation)
 - [License](#-license)
@@ -31,7 +30,7 @@ Traditional pairwise co-expression networks often struggle with noise and fail t
 
 This project provides:
 1. **Hypergraph Construction Pipeline**: Uses Frequent Itemset Mining (FIM / Apriori) to discover recurring multi-gene co-expression hyperedges across 106 GEO transcriptomic datasets.
-2. **Bipartite Organizational Principle of the Core Network**: By profiling the condition-specific activation states (modularity) of core communities across 106 transcriptomic datasets, the framework uncovers a bipartite physiological architecture. It systematically distinguishes between an **invariant backbone** (highly independent and universally activated units, including Region 1 which captures the vast majority of the first 11 modules except for modules 6, 74, and 114) and **adaptive plasticity** (stress-responsive communities, such as Region 2 and 3 modules, that undergo dynamic topological rewiring and coordinate co-activation under environmental transitions or sublethal stresses).
+2. **Bipartite Organizational Principle of the Core Network**: By systematically profiling the condition-specific activation states (modularity) of core communities across diverse datasets, the framework is capable of decoupling the network into a bipartite physiological architecture. It clearly distinguishes between an **invariant backbone** (highly independent and universally activated core units) and **adaptive plasticity** (stress-responsive communities that undergo dynamic topological rewiring and coordinated co-activation under environmental transitions).
 3. **Downstream Characterization**: Functional enrichment, topological modularity analysis, and cross-mapping with RegulonDB and KEGG pathways.
 
 ---
