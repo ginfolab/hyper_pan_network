@@ -15,9 +15,6 @@ By integrating 106 diverse transcriptomic datasets, we reconstruct condition-inv
 - [Overview](#-overview)
 - [Repository Structure](#-repository-structure)
 - [Prerequisites & Dependencies](#-prerequisites--dependencies)
-- [Quick Start / Workflow](#-quick-start--workflow)
-  - [Track A: Full Pipeline (From Raw Data)](#track-a-full-pipeline-from-raw-data)
-  - [Track B: Fast Reproduction (From Processed Matrices)](#track-b-fast-reproduction-from-processed-matrices)
 - [Data Availability](#-data-availability)
 - [Citation](#-citation)
 - [License](#-license)
@@ -37,22 +34,19 @@ This project provides:
 
 ## 📁 Repository Structure
 
-The project is organized into five main directories to ensure full reproducibility and modularity. 
+The project is organized into five main directories to ensure full reproducibility and modularity. Each folder contains its own detailed `README.md` for specific execution guidelines:
 
-**🌟 Core Workflow:**
-* **[`01_pipeline/`](./01_pipeline)**: This is the main analytical engine of the project. It contains the primary R and Bash scripts for GEO metadata acquisition, TPM integration, hypergraph construction, power-law decoupling, and modularity evaluation across the 106 datasets. Readers looking to understand or rerun the core methodology should start here.
-
-**Downstream Analysis & Assets:**
-* **[`02_figures/`](./02_figures)**: Contains the visualization scripts utilized to generate the manuscript's main figures and supplementary charts (e.g., density distributions, auto-clustered heatmaps, and Sankey diagrams).
-* **[`03_data/`](./03_data)**: Houses pre-processed intermediate data, expression matrices, and object files (`.RDS`) to facilitate fast track reproduction without needing to re-download raw GEO files.
-* **[`04_Cyto/`](./04_Cyto)**: Stores the generated node and edge tables explicitly formatted for network topology visualization in Gephi and Cytoscape.
-* **[`05_Annotation/`](./05_Annotation)**: Contains functional annotation references, including mapped structures from RegulonDB (operons/regulons) and pan-genome metadata from MBGD.
+* **[`01_pipeline/`](./01_pipeline)**: The main analytical engine containing R and Bash scripts for GEO metadata acquisition, TPM integration, hypergraph construction, power-law decoupling, and modularity evaluation.
+* **[`02_figures/`](./02_figures)**: Visualization scripts utilized to generate the manuscript's main figures and supplementary charts (e.g., density distributions, auto-clustered heatmaps, and Sankey diagrams).
+* **[`03_data/`](./03_data)**: Pre-processed intermediate data, expression matrices, and object files (`.RDS`) to facilitate direct inspection and reproduction.
+* **[`04_Cyto/`](./04_Cyto)**: Node and edge tables explicitly formatted for network topology visualization in Gephi and Cytoscape.
+* **[`05_Annotation/`](./05_Annotation)**: Functional annotation references, including mapped structures from RegulonDB (operons/regulons) and pan-genome metadata from MBGD.
 
 ---
 
 ## 📦 Prerequisites & Dependencies
 
-The scripts are developed primarily in **R** and **Bash**. Ensure you have R (>= 4.0.0) installed along with the following packages:
+The scripts are developed primarily in **R** and **Bash**. Ensure you have R (>= 4.0.0) installed along with the required packages:
 
 ```r
 # Data mining & Network analysis
