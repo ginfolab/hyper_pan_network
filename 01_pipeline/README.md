@@ -28,11 +28,13 @@ Rscript "Backup and download the description information of the GEO data.R"
 
 ### Step 3: Automated Transcript Quantification (Single-end & Paired-end)
 Executes the core quantification process (prefetching SRA, converting to FASTQ, and Salmon quantification).
-💡 Crucial Operational Guide: > 1. For each target GSE directory (e.g., GSE12345/), you must ensure a corresponding SRR_Acc_List.txt file (containing all target SRR accession IDs) is pre-placed inside.
+💡 Crucial Operational Guide: > 
+1. For each target GSE directory (e.g., GSE12345/), you must ensure a corresponding SRR_Acc_List.txt file (containing all target SRR accession IDs) is pre-placed inside.
 2. You must distribute the respective core script (single_Ecoli.sh or paired_Ecoli.sh) into each GSE subfolder before running the batch wrappers.
 3. The wrapper scripts feature a fail-safe size-check mechanism (re-running if TPM.txt is missing or < 1MB). To conserve disk space, intermediate .sra and .fastq files are automatically deleted after successful quantification.
 
 ```bash
+# 1. Ensure core scripts (single_Ecoli.sh / paired_Ecoli.sh) and SRR_Acc_List.txt are placed inside each GSE subfolder, then run:
 # Run for single-end datasets
 bash New_Run_single_TPM_size.sh
 
@@ -42,6 +44,8 @@ bash New_Run_paired_TPM_size.sh
 
 ### Step 4: TPM Integration & Quality Control
 Aggregates the individual `TPM.txt` outputs into a unified expression matrix. This script applies critical quality controls: filtering out low-expressed genes, capping overly large datasets to 30 samples to prevent size bias, and discarding datasets with fewer than 15 valid samples.
+
+💡 Precaution (Dataset Size Balancing): To prevent statistical bias from oversized datasets during network inference, this script enforces a strict sample balancing mechanism: it caps large datasets to a maximum of 30 samples and completely discards datasets with fewer than 15 valid samples.
 
 ```bash
 Rscript Combine_TPM.R
@@ -54,6 +58,8 @@ Rscript Combine_TPM.R
 ### Step 5: Network Inference & Hyperedge Mining
 *This is the most computationally intensive step.* It calculates FDR-corrected Pearson correlations, partitions the networks using Affinity Propagation (AP) clustering, and employs frequent itemset mining (Eclat/Apriori) to discover multi-gene hyperedges. It utilizes `data.table` and multi-core `mclapply` for extreme memory optimization.
 
+Precaution: The script utilizes data.table for in-memory operations and mclapply for parallel string concatenation. Monitor your memory usage closely during the closed itemsets and maximal itemsets mining phases.
+
 ```bash
 Rscript "From integrating the TPM files to Apriori (histogram-based statistical network features).R"
 ```
@@ -64,6 +70,8 @@ Rscript "From integrating the TPM files to Apriori (histogram-based statistical 
 
 ### Step 6: Internal Topological Benchmarking
 Calculates network topological properties (Modularity, Clustering Coefficient, Density) across varying Universality ($U$) cutoffs. Identifies the empirical stabilization point ($U=15$) where the core network architecture forms.
+
+💡 Precaution: This script dynamically detects available CPU cores and allocates availableCores() - 3 to the furrr backend. If running on a constrained environment or a personal laptop, manually adjust num_cores inside the script to avoid system freezing.
 
 ```bash
 Rscript "Internal index compares differences in network types (such as modularity, etc.).R"
