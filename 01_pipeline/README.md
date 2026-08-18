@@ -2,9 +2,10 @@
 
 This directory contains the core analytical engine of the *E. coli* hypergraph pan-network project. The scripts provided here form a complete, end-to-end pipeline—from raw data acquisition to hypergraph construction and biological benchmarking.
 
-**⚠️ Important Pre-requisites:**
-* Ensure your working directory is set to the root of this repository before executing the R scripts.
-* The pipeline utilizes parallel computing. Please ensure your machine has sufficient RAM (>= 32GB recommended) and adjust the CPU core allocations (`workers` / `mc.cores`) in the scripts based on your hardware limits.
+## ⚠️ Global Precautions & Setup
+1. **Hardcoded Paths**: The scripts currently contain environment-specific absolute paths (e.g., `/Users/jiangzhenbo/...` or `/lustre/home/...`). **You must modify `setwd()` and index paths** in the scripts to match your local or server directory structure before execution.
+2. **Conda Environments**: The Shell scripts assume the presence of a Conda environment named `salmon`. Ensure you have Conda installed and the environment properly configured (`source ~/anaconda3/bin/activate salmon`).
+3. **Hardware Requirements**: The pipeline utilizes heavy parallel computing (`mclapply`, `furrr`). A machine with **>= 32GB RAM** and a multi-core CPU is strongly recommended.
 
 ---
 
@@ -12,6 +13,7 @@ This directory contains the core analytical engine of the *E. coli* hypergraph p
 
 ### Step 1: Pan-genome Reference & Indexing
 Extracts the *E. coli* pan-genome sequences from the MBGD database, formats them into a standard FASTA file, and builds the mapping index using Salmon.
+> 💡 **Precaution:** Ensure MySQL is accessible for querying the MBGD database.
 
 ```bash
 bash Ecoli_pangenome_new.sh
